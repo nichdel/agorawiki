@@ -1,1 +1,1 @@
-[[Full-Logical-Ruleset]]
+[[Full Logical Ruleset]]
