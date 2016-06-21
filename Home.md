@@ -1,1 +1,7 @@
-[[Full Logical Ruleset]]
+
+Rules
+
+* [[Full Logical Ruleset]]
+
+* [[Short Logical Ruleset]]
+
