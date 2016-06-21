@@ -1,4 +1,3 @@
-
 Rules
 
 * [[Full Logical Ruleset]]
