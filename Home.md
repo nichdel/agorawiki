@@ -8,11 +8,11 @@ Rules
 
 Other Current Reports
 
-* [Organization Report]
+* [[Organization Report]]
 
-* [Charter Report]
+* [[Charter Report]]
 
-* [Ribbons]] Report
+* [[Ribbons]] Report
 
 * [[Payroll and Metareport]]
 
