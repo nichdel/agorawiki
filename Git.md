@@ -12,5 +12,5 @@ Find the file(s) you want in the new repository and edit as you please. Then, to
 
     git add FILE_YOU_CHANGED
     git commit -m "DESCRIBE YOUR CHANGE"
-    git pull -X ours
+    git pull --no-edit -X ours
     git push https://NAME:PASSWORD@github.com/nichdel/agorawiki.git
