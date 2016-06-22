@@ -10,7 +10,7 @@ Rules
 
 ----
 
-Other Current Reports
+Reports
 
 * [[Agoran Credit Union Report]]
 
@@ -18,7 +18,11 @@ Other Current Reports
 
 * [[Charter Report]]
 
+Tailor
+
 * [[Ribbons]] Report
+
+ADoP
 
 * [[Payroll and Metareport]]
 
