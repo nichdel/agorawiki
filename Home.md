@@ -1,5 +1,7 @@
 This wiki uses [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you need to practice things, please do it in the [[sandbox]].
 
+If you need to do tables, consider [using this markdown table generator](http://www.tablesgenerator.com/markdown_tables). It has a gui, and can import markdown or csv.
+
 ----
 
 Rules
