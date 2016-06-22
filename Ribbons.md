@@ -6,20 +6,20 @@ I award a Gray Ribbon to Sprocklem (because of... reasons).
 This is a list of all persons owning Ribbons, detailing which ribbons
 they possess:
 
-                       ROGCBMUVIPLWKY
-    ais523              OG  MUV P  K
-    aranea             ROGCBM V PLW Y
-    Bede                    M     W
-    G.                 ROGCBM   PLW Y
-    Gaelan                  M       Y
-    Murphy                C         Y
-    omd                   C  U     KY
-    scshunt            RO CBMU  P  KY
-    stadjer                       W
-    Sprocklem               M     W Y
-    Tiger                  BM
-    the Warrigal            M
-
+|              | R | O | G | C | B | M | U | V | I | P | L | W | K | Y |
+|--------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| ais523       |   | O | G |   |   | M | U | V |   | P |   |   | K |   |
+| aranea       | R | O | G | C | B | M |   | V |   | P | L | W |   | Y |
+| Bede         |   |   |   |   |   | M |   |   |   |   |   | W |   |   |
+| G.           | R | O | G | C | B | M |   |   |   | P | L | W |   | Y |
+| Gaelan       |   |   |   |   |   | M |   |   |   |   |   |   |   | Y |
+| Murphy       |   |   |   | C |   |   |   |   |   |   |   |   |   | Y |
+| omd          |   |   |   | C |   |   | U |   |   |   |   |   | K | Y |
+| scshunt      | R | O |   | C | B | M | U |   |   | P |   |   | K | Y |
+| stadjer      |   |   |   |   |   |   |   |   |   |   |   | W |   |   |
+| Sprocklem    |   |   |   |   |   | M |   |   |   |   |   | W |   | Y |
+| Tiger        |   |   |   |   | B | M |   |   |   |   |   |   |   |   |
+| the Warrigal |   |   |   |   |   | M |   |   |   |   |   |   |   |   |
 
 The rules for Ribbons are set out in rule 2438. A quick guide to how
 most Ribbons work: various events cause you to "earn" a Ribbon; you
