@@ -8,6 +8,8 @@ Rules
 
 Other Current Reports
 
+* [[Agoran Credit Union Report]]
+
 * [[Organization Report]]
 
 * [[Charter Report]]
