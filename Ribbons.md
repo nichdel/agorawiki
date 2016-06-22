@@ -7,11 +7,8 @@ This is a list of all persons owning Ribbons, detailing which ribbons
 they possess:
 
 | | R | O | G | C | B | M | U | V | I | P | L | W | K | Y |
-
 |--------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-
-| ais523       |   | O | G |   |   | M | U | V |   | P |   
-|   | K |   |
+| ais523       |   | O | G |   |   | M | U | V |   | P |   |   | K |   |
 | aranea       | R | O | G | C | B | M |   | V |   | P | L | W |   | Y |
 | Bede         |   |   |   |   |   | M |   |   |   |   |   | W |   |   |
 | G.           | R | O | G | C | B | M |   |   |   | P | L | W |   | Y |
