@@ -7,3 +7,5 @@
 |A|B|C|AA|
 | --- | --- | --- | --- |
 |Q|W   |    E | RR     |
+
+Subdirectory are also easily possible: [[CFJs/Home]]
