@@ -2,6 +2,9 @@ This wiki uses [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-
 
 If you need to do tables, consider [using this markdown table generator](http://www.tablesgenerator.com/markdown_tables). It has a gui, and can import markdown or csv.
 
+
+If you want to make changes via git for authentication or automation purposes, see [[this page | Git]]
+
 ----
 
 Rules
