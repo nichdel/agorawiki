@@ -11,6 +11,6 @@ First you need a copy of the repo:
 Find the file(s) you want in the new repository and edit as you please. Then, to send your update we'll make sure we have the newest versions of everything except the files we've changed, then push our own business upstream. Note that you could be overwriting someone else's work if they've also updated these files.
 
     git add FILE_YOU_CHANGED
-    git commit -m "DESCRIBE YOUR CHANGE"
+    git commit -m "DESCRIBE YOUR CHANGE HERE"
     git pull --no-edit -X ours
     git push https://NAME:PASSWORD@github.com/nichdel/agorawiki.git
