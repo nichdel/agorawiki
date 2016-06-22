@@ -16,6 +16,8 @@ Other Current Reports
 
 * [[Payroll and Metareport]]
 
+Secretary
+
 * Secretary's [[Monthly Report]]
 
 * Secretary's [[Weekly Report]]
@@ -23,3 +25,4 @@ Other Current Reports
 ----
 
 Historical Reports
+
