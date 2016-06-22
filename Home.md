@@ -1,3 +1,7 @@
+This wiki uses [markdown](https://daringfireball.net/projects/markdown/). If you need to practice things, please do it in the [[sandbox]].
+
+----
+
 Rules
 
 * [[Full Logical Ruleset]]
