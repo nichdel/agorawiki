@@ -1,3 +1,12 @@
+[[_TOC_]]
+
+
+
+Subdirectory are also easily possible: [[CFJs/Home]]
+
+Tables
+=
+
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
@@ -8,6 +17,13 @@
 | --- | --- | --- | --- |
 |Q|W   |    E | RR     |
 
-Subdirectory are also easily possible: [[CFJs/Home]]
+Two
+=
 
-Username change?
+Nothing wrong with me
+
+Three
+=
+
+Other stuff
+
