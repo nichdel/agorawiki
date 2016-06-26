@@ -37,12 +37,11 @@ They are added at the Rulekeepor's discretion.
 
 ----------------------------------------------------------------------
 
-The Game of Agora
-=
+# The Game of Agora
 
-Rule 101/17 (Power=3)
-The Game of Agora
-==
+
+## Rule 101/17 (Power=3) The Game of Agora
+
 
       Agora is a game of Nomic, wherein Persons, acting in accordance
       with the Rules, communicate their game Actions and/or results of
@@ -89,10 +88,8 @@ Amended(15) by Proposal 7596 (omd), 14 September 2013
 Retitled and amended(16) by Proposal 7614 (G.), 13 January 2014
 Amended(17) by Proposal 7743 (G.), 12 May 2015
 
-----------------------------------------------------------------------
+## Rule 869/38 (Power=3) How to Join and Leave Agora
 
-Rule 869/38 (Power=3)
-How to Join and Leave Agora
 
       Any organism that is generally capable of freely originating and
       communicating independent thoughts and ideas is a person.  Rules
@@ -176,10 +173,7 @@ Amended(36) by Proposal 7619 (woggle), 24 January 2014
 Amended(37) by Proposal 7647 (omd), 3 June 2014
 Amended(38) by Proposal 7734 (G.), 2 May 2015
 
-----------------------------------------------------------------------
-
-Rule 2141/9 (Power=3)
-Role and Attributes of Rules
+## Rule 2141/9 (Power=3) Role and Attributes of Rules
 
       A rule is a type of instrument with the capacity to govern the
       game generally, and is always taking effect.  A rule's content
@@ -224,10 +218,7 @@ Amended(7) by Proposal 7420 (omd), 27 March 2013
 Amended(8) by Proposal 7614 (G.), 13 January 2014
 Amended(9) by Proposal 7759 (G.), 19 July 2015
 
-----------------------------------------------------------------------
-
-Rule 478/32 (Power=3)
-Fora
+## Rule 478/32 (Power=3) Fora
 
       Freedom of speech being essential for the healthy functioning of
       any non-Imperial nomic, it is hereby resolved that no Player
@@ -499,10 +490,7 @@ Amended(30) by Proposal 7073 (woggle), 16 June 2011
 Amended(31) by Proposal 7614 (G.), 13 January 2014
 Amended(32) by Proposal 7632 (scshunt), 1 May 2014
 
-----------------------------------------------------------------------
-
-Rule 2449/0 (Power=3)
-Winning the Game
+## Rule 2449/0 (Power=3) Winning the Game
 
       When the Rules state that a Player or Players win the game,
       those players win the game; specifically they win the Round
@@ -516,10 +504,7 @@ Winning the Game
 History:
 Created by Proposal 7760 (G.), 19 July 2015
 
-----------------------------------------------------------------------
-
-Rule 1698/4 (Power=3)
-Agora Is A Nomic
+## Rule 1698/4 (Power=3) Agora Is A Nomic
 
       Agora is ossified if it is IMPOSSIBLE for any reasonable
       combination of actions by players to cause arbitrary rule
@@ -542,14 +527,9 @@ Amended(2) by Proposal 7075 (scshunt), 16 June 2011
 Amended(3) by Proposal 7088 (omd), 23 July 2011
 Amended(4) by Proposal 7628 (ais523), 7 April 2014
 
-----------------------------------------------------------------------
+# Mutability
 
-======================================================================
-Mutability
-----------------------------------------------------------------------
-
-Rule 2125/8 (Power=3)
-Regulation Regulations
+## Rule 2125/8 (Power=3) Regulation Regulations
 
       An action is regulated if: (1) the Rules limit, allow, enable,
       or permit its performance; (2) describe the circumstances under
@@ -572,10 +552,7 @@ Amended(6) by Proposal 6269 (Pavitra), 11 May 2009
 Amended(7) by Proposal 6327 (Murphy), 29 May 2009
 Amended(8) by Proposal 7614 (G.), 13 January 2014
 
-----------------------------------------------------------------------
-
-Rule 1688/8 (Power=3)
-Power
+## Rule 1688/8 (Power=3) Power
 
       The Power of an entity is a non-negative rational number.  An
       Instrument is an entity with positive Power.
@@ -608,10 +585,7 @@ Amended(6) by Proposal 6815 (Murphy, ais523), 4 September 2010
 Amended(7) by Proposal 7759 (G.), 19 July 2015
 Amended(8) by Proposal 7781 (the Warrigal), 14 August 2015
 
-----------------------------------------------------------------------
-
-Rule 2140/1 (Power=3)
-Power Controls Mutability
+## Rule 2140/1 (Power=3) Power Controls Mutability
 
       No entity with power below the power of this rule can
 
@@ -637,10 +611,7 @@ Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 Amended(1) by Proposal 6992 (Murphy, omd), 10 April 2011
 
-----------------------------------------------------------------------
-
-Rule 1030/11 (Power=3.2)
-Precedence between Rules
+## Rule 1030/11 (Power=3.2) Precedence between Rules
 
       In a conflict between Rules, the conflict shall be resolved by
       performing the following comparisons in the sequence written in
@@ -710,10 +681,7 @@ Amended(9) by cleaning (Murphy), 16 August 2009
 Amended(10) by Proposal 7235 (omd), 10 June 2012
 Amended(11) by Proposal 7334 (woggle), 27 March 2013
 
-----------------------------------------------------------------------
-
-Rule 2240/1 (Power=3)
-No Cretans Need Apply
+## Rule 2240/1 (Power=3) No Cretans Need Apply
 
       In a conflict between clauses of the same Rule, if exactly one
       claims precedence over the other, then it takes precedence;
@@ -723,14 +691,9 @@ History:
 Created by Proposal 6073 (Murphy), 22 February 2009
 Amended(1) by Proposal 6429 (Murphy), 18 August 2009
 
-----------------------------------------------------------------------
+# Mechanisms
 
-======================================================================
-Mechanisms
-----------------------------------------------------------------------
-
-Rule 105/12 (Power=3)
-Rule Changes
+## Rule 105/12 (Power=3) Rule Changes
 
       Where permitted by other rules, an instrument generally can,
       as part of its effect,
@@ -851,10 +814,7 @@ Amended(10) by Proposal 7647 (omd), 3 June 2014
 Amended(11) by Proposal 7710 (G.), 3 November 2014
 Amended(12) by Proposal 7759 (G.), 19 July 2015
 
-----------------------------------------------------------------------
-
-Rule 106/36 (Power=3)
-Adopting Proposals
+## Rule 106/36 (Power=3) Adopting Proposals
 
       When a decision about whether to adopt a proposal is resolved,
       if the outcome is ADOPTED, then the proposal in question is
@@ -940,10 +900,7 @@ Amended(34) by Proposal 7086 (G., omd), 23 July 2011
 Amended(35) by Proposal 7246 (omd), 10 June 2012
 Amended(36) by Proposal 7778 (scshunt), 14 August 2014
 
-----------------------------------------------------------------------
-
-Rule 2162/6 (Power=2)
-Switches
+## Rule 2162/6 (Power=2) Switches
 
       A type of switch is a property that the rules define as a
       switch, and specify the following:
@@ -997,10 +954,7 @@ Amended(4) by Proposal 7425 (Walker, G., Murphy, omd), 27 May 2013
 Amended(5) by Proposal 7649 (omd), 3 June 2014
 Amended(6) by Proposal 7735 (aranea), 2 May 2015
 
-----------------------------------------------------------------------
-
-Rule 1728/33 (Power=3)
-Dependent Actions
+## Rule 1728/33 (Power=3) Dependent Actions
 
       A rule which purports to allow a person (the performer) to
       perform an action by a set of one or more of the following
@@ -1095,10 +1049,7 @@ Amended(31) by Proposal 6981 (Murphy, omd), 10 April 2011
 Amended(32) by Proposal 7045 (Walker), 16 May 2011
 Amended(33) by Proposal 7606 (G.), 13 December 2013
 
-----------------------------------------------------------------------
-
-Rule 2124/18 (Power=2)
-Agoran Satisfaction
+## Rule 2124/18 (Power=2) Agoran Satisfaction
 
       A Supporter of a dependent action is an eligible entity who has
       publicly posted (and not withdrawn) support (syn. "consent") for
@@ -1162,11 +1113,7 @@ Amended(16) by cleaning (Keba), 20 August 2010
 Amended(17) by Proposal 7610 (G.), 22 December 2013
 Amended(18) by Proposal 7668 (scshunt), 3 June 2014
 
-----------------------------------------------------------------------
-
-======================================================================
-Politics
-----------------------------------------------------------------------
+# Politics
 
 Rule 1006/37 (Power=2)
 Offices
@@ -1243,10 +1190,7 @@ Amended(35) by Proposal 7403 (omd), 27 April 2013
 Amended(36) by Proposal 7586 (omd), 24 August 2013
 Amended(37) by Proposal 7629 (scshunt), 7 April 2014
 
-----------------------------------------------------------------------
-
-Rule 103/22 (Power=2)
-The Speaker
+## Rule 103/22 (Power=2) The Speaker
 
       The Speaker is an imposed office and the figurehead leader of
       Agora.
@@ -1301,10 +1245,7 @@ Amended(20) by Proposal 7650 (scshunt, G.), 3 June 2014
 Amended(21) by Proposal 7690 (aranea), 24 September 2014
 Amended(22) by Proposal 7739 (G.), 2 May 2015
 
-----------------------------------------------------------------------
-
-Rule 2423/0 (Power=2)
-First Among Equals
+## Rule 2423/0 (Power=2) First Among Equals
 
       The Prime Minister is an office. The Prime Minister is elected
       by the players of Agora primarily on account of not being the
@@ -1318,10 +1259,7 @@ First Among Equals
 History:
 Created by Proposal 7633 (scshunt), 1 May 2014
 
-----------------------------------------------------------------------
-
-Rule 2451/0 (Power=1)
-Executive Orders
+## Rule 2451/0 (Power=1) Executive Orders
 
       Once per week and except as otherwise forbidden by this
       rule, the current Prime Minister CAN issue a Cabinet Order
@@ -1349,10 +1287,7 @@ Executive Orders
 History:
 Created by Proposal 7764 (scshunt), 24 July 2015
 
-----------------------------------------------------------------------
-
-Rule 2154/48 (Power=2)
-Election Procedure
+## Rule 2154/48 (Power=2) Election Procedure
 
       A player CAN initiate an election for a specified elected office
       for which no election is already in progress
@@ -1426,14 +1361,9 @@ Amended(46) by Proposal 7658 (scshunt), 3 June 2014
 Amended(47) by Proposal 7684 (scshunt), 1 August 2014
 Amended(48) by Proposal 7778 (scshunt), 14 August 2014
 
-----------------------------------------------------------------------
+# Proposals
 
-======================================================================
-Proposals
-----------------------------------------------------------------------
-
-Rule 2350/9 (Power=3)
-Proposals
+## Rule 2350/9 (Power=3) Proposals
 
       A proposal is a type of entity consisting of a body of text and
       other attributes.  A player CAN create a proposal by
@@ -1482,10 +1412,7 @@ Amended(7) by Proposal 7653 (scshunt), 3 June 2014
 Amended(8) by Proposal 7728 (Tiger), 24 November 2014
 Amended(9) by Proposal 7736 (aranea), 2 May 2015
 
-----------------------------------------------------------------------
-
-Rule 2445/2 (Power=1)
-How to Pend a Proposal
+## Rule 2445/2 (Power=1) How to Pend a Proposal
 
       Imminence is a switch, tracked by the Promotor, possessed by
       proposals in the Proposal Pool, whose value is either "pending"
@@ -1510,10 +1437,7 @@ Created by Proposal 7728 (Tiger), 24 November 2014
 Amended(1) by Proposal 7742 (ais523), 12 May 2015
 Amended(2) by Proposal 7773 (scshunt), 14 August 2014
 
-----------------------------------------------------------------------
-
-Rule 2443/0 (Power=3)
-Expediting Proposals
+## Rule 2443/0 (Power=3) Expediting Proposals
 
       A player CAN expedite a proposal whose adoption index is at most
       1.5, in a message containing the character string "[Expedition]"
@@ -1531,10 +1455,7 @@ Expediting Proposals
 History:
 Created by Proposal 7713 (Warrigal), 9 November 2014
 
-----------------------------------------------------------------------
-
-Rule 1607/42 (Power=3)
-Distribution
+## Rule 1607/42 (Power=3) Distribution
 
       The Promotor is an office; its holder is responsible for
       receiving and distributing proposals.
@@ -1646,10 +1567,7 @@ Amended(40) by Proposal 7618 (omd), 24 January 2014
 Amended(41) by Proposal 7629 (scshunt), 7 April 2014
 Amended(42) by Proposal 7728 (Tiger), 24 November 2014
 
-----------------------------------------------------------------------
-
-Rule 2431/1 (Power=1)
-Proposal Competitions
+## Rule 2431/1 (Power=1) Proposal Competitions
 
       Any player CAN, with Agoran Consent, initiate a Proposal
       Competition with a specified Objective. Only one Competition may
@@ -1677,14 +1595,9 @@ Created by Proposal 7667 (scshunt), 3 June 2014
 Power changed from 3 to 1 by Proposal 7705 (omd), 3 November 2014
 Amended(1) by Proposal 7705 (omd), 3 November 2014
 
-----------------------------------------------------------------------
+# Decisions
 
-======================================================================
-Decisions
-----------------------------------------------------------------------
-
-Rule 2137/2 (Power=1)
-The Assessor
+## Rule 2137/2 (Power=1) The Assessor
 
       The Assessor is an office; its holder is responsible for
       collecting votes and keeping track of related properties.
@@ -1699,10 +1612,7 @@ Amended(2) by Proposal 5453 (Murphy), 1 March 2008
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
 
-----------------------------------------------------------------------
-
-Rule 693/15 (Power=3)
-Agoran Decisions
+## Rule 693/15 (Power=3) Agoran Decisions
 
       When the rules calls for an Agoran decision to be made, the
       decision-making process takes place in the following three
@@ -1736,10 +1646,7 @@ Amended(13) by Proposal 6465 (coppro; disi.), 15 September 2009
 Amended(14) by Proposal 6617 (Murphy; disi.), 4 February 2010
 Amended(15) by Proposal 7778 (scshunt), 14 August 2014
 
-----------------------------------------------------------------------
-
-Rule 107/18 (Power=3)
-Initiating Agoran Decisions
+## Rule 107/18 (Power=3) Initiating Agoran Decisions
 
       An Agoran decision is initiated when a person authorized to
       initiate it publishes a valid notice which sets forth the intent
@@ -1817,10 +1724,7 @@ Amended(16) by Proposal 7606 (G.), 13 December 2013
 Amended(17) by Proposal 7629 (scshunt), 7 April 2014
 Amended(18) by Proposal 7778 (scshunt), 14 August 2014
 
-----------------------------------------------------------------------
-
-Rule 208/11 (Power=3)
-Resolving Agoran Decisions
+## Rule 208/11 (Power=3) Resolving Agoran Decisions
 
       The vote collector for an unresolved Agoran decision CAN resolve
       it by announcement, indicating the outcome.  If it was required
@@ -1881,10 +1785,7 @@ Amended(10) by Proposal 7420 (omd), 27 May 2013
 Retitled by Proposal 7753 (scshunt), 30 June 2015
 Amended(11) by Proposal 7778 (scshunt), 14 August 2014
 
-----------------------------------------------------------------------
-
-Rule 1950/31 (Power=3)
-Decisions with Adoption Indices
+## Rule 1950/31 (Power=3) Decisions with Adoption Indices
 
       Adoption index is an untracked switch possessed by Agoran
       decisions and proposals, whose value is either "none" (default)
@@ -1942,10 +1843,7 @@ Amended(29) by Proposal 7610 (G.), 22 December 2013
 Amended(30) by Proposal 7629 (scshunt), 7 April 2014
 Amended(31) by Proposal 7778 (scshunt), 14 August 2014
 
-----------------------------------------------------------------------
-
-Rule 879/32 (Power=2)
-Quorum
+## Rule 879/32 (Power=2) Quorum
 
       Quorum for an Agoran Decision is equal to the number of players
       who voted on the most recently resolved Agoran Decision to adopt
@@ -1996,14 +1894,9 @@ Amended(30) by Proposal 7612 (ais523), 11 January 2014
 Amended(31) by Proposal 7632 (scshunt), 1 May 2014
 Amended(32) by Proposal 7647 (omd), 3 June 2014
 
-----------------------------------------------------------------------
+# Voting
 
-======================================================================
-Voting
-----------------------------------------------------------------------
-
-Rule 683/21 (Power=3)
-Voting on Agoran Decisions
+## Rule 683/21 (Power=3) Voting on Agoran Decisions
 
       An entity submits a ballot on an Agoran decision by publishing a
       notice satisfying the following conditions:
@@ -2061,10 +1954,7 @@ Amended(19) by Proposal 7632 (scshunt), 1 May 2014
 Amended(20) by Proposal 7647 (omd), 3 June 2014
 Amended(21) by Proposal 7778 (scshunt), 14 August 2014
 
-----------------------------------------------------------------------
-
-Rule 2422/0 (Power=3)
-Voting Strength
+## Rule 2422/0 (Power=3) Voting Strength
 
       The voting strength of an entity is an integer between 1 and 5
       inclusive, defined by rules of power 2 or greater. If not
@@ -2073,10 +1963,7 @@ Voting Strength
 History:
 Created by Proposal 7629 (scshunt), 7 April 2014
 
-----------------------------------------------------------------------
-
-Rule 2127/9 (Power=3)
-Conditional Votes
+## Rule 2127/9 (Power=3) Conditional Votes
 
       If a vote on an Agoran decision is submitted conditionally (e.g.
       "FOR if <X> is true, otherwise AGAINST"), then the selected
@@ -2113,10 +2000,7 @@ Power changed from 1 to 3 by Proposal 7447 (omd), 10 June 2013
 Amended(8) by Proposal 7447 (omd), 10 June 2013
 Amended(9) by Proposal 7778 (scshunt), 14 August 2014
 
-----------------------------------------------------------------------
-
-Rule 2168/7 (Power=1)
-Extending the voting period
+## Rule 2168/7 (Power=1) Extending the voting period
 
       Whenever the voting period of an Agoran decision would end, and
       the result would be FAILED QUORUM, the length of the voting
@@ -2143,10 +2027,7 @@ Amended(5) by Proposal 6329 (Murphy), 29 May 2009
 Amended(6) by Proposal 6504 (Murphy; disi.), 3 October 2009
 Amended(7) by Proposal 7045 (Walker), 16 May 2011
 
-----------------------------------------------------------------------
-
-Rule 955/20 (Power=3)
-Determining the Will of Agora
+## Rule 955/20 (Power=3) Determining the Will of Agora
 
       Each Agoran decision has a voting method, which determines how
       voters may vote on it and how to calculate the outcome.  The
@@ -2227,10 +2108,7 @@ Amended(18) by Proposal 7238 (omd), 10 June 2012
 Amended(19) by Proposal 7772 (scshunt), 10 August 2015
 Amended(20) by Proposal 7778 (scshunt), 14 August 2014
 
-----------------------------------------------------------------------
-
-Rule 2034/8 (Power=3)
-Vote Protection and Cutoff for Challenges
+## Rule 2034/8 (Power=3) Vote Protection and Cutoff for Challenges
 
       A public message purporting to resolve an Agoran decision
       constitutes self-ratifying claims that
@@ -2251,14 +2129,9 @@ Amended(6) by Proposal 6180 (Murphy; disi.), 7 April 2009
 Amended(7) by Proposal 7355 (ais523), 7 April 2013
 Amended(8) by Proposal 7585 (omd), 24 August 2013
 
-----------------------------------------------------------------------
+# Interpretations
 
-======================================================================
-Interpretations
-----------------------------------------------------------------------
-
-Rule 991/16 (Power=2)
-Calls for Judgement
+## Rule 991/16 (Power=2) Calls for Judgement
 
       Any person (the initiator) can initiate a Call for Judgement
       (CFJ, syn. Judicial Case) by announcement, specifying a
@@ -2313,10 +2186,7 @@ Amended(14) by Proposal 7629 (scshunt), 7 April 2014
 Amended(15) by Proposal 7647 (omd), 3 June 2014
 Amended(16) by Proposal 7777 (omd, G.), 14 August 2015
 
-----------------------------------------------------------------------
-
-Rule 591/42 (Power=1.7)
-Delivering Judgements
+## Rule 591/42 (Power=1.7) Delivering Judgements
 
       When a CFJ is open and assigned to a judge, that judge CAN
       assign a valid judgement to it by announcement, and SHALL do so
@@ -2421,10 +2291,7 @@ Amended(40) by Proposal 7629 (scshunt), 7 April 2014
 Amended(41) by Proposal 7694 (omd), 23 October 2014
 Amended(42) by Proposal 7776 (omd), 14 August 2015
 
-----------------------------------------------------------------------
-
-Rule 217/11 (Power=3)
-Interpreting the Rules
+## Rule 217/11 (Power=3) Interpreting the Rules
 
       When interpreting and applying the rules, the text of the rules
       takes precedence.  Where the text is silent, inconsistent, or
@@ -2534,10 +2401,7 @@ Amended(9) by Proposal 7584 (omd), 24 August 2013
 Amended(10) by Proposal 7614 (G.), 13 January 2014
 Amended(11) by Proposal 7662 (omd), 3 June 2014
 
-----------------------------------------------------------------------
-
-Rule 2152/7 (Power=3)
-Mother, May I?
+## Rule 2152/7 (Power=3) Mother, May I?
 
       The following terms are defined.  These definitions are used
       when a rule includes a term in all caps, and provide guidance in
@@ -2615,10 +2479,7 @@ Amended(5) by Proposal 6571 (ais523), 28 November 2009
 Amended(6) by Proposal 6983 (Murphy), 10 April 2011
 Amended(7) by Proposal 7613 (Arufonsu), 11 January 2014
 
-----------------------------------------------------------------------
-
-Rule 911/51 (Power=1.7)
-Motions and Moots
+## Rule 911/51 (Power=1.7) Motions and Moots
 
       If a CFJ (1) has a judgement that has been in effect for less
       than seven days and not been appealed, and (2) has not had a
@@ -2717,10 +2578,7 @@ Amended(49) by Proposal 7629 (scshunt), 7 April 2014
 Amended(50) by Proposal 7647 (omd), 3 June 2014
 Amended(51) by Proposal 7777 (omd, G.), 14 August 2015
 
-----------------------------------------------------------------------
-
-Rule 2175/9 (Power=1)
-Judicial Retraction and Excess
+## Rule 2175/9 (Power=1) Judicial Retraction and Excess
 
       A new case is a judicial case that has not had any judge
       assigned to it.  The initiator of a new case CAN retract it by
@@ -2746,10 +2604,7 @@ Amended(7) by Proposal 7623 (G.), 23 February 2014
 Amended(8) by Proposal 7629 (scshunt), 7 April 2014
 Amended(9) by Proposal 7647 (omd), 3 June 2014
 
-----------------------------------------------------------------------
-
-Rule 1023/34 (Power=2)
-Common Definitions
+## Rule 1023/34 (Power=2) Common Definitions
 
       The following terms are defined:
 
@@ -2847,10 +2702,7 @@ Amended(32) by Proposal 7641 (scshunt), 12 May 2014
 Amended(33) by Proposal 7686 (omd), 7 August 2014
 Amended(34) by Proposal 7760 (G.), 19 July 2015
 
-----------------------------------------------------------------------
-
-Rule 1769/13 (Power=3)
-Holidays
+## Rule 1769/13 (Power=3) Holidays
 
       The period each year from midnight GMT on the morning of 24
       December to the beginning of the first Agoran week to begin
@@ -2892,10 +2744,7 @@ Amended(11) by Proposal 7262 (omd), 7 July 2012
 Amended(12) by Proposal 7610 (G.), 22 December 2013
 Amended(13) by Proposal 7647 (omd), 3 June 2014
 
-----------------------------------------------------------------------
-
-Rule 2448/2 (Power=1)
-Eras
+## Rule 2448/2 (Power=1) Eras
 
       An Era is a period of time that has a defined start, either
       has a defined end or is still ongoing, and has been initiated
@@ -2912,14 +2761,9 @@ Created by Proposal 7733 (Murphy), 14 April 2015
 Amended(1) by Proposal 7759 (G.), 19 July 2015
 Amended(2) by Proposal 7766 (scshunt), 24 July 2015
 
-----------------------------------------------------------------------
+# Breakages
 
-======================================================================
-Breakages
-----------------------------------------------------------------------
-
-Rule 2426/4 (Power=1)
-Cards
+## Rule 2426/4 (Power=1) Cards
 
       The Referee is an office; its holder is responsible for keeping
       track of wrongdoing.
@@ -2959,20 +2803,14 @@ Amended(2) by Proposal 7708 (Murphy), 3 November 2014
 Amended(3) by Proposal 7720 (omd), 9 November 2014
 Amended(4) by Proposal 7729 (Tiger), 24 November 2014
 
-----------------------------------------------------------------------
-
-Rule 2450/0 (Power=1.7)
-Pledges
+## Rule 2450/0 (Power=1.7) Pledges
 
       Breaking a publicly-made pledge is a cardable offense.
 
 History:
 Created by Proposal 7761 (G.), 19 July 2015
 
-----------------------------------------------------------------------
-
-Rule 2427/0 (Power=3)
-Red Cards
+## Rule 2427/0 (Power=3) Red Cards
 
       After a Red Card has been issued to a player, e SHOULD publish a
       formal apology of at least 200 words, including all the
@@ -2985,10 +2823,7 @@ Red Cards
 History:
 Created by Proposal 7639 (omd), 1 May 2014
 
-----------------------------------------------------------------------
-
-Rule 1789/9 (Power=2)
-Cantus Cygneus
+## Rule 1789/9 (Power=2) Cantus Cygneus
 
       Whenever a Player feels that e has been treated so egregiously
       by the Agoran community that e can no longer abide to be a part
@@ -3029,14 +2864,9 @@ Amended(7) by Proposal 6338 (Murphy), 29 May 2009
 Amended(8) by Proposal 7470 (woggle; disi.), 17 June 2013
 Amended(9) by Proposal 7646 (omd), 3 June 2014
 
-----------------------------------------------------------------------
+# Rulesets
 
-======================================================================
-Rulesets
-----------------------------------------------------------------------
-
-Rule 1051/18 (Power=1)
-The Rulekeepor
+## Rule 1051/18 (Power=1) The Rulekeepor
 
       The Rulekeepor is an office; its holder is responsible for
       maintaining the text of the rules of Agora.
@@ -3067,10 +2897,7 @@ Amended(16) by Proposal 4002 (harvel), May 8 2000
 Amended(17) by Proposal 4250 (harvel), 19 February 2002
 Amended(18) by Proposal 5237 (AFO; disi.), 3 October 2007
 
-----------------------------------------------------------------------
-
-Rule 1681/20 (Power=1)
-The Logical Rulesets
+## Rule 1681/20 (Power=1) The Logical Rulesets
 
       The Short Logical Ruleset (SLR) is a format of the ruleset.  In
       this format, each rule is assigned to a category, and the rules
@@ -3133,10 +2960,7 @@ Amended(18) by Proposal 6662 (Murphy; disi.), 10 March 2010
 Amended(19) by Proposal 7599 (Walker), 14 September 2013
 Amended(20) by Proposal 7604 (G.), 13 December 2013
 
-----------------------------------------------------------------------
-
-Rule 2455/0 (Power=1)
-The Olive Tree
+## Rule 2455/0 (Power=1) The Olive Tree
 
        Every existing Rule (every Child) has an existing Rule as a
        Parent.  The lowest numbered existing Rule is the Root. The
@@ -3155,10 +2979,7 @@ The Olive Tree
 History:
 Created by Proposal 7789 (G.), 30 September 2015
 
-----------------------------------------------------------------------
-
-Rule 2327/1 (Power=1)
-Read the Ruleset Week
+## Rule 2327/1 (Power=1) Read the Ruleset Week
 
       The first Agoran week each year which falls entirely in February
       is Read the Ruleset Week.  Agorans are encouraged to read the
@@ -3168,10 +2989,7 @@ History:
 Created by Proposal 6973 (Murphy), 30 March 2011
 Amended(1) by Proposal 6995 (omd, harvel), 10 April 2011
 
-----------------------------------------------------------------------
-
-Rule 2429/1 (Power=1)
-Bleach
+## Rule 2429/1 (Power=1) Bleach
 
       Replacing a non-zero amount of whitespace with a different
       non-zero amount of whitespace is generally insignificant, except
@@ -3181,10 +2999,7 @@ History:
 Created by Proposal 7665 (scshunt), 3 June 2014
 Amended(1) by Proposal 7709 (Murphy), 3 November 2014
 
-----------------------------------------------------------------------
-
-Rule 2430/1 (Power=3)
-Cleanup Time
+## Rule 2430/1 (Power=3) Cleanup Time
 
       The Rulekeepor CAN, without objection, cause this rule to amend
       any specified rule by:
@@ -3203,14 +3018,9 @@ History:
 Created by Proposal 7665 (scshunt), 3 June 2014
 Amended(1) by Proposal 7686 (omd), 7 August 2014
 
-----------------------------------------------------------------------
+# Recordkeeping
 
-======================================================================
-Recordkeeping
-----------------------------------------------------------------------
-
-Rule 2143/24 (Power=1)
-Official Reports and Duties
+## Rule 2143/24 (Power=1) Official Reports and Duties
 
       For each person:
 
@@ -3285,10 +3095,7 @@ Amended(22) by Proposal 7648 (omd), 3 June 2014
 Amended(23) by Proposal 7697 (omd), 23 October 2014
 Amended(24) by Proposal 7704 (G.), 3 November 2014
 
-----------------------------------------------------------------------
-
-Rule 2379/0 (Power=1)
-No News Is Some News
+## Rule 2379/0 (Power=1) No News Is Some News
 
       If the rules define a report as including a list, then while
       that list is empty, that report includes the fact that it is
@@ -3297,10 +3104,7 @@ No News Is Some News
 History:
 Created by Proposal 7286 (FKA441344), 9 September 2012
 
-----------------------------------------------------------------------
-
-Rule 2160/13 (Power=3)
-Deputisation
+## Rule 2160/13 (Power=3) Deputisation
 
       Any player (a deputy) CAN perform an action as if e held a
       particular office (deputise for that office) if all of the
@@ -3373,10 +3177,7 @@ Amended(11) by Proposal 7651 (scshunt), 3 June 2014
 Amended(12) by Proposal 7652 (scshunt), 3 June 2014
 Amended(13) by Proposal 7713 (Warrigal), 9 November 2014
 
-----------------------------------------------------------------------
-
-Rule 1551/18 (Power=3.1)
-Ratification
+## Rule 1551/18 (Power=3.1) Ratification
 
       A public document is part (possibly all) of a public message.
 
@@ -3444,10 +3245,7 @@ Amended(16) by Proposal 7568 (omd, Fool), 24 August 2013
 Amended(17) by Proposal 7586 (omd), 24 August 2013
 Amended(18) by Proposal 7664 (omd), 3 June 2014
 
-----------------------------------------------------------------------
-
-Rule 2202/6 (Power=3)
-Ratification Without Objection
+## Rule 2202/6 (Power=3) Ratification Without Objection
 
       Any player CAN, without objection, ratify a public document,
       specifying its scope.
@@ -3486,10 +3284,7 @@ Amended(4) by Proposal 6754 (coppro; disi.), 2 August 2010
 Amended(5) by Proposal 7451 (omd), 10 June 2013
 Amended(6) by Proposal 7680 (scshunt), 12 July 2014
 
-----------------------------------------------------------------------
-
-Rule 2201/6 (Power=3)
-Self-Ratification
+## Rule 2201/6 (Power=3) Self-Ratification
 
       A public document defined by the rules as self-ratifying is
       ratified when it is continuously undoubted for one week.
@@ -3530,10 +3325,7 @@ Amended(4) by Proposal 6744 (Murphy), 1 July 2010
 Amended(5) by Proposal 6922 (Murphy; disi.), 2 January 2011
 Amended(6) by Proposal 7420 (omd), 27 May 2013
 
-----------------------------------------------------------------------
-
-Rule 2446/2 (Power=1)
-The Agoran Newspaper
+## Rule 2446/2 (Power=1) The Agoran Newspaper
 
       The Agoran Newspaper is a weekly publication describing
       noteworthy recent events that occured in the public fora in the
@@ -3557,10 +3349,7 @@ Created by Proposal 7729 (Henri), 11 February 2015
 Amended(1) by Proposal 7766 (scshunt), 24 July 2015
 Amended(2) by Proposal 7786 (scshunt), 29 August 2015
 
-----------------------------------------------------------------------
-
-Rule 2138/22 (Power=1)
-The Associate Director of Personnel
+## Rule 2138/22 (Power=1) The Associate Director of Personnel
 
       The Associate Director of Personnel (ADoP) is an office; its
       holder is responsible for keeping track of officers.
@@ -3605,10 +3394,7 @@ Retitled by Proposal 7757 (scshunt), 17 July 2015
 Retitled by Proposal 7758 (omd), 19 July 2015
 Amended(22) by Proposal 7758 (omd), 19 July 2015
 
-----------------------------------------------------------------------
-
-Rule 2139/7 (Power=2)
-The Registrar
+## Rule 2139/7 (Power=2) The Registrar
 
       The Registrar is an office; its holder is responsible for
       keeping track of players.
@@ -3654,14 +3440,9 @@ Amended(5) by Proposal 7416 (omd), 12 May 2013
 Amended(6) by Proposal 7586 (omd), 24 August 2013
 Amended(7) by Proposal 7632 (scshunt), 1 May 2014
 
-----------------------------------------------------------------------
+# Organizations
 
-======================================================================
-Organizations
-----------------------------------------------------------------------
-
-Rule 2456/1 (Power=1)
-The Secretary
+## Rule 2456/1 (Power=1) The Secretary
 
       The Secretary is an office. The Secretary's weekly report
       includes:
@@ -3680,10 +3461,7 @@ History:
 Created by Proposal 7791 (ais523), 28 October 2015
 Amended(1) by Proposal 7793 (ais523, aranea, G.), 28 October 2015
 
-----------------------------------------------------------------------
-
-Rule 2459/2 (Power=1.2)
-Organizations
+## Rule 2459/2 (Power=1.2) Organizations
 
       An Organization is a type of entity. The following changes are
       secured: creating, modifying, or destroying an Organization; and
@@ -3717,10 +3495,7 @@ Created by Proposal 7793 (ais523, aranea, G.), 28 October 2015
 Amended(1) by Proposal 7795 (Murphy), 12 Februray 2016
 Amended(2) by Proposal 7795 (Murphy), 12 Februray 2016
 
-----------------------------------------------------------------------
-
-Rule 2460/0 (Power=1.2)
-Organizational Restructuring
+## Rule 2460/0 (Power=1.2) Organizational Restructuring
 
       Charter is an Organization switch, tracked by the Secretary in
       eir monthly report, whose legal values are texts, and with
@@ -3762,10 +3537,7 @@ Organizational Restructuring
 History:
 Created by Proposal 7793 (ais523, aranea, G.), 28 October 2015
 
-----------------------------------------------------------------------
-
-Rule 2461/2 (Power=1.2)
-Death and Birth of Organizations
+## Rule 2461/2 (Power=1.2) Death and Birth of Organizations
 
       The Income Floor is 50.
 
@@ -3791,10 +3563,7 @@ Created by Proposal 7793 (ais523, aranea, G.), 28 October 2015
 Amended(1) by Proposal 7794 (Murphy), 12 Februray 2016
 Amended(2) by Proposal 7795 (Murphy), 12 Februray 2016
 
-----------------------------------------------------------------------
-
-Rule 2462/2 (Power=1.2)
-Bankruptcy
+## Rule 2462/2 (Power=1.2) Bankruptcy
 
       While a player's Expenditure exceeds the Income Cap, then any
       player CAN cause that player to become Bankrupt by announcement,
@@ -3813,10 +3582,7 @@ Created by Proposal 7793 (ais523, aranea, G.), 28 October 2015
 Amended(1) by Proposal 7794 (Murphy), 12 Februray 2016
 Amended(2) by Proposal 7795 (Murphy), 12 Februray 2016
 
-----------------------------------------------------------------------
-
-Rule 2457/0 (Power=1.2)
-Lockout
+## Rule 2457/0 (Power=1.2) Lockout
 
       There is such a thing as a Lockout Event, which can happen
       either to a person or to Agora as a whole. Lockout Events only
@@ -3836,10 +3602,7 @@ Lockout
 History:
 Created by Proposal 7791 (ais523), 28 October 2015
 
-----------------------------------------------------------------------
-
-Rule 2458/0 (Power=1.2)
-Invoking Lockout
+## Rule 2458/0 (Power=1.2) Invoking Lockout
 
       A player who is not on Lockout can Invoke Lockout by
       announcement.
@@ -3850,14 +3613,9 @@ Invoking Lockout
 History:
 Created by Proposal 7792 (ais523), 28 October 2015
 
-----------------------------------------------------------------------
+# Winning
 
-======================================================================
-Winning
-----------------------------------------------------------------------
-
-Rule 2452/1 (Power=0.5)
-Trust Tokens
+## Rule 2452/1 (Power=0.5) Trust Tokens
 
       Any player can issue a Trust Token to another person by
       announcement.
@@ -3873,10 +3631,7 @@ Created by Proposal 7768 (ais523), 24 July 2015
 Power changed from 1.0 to 0.5 by Proposal 7768 (ais523), 24 July 2015
 Amended(1) by Proposal 7790 (the Warrigal, Bucky), 13 October 2015
 
-----------------------------------------------------------------------
-
-Rule 2454/0 (Power=0.5)
-The New Map
+## Rule 2454/0 (Power=0.5) The New Map
 
 
 
@@ -3894,10 +3649,7 @@ The New Map
 History:
 Created by Proposal 7785 (G.), 29 August 2015
 
-----------------------------------------------------------------------
-
-Rule 2438/4 (Power=3)
-Ribbons
+## Rule 2438/4 (Power=3) Ribbons
 
       The Tailor is an office, and the recordkeepor of Ribbons.
 
@@ -3983,10 +3735,7 @@ Amended(2) by Proposal 7746 (aranea), 19 May 2015
 Amended(3) by Proposal 7748 (ais523), 30 June 2015
 Amended(4) by Proposal 7760 (G.), 19 July 2015
 
-----------------------------------------------------------------------
-
-Rule 2444/1 (Power=1)
-Silver Quill
+## Rule 2444/1 (Power=1) Silver Quill
 
       The Silver Quill is a biannual award designed to honor the
       authors of proposals of outstanding merit and influence on the
@@ -4027,14 +3776,9 @@ History:
 Created by Proposal 7722 (omd), 11 November 2014
 Amended(1) by Proposal 7778 (scshunt), 14 August 2014
 
-----------------------------------------------------------------------
+# Trophies
 
-======================================================================
-Trophies
-----------------------------------------------------------------------
-
-Rule 649/37 (Power=1.5)
-Patent Titles
+## Rule 649/37 (Power=1.5) Patent Titles
 
       A Patent Title is a legal title given to a person in recognition
       of the person's distinction.  The Herald is an office; its
@@ -4113,10 +3857,7 @@ Amended(35) by Proposal 7470 (woggle; disi.), 17 June 2013
 Amended(36) by Proposal 7621 (G.), 23 February 2014
 Amended(37) by Proposal 7755 (G.), 30 June 2015
 
-----------------------------------------------------------------------
-
-Rule 1367/19 (Power=3)
-Degrees
+## Rule 1367/19 (Power=3)Degrees
 
       Certain patent titles are known as degrees.  The degrees are
 
@@ -4167,10 +3908,7 @@ Amended(17) by Proposal 7420 (omd), 27 May 2013
 Amended(18) by Proposal 7591 (scshunt), 14 September 2013
 Amended(19) by Proposal 7620 (omd), 24 January 2014
 
-----------------------------------------------------------------------
-
-Rule 2231/5 (Power=3)
-Order of the Hero of Agora Nomic
+## Rule 2231/5 (Power=3) Order of the Hero of Agora Nomic
 
       Heroic titles are Agora's premier patent titles of distinction,
       and CAN be awarded to persons for meritorious service only by a
@@ -4199,10 +3937,7 @@ Amended(3) by Proposal 6626 (Murphy), 20 February 2010
 Amended(4) by Proposal 7621 (G.), 23 February 2014
 Amended(5) by Proposal 7647 (omd), 3 June 2014
 
-----------------------------------------------------------------------
-
-Rule 2415/0 (Power=1.5)
-Badges
+## Rule 2415/0 (Power=1.5) Badges
 
       A Badge is any patent title with the word 'badge' as part of
       its name.  A badge SHOULD be used to award multiple persons for
@@ -4214,10 +3949,7 @@ Badges
 History:
 Created by Proposal 7516 (G.), 19 July 2013
 
-----------------------------------------------------------------------
-
-Rule 104/0 (Power=3)
-First Speaker
+## Rule 104/0 (Power=3) First Speaker
 
       The Speaker for the first game shall be Michael Norrish.
 
@@ -4232,10 +3964,7 @@ History:
 Initial Immutable Rule 104, Jun. 30 1993
 Mutated from MI=Unanimity to MI=3 by Proposal 1482, Mar. 15 1995
 
-----------------------------------------------------------------------
-
-Rule 1727/18 (Power=1)
-Happy Birthday
+## Rule 1727/18 (Power=1) Happy Birthday
 
       WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
       World, had recently collapsed; yet, many of its players enjoyed
@@ -4298,10 +4027,7 @@ Amended(16) by Proposal 4887 (Murphy), 22 January 2007
 Amended(17) by Proposal 5364 (Murphy), 20 December 2007
 Amended(18) by Proposal 7610 (G.), 22 December 2013
 
-----------------------------------------------------------------------
-
-Rule 2029/0 (Power=4)
-Town Fountain
+## Rule 2029/0 (Power=4) Town Fountain
 
                       /\   /\
                       / \ / \
@@ -4326,14 +4052,11 @@ necessarily constitute a violation of this rule.]
 History:
 Created by Proposal 4329 (Goethe), 9 June 2002
 
-----------------------------------------------------------------------
+# Garbage Bin
 
-======================================================================
-Garbage Bin
       CFJ annotations that do not currently apply to any specific
       rules, but are likely to do so in the future, at which point
       they can be reattached.
-----------------------------------------------------------------------
 
 Contracts / Binding Agreements
 
