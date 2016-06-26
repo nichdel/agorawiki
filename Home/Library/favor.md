@@ -1,6 +1,6 @@
- Note that due to elements of code in this essay it is reproduced in PRE format.
+Note that due to elements of code in this essay it is reproduced in PRE format.
 
-A Completely Formal Nomic
+<pre>A Completely Formal Nomic
 
 Submitted in partial fulfilment of the
 requirements for the degree of Bachelor
@@ -134,7 +134,7 @@ that's the same for all the objects created by the same piece
 of mail, and other fields filled in from the body of the
 message.  For instance, a request to register might look like:
 
-   From: Matt Zimola 
+   From: Matt Zimola <zimola@peeble.net>
    Date: 14 Aug 1995, 12:36:13 UTC
    Subject: to the Mech server
 
@@ -318,7 +318,7 @@ Notes:
   - Some sort of "for" clause in rules may be needed for performance
     and clarity reasons.  Otherwise, the only way to do something
     like sending the entire ruleset to a player in response to a
-    query move would be to do  passes through the
+    query move would be to do <number of="" rules="">passes through the
     first part of the ruleset, using some kludged-up bookkeeping
     attribute or object to keep track of which rules we haven't
     sent yet.  Maybe that's OK?
@@ -667,4 +667,4 @@ Cleanup Rules:
  type: rule
  if: T
  then: sendNow()
- comment: "Send out accumulated mailings"
+ comment: "Send out accumulated mailings"</number> </zimola@peeble.net></pre>
