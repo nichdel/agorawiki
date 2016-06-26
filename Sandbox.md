@@ -4,8 +4,8 @@
 
 Subdirectory are also easily possible: [[CFJs/Home]]
 
-Tables
-=
+# Tables
+
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
@@ -17,13 +17,15 @@ Tables
 | --- | --- | --- | --- |
 |Q|W   |    E | RR     |
 
-Two
-=
+# Two
+
 
 Nothing wrong with me
 
-Three
-=
+## Two and a half.
+
+# Three
+
 
 Other stuff
 
