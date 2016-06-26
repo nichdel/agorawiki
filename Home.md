@@ -35,7 +35,7 @@ Secretary
 
 * Secretary's [[Monthly Report]]
 
-* Secretary's [[Weekly Report]]
+* Secretary's [[Secretary Weekly Report]]
 
 ----
 
