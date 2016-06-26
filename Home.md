@@ -2,42 +2,38 @@ This wiki uses [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-
 
 If you need to do tables, consider [using this markdown table generator](http://www.tablesgenerator.com/markdown_tables). It has a gui, and can import markdown or csv.
 
-
 If you want to make changes via git for authentication or automation purposes, see [[this page | Git]]
 
-----
+[[_TOC_]]
 
-Rules
+# Rules
 
-* [[Full Logical Ruleset]]
+[[Full Logical Ruleset]]
 
-* [[Short Logical Ruleset]]
+[[Short Logical Ruleset]]
 
-----
+# Reports
 
-Reports
+[[Agoran Credit Union Report]]
 
-* [[Agoran Credit Union Report]]
+[[Organization Report]]
 
-* [[Organization Report]]
+[[Charter Report]]
 
-* [[Charter Report]]
+## Tailor
 
-Tailor
+[[Ribbons]] Report
 
-* [[Ribbons]] Report
+## ADoP
 
-ADoP
+[[Payroll and Metareport]]
 
-* [[Payroll and Metareport]]
+## Secretary
 
-Secretary
+[[Monthly Report]]
 
-* [[Monthly Report]]
+[[Weekly Report | Secretary Weekly Report]]
 
-* [[Weekly Report | Secretary Weekly Report]]
+# Unofficial Publications
 
-----
-
-Historical Reports
-
+[[List of Offices]]
