@@ -26,14 +26,10 @@ If you want to make changes via git for authentication or automation purposes, s
 
 ## ADoP
 
-[[Payroll and Metareport]]
+[[Payroll and Metareport]] - Lists offices and reports.
 
 ## Secretary
 
 [[Monthly Report]]
 
 [[Weekly Report | Secretary Weekly Report]]
-
-# Unofficial Publications
-
-[[List of Offices]]
