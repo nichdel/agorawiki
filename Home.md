@@ -33,3 +33,27 @@ If you want to make changes via git for authentication or automation purposes, s
 [[Monthly Report]]
 
 [[Weekly Report | Secretary Weekly Report]]
+
+# Library Items
+
+The original library is [[here | ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/library.html]].
+
+[[Andre 1996]]
+
+[[elJefe 1995]]
+
+[[favor]]
+
+[[Kolja 1998]]
+
+[[Steve]]
+
+[[Steve 1997]]
+
+[[Swann 1996]]
+
+[[Vanyel]]
+
+[[Vlad 1999]]
+
+[[Vlad 1999 II]]
