@@ -33,9 +33,9 @@ ADoP
 
 Secretary
 
-* Secretary's [[Monthly Report]]
+* [[Monthly Report | Secretary's Monthly Report]]
 
-* Secretary's [[Secretary Weekly Report]]
+* [[Secretary Weekly Report | Secretary's Weekly Report]]
 
 ----
 
