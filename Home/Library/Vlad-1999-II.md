@@ -1,0 +1,1 @@
+I'm not going to bother copy/pasting an inadequate version here. Just check [[the original | ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/lib-vlad2.html]] until I can take time to convert the html to md.
