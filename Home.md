@@ -1,27 +1,59 @@
-Rules
+This wiki uses [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). If you need to practice things, please do it in the [[sandbox]].
 
-* [[Full Logical Ruleset]]
+If you need to do tables, consider [using this markdown table generator](http://www.tablesgenerator.com/markdown_tables). It has a gui, and can import markdown or csv.
 
-* [[Short Logical Ruleset]]
+If you want to make changes via git for authentication or automation purposes, see [[this page | Git]]
 
-----
+[[_TOC_]]
 
-Other Current Reports
+# Rules
 
-* [[Organization Report]]
+[[Full Logical Ruleset]]
 
-* [[Charter Report]]
+[[Short Logical Ruleset]]
 
-* [[Ribbons]] Report
+# Reports
 
-* [[Payroll and Metareport]]
+[[Agoran Credit Union Report]]
 
-* Secretary's [[Monthly Report]]
+[[Organization Report]]
 
-* Secretary's [[Weekly Report]]
+[[Charter Report]]
 
-----
+## Tailor
 
-Historical Reports
+[[Ribbons]] Report
 
-----
+## ADoP
+
+[[Payroll and Metareport]] - Lists offices and reports.
+
+## Secretary
+
+[[Monthly Report]]
+
+[[Weekly Report | Secretary Weekly Report]]
+
+# Library Items
+
+The original library is [[here | ftp://ftp.cse.unsw.edu.au/pub/users/malcolmr/nomic/articles/agora-theses/library.html]].
+
+[[Andre 1996]]
+
+[[elJefe 1995]]
+
+[[favor]]
+
+[[Kolja 1998]]
+
+[[Steve]]
+
+[[Steve 1997]]
+
+[[Swann 1996]]
+
+[[Vanyel]]
+
+[[Vlad 1999]]
+
+[[Vlad 1999 II]]
