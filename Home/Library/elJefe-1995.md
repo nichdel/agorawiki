@@ -1,6 +1,6 @@
- Agora Nomic: Recent History
+**Agora Nomic: Recent History**
 
-(LATE 1994 TO EARLY 1995)
+**(LATE 1994 TO EARLY 1995)**
 
 By Jeffrey Caruso (elJefe): jlc@triple-i.com
 
@@ -32,4 +32,4 @@ Another amusing loophole was that the limit of 5 EV's per player was worded in a
 
 A Proposal of my own (Contests) slipped through with even worse loopholes. My idea was to allow subgames of Agora whose regulations were enforceable in the Nomic Courts. What actually resulted was a Frankenstein's monster in which anyone could be nominated as Contestmaster of a contest against their will, and subject to its rules! And this was not the only problem! Hopefully by the time this is published the rewritten Rule will be in place.
 
-This brief review of some of the recent highlights cannot do justice to the full range of creativity that players have shown, in trying to construct a Nomic Economy, in crafting beautiful theses and outrageous scams, and in using the Rules as the raw material for making logical pretzels. In hopes that the spirit of friendly one-upmanship and logical limit-testing will continue, I conclude: long live Agora! 
+This brief review of some of the recent highlights cannot do justice to the full range of creativity that players have shown, in trying to construct a Nomic Economy, in crafting beautiful theses and outrageous scams, and in using the Rules as the raw material for making logical pretzels. In hopes that the spirit of friendly one-upmanship and logical limit-testing will continue, I conclude: long live Agora!
