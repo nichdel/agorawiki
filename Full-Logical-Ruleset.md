@@ -37,12 +37,12 @@ They are added at the Rulekeepor's discretion.
 
 ----------------------------------------------------------------------
 
-======================================================================
 The Game of Agora
-----------------------------------------------------------------------
+=
 
 Rule 101/17 (Power=3)
 The Game of Agora
+==
 
       Agora is a game of Nomic, wherein Persons, acting in accordance
       with the Rules, communicate their game Actions and/or results of
