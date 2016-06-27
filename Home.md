@@ -12,6 +12,8 @@ If you want to make changes via git for authentication or automation purposes, s
 
 [[Short Logical Ruleset]]
 
+[[Glossary]]
+
 # Reports
 
 [[Agoran Credit Union Report]]
