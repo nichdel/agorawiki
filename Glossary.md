@@ -4,7 +4,7 @@ NB/TODO: Links to subsections need to be full titles. Probably should change the
 
 # Bankrupt
 
-A player can become **bankrupt** if their expenditure exceeds the [income cap](#income cap). A bankrupt player may be awarded a red card and will become [on lockout](#lockout).
+A player can become **bankrupt** if their expenditure exceeds the [income cap](#income cap). A bankrupt player may be awarded a red card and will become [on lockout](#player lockout).
 
 # Lockout
 
