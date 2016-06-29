@@ -27,7 +27,7 @@ Current total number of rules: 84
 
 Rules are listed as follows:
 
-Rule \<ID Number>/\<Version> (\<[Power](glossary#Power)>)
+Rule \<ID Number>/\<Version> (\<[Power](Glossary#Power)>)
 \<Title of Rule>
 
       <Text of Rule>
