@@ -42,13 +42,8 @@ They are added at the Rulekeepor's discretion.
 
 ## Rule 101/17 (Power=3) The Game of Agora
 
-
-      Agora is a game of Nomic, wherein [[Person|Glossary#person]]s, acting in accordance
-      with the Rules, communicate their game Actions and/or results of
-      these actions via Fora in order to play the game.  The game may
-      be won, but the game never ends.
-
-      Please treat Agora Right Good Forever.
+> Agora is a game of Nomic, wherein [[Person|Glossary#person]]s, acting in accordance with the Rules, communicate their game Actions and/or results of these actions via Fora in order to play the game.  The game may be won, but the game never ends. 
+> Please treat Agora Right Good Forever.
 
 [CFJ 24: [[Player|Glossary#player]]s must obey the Rules even in out-of-game actions.]
 
