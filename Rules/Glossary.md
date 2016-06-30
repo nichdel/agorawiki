@@ -10,6 +10,16 @@ Doing something **by announcement** means make a statement, to a public forum, t
 
 A player can become **bankrupt** if their expenditure exceeds the [income cap](#income cap). A bankrupt player may be awarded a red card and will become [on lockout](#lockout_player-lockout).
 
+# Call For Judgement
+
+The primary method for resolving conflicts. Any player may submit a specific statement to be judged *true* or *false*. Another player will be assigned to judge the statement, and any player may submit their own opinions on the statement, though the judge does not have to consider the opinions.
+
+If a player is dissastified with the result of a judgement, it may be [[appealed|Glossary#appeal]].
+
+# CFJ
+
+See [[Call For Judgement|Glossary#call for judgment]].
+
 # In a Timely Fashion
 
 # Income Cap
