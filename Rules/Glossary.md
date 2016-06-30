@@ -18,7 +18,7 @@ If a player is dissastified with the result of a judgement, it may be [[appealed
 
 # CFJ
 
-See [[Call For Judgement|Glossary#call for judgment]].
+See [[Call For Judgement|Glossary#call for judegment]].
 
 # In a Timely Fashion
 
