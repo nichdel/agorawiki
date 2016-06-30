@@ -6,6 +6,10 @@ If you want to make changes via git for authentication or automation purposes, s
 
 [[_TOC_]]
 
+# New players
+
+[[How to play Agora]]
+
 # Rules
 
 [[Full Logical Ruleset]]
