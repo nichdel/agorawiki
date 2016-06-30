@@ -1,54 +1,52 @@
-THE FULL LOGICAL RULESET
-
 Most Recent Ruleset Change Recorded:
-      Adoption of Proposal 7795, 12 February 2016
-
-Online documents:
- http://faculty.washington.edu/kerim/nomic/rkeep/current_flr.txt (FLR)
- http://faculty.washington.edu/kerim/nomic/rkeep/current_slr.txt (SLR)
-
-----------------------------------------------------------------------
+* Adoption of Proposal 7795, 12 February 2016
 
 [[_TOC_]]
 
-# Stats
+# Preface
+
+## Other Homes
+
+* [Full Logical Ruleset](http://faculty.washington.edu/kerim/nomic/rkeep/current_flr.txt)
+* [Short Logical Ruleset](http://faculty.washington.edu/kerim/nomic/rkeep/current_slr.txt)
+
+## Stats
 
 Current total number of rules: 84
-              1 with Power=4
-              1 with Power=3.2
-              1 with Power=3.1
-             37 with Power=3
-             11 with Power=2
-              3 with Power=1.7
-              2 with Power=1.5
-              6 with Power=1.2
-             20 with Power=1
-              2 with Power=0.5
+* 1 with Power=4
+* 1 with Power=3.2
+* 1 with Power=3.1
+* 37 with Power=3
+* 11 with Power=2
+* 3 with Power=1.7
+* 2 with Power=1.5
+* 6 with Power=1.2
+* 20 with Power=1
+* 2 with Power=0.5
 
-----------------------------------------------------------------------
+## Format
 
 Rules are listed as follows:
 
-Rule <ID Number>/<Version> (<Power>)
-<Title of Rule>
+\<ID Number>/\<Version> \<Title of Rule>
 
-      <Text of Rule>
+**(\<Power>)**
+
+> \<Text of Rule>
 
 Annotations in square brackets are unofficial and have no legal force.
 They are added at the Rulekeepor's discretion.
 
-----------------------------------------------------------------------
-
-======================================================================
 # The Game of Agora
-----------------------------------------------------------------------
 
 ## Rule 101/17 The Game of Agora
-(Power=3)
+**Power=3**
 
 > Agora is a game of Nomic, wherein Persons, acting in accordance with the Rules, communicate their game Actions and/or results of these actions via Fora in order to play the game. The game may be won, but the game never ends.
 
 > Please treat Agora Right Good Forever.
+
+### CFJs
 
 [CFJ 24: Players must obey the Rules even in out-of-game actions.]
 
@@ -66,61 +64,45 @@ have the rule-defined status of "player".]
 [CFJs 1911-1914 (called 18 March 2008): Physical realities supersede
 the Rules by default.]
 
-History:  
-Initial Immutable Rule 101, Jun. 30 1993
-Mutated from MI=Unanimity to MI=3 by Proposal 1480, Mar. 15 1995
-Amended(1) by Proposal 3915 (harvel), Sep. 27 1999
-Amended(2) by Proposal 4833 (Maud), 6 August 2005
-Amended(3) by Proposal 4866 (Goethe), 27 August 2006
-Amended(4) by Proposal 4867 (Goethe), 27 August 2006
-Amended(5) by Proposal 4887 (Murphy), 22 January 2007
-Amended(6) by Proposal 4944 (Zefram), 3 May 2007
-Amended(7) by Proposal 5090 (Zefram), 25 July 2007
-Amended(8) by Proposal 5731 (Goethe; disi.), 8 October 2008
-Retitled by Proposal 5769 (Goethe), 17 October 2008
-Amended(9) by Proposal 5769 (Goethe), 17 October 2008
-Amended(10) by Proposal 5773 (Goethe), 17 October 2008
-Amended(11) by Proposal 6028 (Murphy), 8 January 2009
-Amended(12) by Proposal 6158 (Goethe), 31 March 2009
-Amended(13) by Proposal 6589 (c.; disi.), 6 December 2009
-Amended(14) by Proposal 7183 (G.), 26 February 2012
-Amended(15) by Proposal 7596 (omd), 14 September 2013
-Retitled and amended(16) by Proposal 7614 (G.), 13 January 2014
-Amended(17) by Proposal 7743 (G.), 12 May 2015
+### History
 
-----------------------------------------------------------------------
+* Initial Immutable Rule 101, Jun. 30 1993
+* Mutated from MI=Unanimity to MI=3 by Proposal 1480, Mar. 15 1995
+* Amended(1) by Proposal 3915 (harvel), Sep. 27 1999
+* Amended(2) by Proposal 4833 (Maud), 6 August 2005
+* Amended(3) by Proposal 4866 (Goethe), 27 August 2006
+* Amended(4) by Proposal 4867 (Goethe), 27 August 2006
+* Amended(5) by Proposal 4887 (Murphy), 22 January 2007
+* Amended(6) by Proposal 4944 (Zefram), 3 May 2007
+* Amended(7) by Proposal 5090 (Zefram), 25 July 2007
+* Amended(8) by Proposal 5731 (Goethe; disi.), 8 October 2008
+* Retitled by Proposal 5769 (Goethe), 17 October 2008
+* Amended(9) by Proposal 5769 (Goethe), 17 October 2008
+* Amended(10) by Proposal 5773 (Goethe), 17 October 2008
+* Amended(11) by Proposal 6028 (Murphy), 8 January 2009
+* Amended(12) by Proposal 6158 (Goethe), 31 March 2009
+* Amended(13) by Proposal 6589 (c.; disi.), 6 December 2009
+* Amended(14) by Proposal 7183 (G.), 26 February 2012
+* Amended(15) by Proposal 7596 (omd), 14 September 2013
+* Retitled and amended(16) by Proposal 7614 (G.), 13 January 2014
+* Amended(17) by Proposal 7743 (G.), 12 May 2015
 
-Rule 869/38 (Power=3)
-How to Join and Leave Agora
+## Rule 869/38 How to Join and Leave Agora
+**Power=3**
 
-      Any organism that is generally capable of freely originating and
-      communicating independent thoughts and ideas is a person.  Rules
-      to the contrary notwithstanding, no other entities are persons.
+> Any organism that is generally capable of freely originating and communicating independent thoughts and ideas is a person. Rules to the contrary notwithstanding, no other entities are persons.
 
-      Citizenship is a person switch with values Unregistered
-      (default) and Registered, tracked by the Registrar.  Changes to
-      citizenship are secured.  A registered person is a Player.
+> Citizenship is a person switch with values Unregistered (default) and Registered, tracked by the Registrar.  Changes to citizenship are secured.  A registered person is a Player.
 
-      A person CAN (unless explicitly forbidden or prevented by the
-      rules) register by publishing a message that indicates
-      reasonably clearly and reasonably unambiguously that e intends
-      to become a player at that time.  A person, by registering,
-      agrees to abide by the Rules.  The Rules CANNOT otherwise bind a
-      person to abide by any agreement without that person's willful
-      consent.
+> A person CAN (unless explicitly forbidden or prevented by the rules) register by publishing a message that indicates reasonably clearly and reasonably unambiguously that e intends to become a player at that time.  A person, by registering, agrees to abide by the Rules.  The Rules CANNOT otherwise bind a person to abide by any agreement without that person's willful consent.
 
-      A player CAN deregister (cease being a player) by announcement.
-      If e does so, e CANNOT register by announcement for 30 days.
+> A player CAN deregister (cease being a player) by announcement. If e does so, e CANNOT register by announcement for 30 days.
 
-      If a player has not sent a message to a public forum in the last
-      month, then any player CAN deregister em without objection.  In
-      the first week of every month, the Registrar SHALL use this
-      method to attempt to deregister every player that has not sent a
-      message to a public forum in the preceding month.
+> If a player has not sent a message to a public forum in the last month, then any player CAN deregister em without objection. In the first week of every month, the Registrar SHALL use this method to attempt to deregister every player that has not sent a message to a public forum in the preceding month.
 
-      The Rules CANNOT compel non-players to act, nor compel players
-      to unduly harass non-players.  A non-person CANNOT be a player,
-      rules to the contrary notwithstanding.
+> The Rules CANNOT compel non-players to act, nor compel players to unduly harass non-players.  A non-person CANNOT be a player, rules to the contrary notwithstanding.
+
+### CFJs
 
 [CFJ 1275 (called 19 February 2001): An entity is a Player if the
 Rules cannot distinguish that entity from a Player.]
@@ -130,50 +112,51 @@ desire or intent to register as a Player counts as a request for
 registration, whether or not it is explicitly phrased in the manner
 stipulated by the rules.]
 
-History:
-Created by Proposal 498 (Alexx), Sep. 30 1993
-Amended by Proposal 869, ca. Apr. 7 1994
-Amended by Rule 750, ca. Apr. 7 1994
-Amended(1) by Proposal 1313, Nov. 12 1994
-Amended(2) by Proposal 1437, Feb. 21 1995
-Amended(3) by Proposal 2040, Dec. 11 1995
-Amended(4) by Proposal 2599, May 11 1996
-Amended(5) by Proposal 2718, Oct. 23 1996
-Amended(6) by Proposal 3475 (Murphy), May 11 1997, substantial
-Amended(7) by Proposal 3740 (Repeal-O-Matic), May 8 1998
-Amended(8) by Proposal 3923 (harvel), Oct. 10 1999
-Amended(9) by Proposal 4011 (Wes), Jun. 1 2000
-Amended(10) by Proposal 4147 (Wes), 13 May 2001
-Amended(11) by Proposal 4155 (harvel), 18 May 2001
-Amended(12) by Proposal 4430 (Cecilius), 16 January 2003
-Amended(13) by Proposal 4451 (Cecilius), 22 February 2003
-Amended(14) by Proposal 4523 (Murphy), 28 August 2003
-Amended(15) by Proposal 4693 (Maud), 18 April 2005
-Amended(16) by Proposal 4802 (Maud), 15 June 2005
-Amended(17) by Proposal 4833 (Maud), 6 August 2005
-Amended(18) by Proposal 4989 (Zefram), 6 June 2007
-Amended(19) by Proposal 5007 (Zefram), 18 June 2007
-Amended(20) by Proposal 5011 (Zefram), 24 June 2007
-Amended(21) by Proposal 5086 (Zefram), 1 August 2007
-Amended(22) by Proposal 5111 (Murphy), 2 August 2007
-Amended(23) by Proposal 5117 (Zefram; disi.), 8 August 2007
-Amended(24) by Proposal 5156 (Zefram), 29 August 2007
-Amended(25) by Proposal 5271 (Murphy), 7 November 2007
-Power changed from 1 to 2 by Proposal 5728 (ihope), 7 October 2008
-Amended(26) by Proposal 5728 (ihope), 7 October 2008
-Amended(27) by Proposal 5973 (woggle), 25 November 2008
-Amended(28) by Proposal 6099 (Pavitra), 22 February 2009
-Amended(29) by Proposal 6349 (Pavitra), 17 June 2009
-Amended(30) by Proposal 6382 (Murphy), 3 July 2009
-Amended(31) by Proposal 6620 (Murphy; disi.), 4 February 2010
-Amended(32) by Proposal 6974 (Murphy), 30 March 2011
-Amended(33) by Proposal 7269 (FKA441344, G.), 25 July 2012
-Amended(34) by Proposal 7610 (G.), 22 December 2013
-Power changed from 2 to 3 by Proposal 7610 (G.), 22 December 2013
-Amended(35) by Proposal 7614 (G.), 13 January 2014
-Amended(36) by Proposal 7619 (woggle), 24 January 2014
-Amended(37) by Proposal 7647 (omd), 3 June 2014
-Amended(38) by Proposal 7734 (G.), 2 May 2015
+### History
+
+* Created by Proposal 498 (Alexx), Sep. 30 1993
+* Amended by Proposal 869, ca. Apr. 7 1994
+* Amended by Rule 750, ca. Apr. 7 1994
+* Amended(1) by Proposal 1313, Nov. 12 1994
+* Amended(2) by Proposal 1437, Feb. 21 1995
+* Amended(3) by Proposal 2040, Dec. 11 1995
+* Amended(4) by Proposal 2599, May 11 1996
+* Amended(5) by Proposal 2718, Oct. 23 1996
+* Amended(6) by Proposal 3475 (Murphy), May 11 1997, substantial
+* Amended(7) by Proposal 3740 (Repeal-O-Matic), May 8 1998
+* Amended(8) by Proposal 3923 (harvel), Oct. 10 1999
+* Amended(9) by Proposal 4011 (Wes), Jun. 1 2000
+* Amended(10) by Proposal 4147 (Wes), 13 May 2001
+* Amended(11) by Proposal 4155 (harvel), 18 May 2001
+* Amended(12) by Proposal 4430 (Cecilius), 16 January 2003
+* Amended(13) by Proposal 4451 (Cecilius), 22 February 2003
+* Amended(14) by Proposal 4523 (Murphy), 28 August 2003
+* Amended(15) by Proposal 4693 (Maud), 18 April 2005
+* Amended(16) by Proposal 4802 (Maud), 15 June 2005
+* Amended(17) by Proposal 4833 (Maud), 6 August 2005
+* Amended(18) by Proposal 4989 (Zefram), 6 June 2007
+* Amended(19) by Proposal 5007 (Zefram), 18 June 2007
+* Amended(20) by Proposal 5011 (Zefram), 24 June 2007
+* Amended(21) by Proposal 5086 (Zefram), 1 August 2007
+* Amended(22) by Proposal 5111 (Murphy), 2 August 2007
+* Amended(23) by Proposal 5117 (Zefram; disi.), 8 August 2007
+* Amended(24) by Proposal 5156 (Zefram), 29 August 2007
+* Amended(25) by Proposal 5271 (Murphy), 7 November 2007
+* Power changed from 1 to 2 by Proposal 5728 (ihope), 7 October 2008
+* Amended(26) by Proposal 5728 (ihope), 7 October 2008
+* Amended(27) by Proposal 5973 (woggle), 25 November 2008
+* Amended(28) by Proposal 6099 (Pavitra), 22 February 2009
+* Amended(29) by Proposal 6349 (Pavitra), 17 June 2009
+* Amended(30) by Proposal 6382 (Murphy), 3 July 2009
+* Amended(31) by Proposal 6620 (Murphy; disi.), 4 February 2010
+* Amended(32) by Proposal 6974 (Murphy), 30 March 2011
+* Amended(33) by Proposal 7269 (FKA441344, G.), 25 July 2012
+* Amended(34) by Proposal 7610 (G.), 22 December 2013
+* Power changed from 2 to 3 by Proposal 7610 (G.), 22 December 2013
+* Amended(35) by Proposal 7614 (G.), 13 January 2014
+* Amended(36) by Proposal 7619 (woggle), 24 January 2014
+* Amended(37) by Proposal 7647 (omd), 3 June 2014
+* Amended(38) by Proposal 7734 (G.), 2 May 2015
 
 ----------------------------------------------------------------------
 
@@ -4325,16 +4308,11 @@ necessarily constitute a violation of this rule.]
 History:
 Created by Proposal 4329 (Goethe), 9 June 2002
 
-----------------------------------------------------------------------
+# Garbage Bin
 
-======================================================================
-Garbage Bin
-      CFJ annotations that do not currently apply to any specific
-      rules, but are likely to do so in the future, at which point
-      they can be reattached.
-----------------------------------------------------------------------
+CFJ annotations that do not currently apply to any specific rules, but are likely to do so in the future, at which point they can be reattached.
 
-Contracts / Binding Agreements
+## Contracts / Binding Agreements
 
 [CFJ 1892 (called 2 February 2008): An agreement that is not binding
 is thereby not a contract.]
@@ -4427,9 +4405,7 @@ mechanism, if the contract is intended to be governed under Agoran
 law) is akin to a natural death, and does not generally constitute a
 restriction of its rights as a person.]
 
-----------------------------------------------------------------------
-
-Truthfulness
+## Truthfulness
 
 [CFJ 1739 (called 29 August 2007): A quotation can result in a
 violation of Rule 2215 (then 2149), depending on the context of the
@@ -4452,9 +4428,7 @@ to cause false statements to be accidentally published, a person does
 not violate Rule 2215 by engaging in it if there is no specific
 statement e believes is false.]
 
-----------------------------------------------------------------------
-
-Miscellaneous
+## Miscellaneous
 
 [CFJ 2276a (called 20 November 2008): When a rule allows, as an
 action, a quantity to be increased which is defined elsewhere as a
