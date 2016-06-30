@@ -10,13 +10,13 @@ If you want to make changes via git for authentication or automation purposes, s
 
 [[How to play Agora]]
 
+[[Glossary]]
+
 # Rules
 
 [[Full Logical Ruleset]]
 
 [[Short Logical Ruleset]]
-
-[[Glossary]]
 
 # Reports
 
