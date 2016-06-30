@@ -16,13 +16,13 @@ Index of Rules
       Rule  869: How to Join and Leave Agora
       Rule 2141: Role and Attributes of Rules
       Rule  478: Fora
-      Rule 2449: [[Winning|Glossary#winning]] the Game
+      Rule 2449: Winning the Game
       Rule 1698: Agora Is A Nomic
 
       * Mutability
       Rule 2125: Regulation Regulations
-      Rule 1688: [[Power|Glossary#power]]
-      Rule 2140: [[Power|Glossary#power]] Controls Mutability
+      Rule 1688: Power
+      Rule 2140: Power Controls Mutability
       Rule 1030: Precedence between Rules
       Rule 2240: No Cretans Need Apply
 
@@ -34,7 +34,7 @@ Index of Rules
       Rule 2124: Agoran Satisfaction
 
       * Politics
-      Rule 1006: [[Office|Glossary#office]]s
+      Rule 1006: Offices
       Rule  103: The Speaker
       Rule 2423: First Among Equals
       Rule 2451: Executive Orders
@@ -89,14 +89,14 @@ Index of Rules
       Rule 2430: Cleanup Time
 
       * Recordkeeping
-      Rule 2143: Official [[Report|Glossary#report]]s and Duties
+      Rule 2143: Official Reports and Duties
       Rule 2379: No News Is Some News
       Rule 2160: Deputisation
       Rule 1551: Ratification
       Rule 2202: Ratification Without Objection
       Rule 2201: Self-Ratification
       Rule 2446: The Agoran Newspaper
-      Rule 2138: The Associate Director of [[Person|Glossary#person]]nel
+      Rule 2138: The Associate Director of Personnel
       Rule 2139: The Registrar
 
       * Organizations
@@ -104,11 +104,11 @@ Index of Rules
       Rule 2459: Organizations
       Rule 2460: Organizational Restructuring
       Rule 2461: Death and Birth of Organizations
-      Rule 2462: [[Bankrupt|Glossary#bankrupt]]cy
-      Rule 2457: [[Lockout|Glossary#lockout]]
-      Rule 2458: Invoking [[Lockout|Glossary#lockout]]
+      Rule 2462: Bankruptcy
+      Rule 2457: Lockout
+      Rule 2458: Invoking Lockout
 
-      * [[Winning|Glossary#winning]]
+      * Winning
       Rule 2452: Trust Tokens
       Rule 2454: The New Map
       Rule 2438: Ribbons
@@ -126,22 +126,22 @@ Index of Rules
       (Garbage Bin)
 
 Current total number of rules: 84
-              1 with [[Power|Glossary#power]]=4
-              1 with [[Power|Glossary#power]]=3.2
-              1 with [[Power|Glossary#power]]=3.1
-             37 with [[Power|Glossary#power]]=3
-             11 with [[Power|Glossary#power]]=2
-              3 with [[Power|Glossary#power]]=1.7
-              2 with [[Power|Glossary#power]]=1.5
-              6 with [[Power|Glossary#power]]=1.2
-             20 with [[Power|Glossary#power]]=1
-              2 with [[Power|Glossary#power]]=0.5
+              1 with Power=4
+              1 with Power=3.2
+              1 with Power=3.1
+             37 with Power=3
+             11 with Power=2
+              3 with Power=1.7
+              2 with Power=1.5
+              6 with Power=1.2
+             20 with Power=1
+              2 with Power=0.5
 
 ----------------------------------------------------------------------
 
 Rules are listed as follows:
 
-Rule <ID Number>/<Version> (<[[Power|Glossary#power]]>)
+Rule <ID Number>/<Version> (<Power>)
 <Title of Rule>
 
       <Text of Rule>
@@ -158,16 +158,16 @@ The Game of Agora
 Rule 101/17 (Power=3)
 The Game of Agora
 
-      Agora is a game of Nomic, wherein [[Person|Glossary#person]]s, acting in accordance
+      Agora is a game of Nomic, wherein Persons, acting in accordance
       with the Rules, communicate their game Actions and/or results of
       these actions via Fora in order to play the game.  The game may
       be won, but the game never ends.
 
       Please treat Agora Right Good Forever.
 
-[CFJ 24: [[Player|Glossary#player]]s must obey the Rules even in out-of-game actions.]
+[CFJ 24: Players must obey the Rules even in out-of-game actions.]
 
-[CFJ 825 (called 7 November 1995): [[Player|Glossary#player]]s must obey the Rules even if
+[CFJ 825 (called 7 November 1995): Players must obey the Rules even if
 no Rule says so.]
 
 [CFJ 1848 (called 21 December 2007): The game must operate according
@@ -176,7 +176,7 @@ any retroactive changes made in the future.]
 
 [CFJ 1709 (called 26 July 2007): The rules are binding on all those
 who play the game in the broader sense, regardless of whether they
-have the rule-defined status of "[[player|Glossary#player]]".]
+have the rule-defined status of "player".]
 
 [CFJs 1911-1914 (called 18 March 2008): Physical realities supersede
 the Rules by default.]
@@ -209,39 +209,39 @@ Rule 869/38 (Power=3)
 How to Join and Leave Agora
 
       Any organism that is generally capable of freely originating and
-      communicating independent thoughts and ideas is a [[person|Glossary#person]].  Rules
-      to the contrary notwithstanding, no other entities are [[person|Glossary#person]]s.
+      communicating independent thoughts and ideas is a person.  Rules
+      to the contrary notwithstanding, no other entities are persons.
 
-      Citizenship is a [[person|Glossary#person]] switch with values Unregistered
+      Citizenship is a person switch with values Unregistered
       (default) and Registered, tracked by the Registrar.  Changes to
-      citizenship are secured.  A registered [[person|Glossary#person]] is a [[Player|Glossary#player]].
+      citizenship are secured.  A registered person is a Player.
 
-      A [[person|Glossary#person]] CAN (unless explicitly forbidden or prevented by the
+      A person CAN (unless explicitly forbidden or prevented by the
       rules) register by publishing a message that indicates
       reasonably clearly and reasonably unambiguously that e intends
-      to become a [[player|Glossary#player]] at that time.  A [[person|Glossary#person]], by registering,
+      to become a player at that time.  A person, by registering,
       agrees to abide by the Rules.  The Rules CANNOT otherwise bind a
-      [[person|Glossary#person]] to abide by any agreement without that [[person|Glossary#person]]'s willful
+      person to abide by any agreement without that person's willful
       consent.
 
-      A [[player|Glossary#player]] CAN deregister (cease being a player) by [[announcement|Glossary#announcement]].
-      If e does so, e CANNOT register by [[announcement|Glossary#announcement]] for 30 days.
+      A player CAN deregister (cease being a player) by announcement.
+      If e does so, e CANNOT register by announcement for 30 days.
 
-      If a [[player|Glossary#player]] has not sent a message to a [[public forum|Glossary#public forum]] in the last
-      month, then any [[player|Glossary#player]] CAN deregister em without objection.  In
+      If a player has not sent a message to a public forum in the last
+      month, then any player CAN deregister em without objection.  In
       the first week of every month, the Registrar SHALL use this
-      method to attempt to deregister every [[player|Glossary#player]] that has not sent a
-      message to a [[public forum|Glossary#public forum]] in the preceding month.
+      method to attempt to deregister every player that has not sent a
+      message to a public forum in the preceding month.
 
-      The Rules CANNOT compel non-[[player|Glossary#player]]s to act, nor compel [[player|Glossary#player]]s
-      to unduly harass non-[[player|Glossary#player]]s.  A non-[[person|Glossary#person]] CANNOT be a [[player|Glossary#player]],
+      The Rules CANNOT compel non-players to act, nor compel players
+      to unduly harass non-players.  A non-person CANNOT be a player,
       rules to the contrary notwithstanding.
 
-[CFJ 1275 (called 19 February 2001): An entity is a [[Player|Glossary#player]] if the
-Rules cannot distinguish that entity from a [[Player|Glossary#player]].]
+[CFJ 1275 (called 19 February 2001): An entity is a Player if the
+Rules cannot distinguish that entity from a Player.]
 
 [CFJ 1263 (called 5 February 2001): Any message expressing a clear
-desire or intent to register as a [[Player|Glossary#player]] counts as a request for
+desire or intent to register as a Player counts as a request for
 registration, whether or not it is explicitly phrased in the manner
 stipulated by the rules.]
 
@@ -274,7 +274,7 @@ Amended(22) by Proposal 5111 (Murphy), 2 August 2007
 Amended(23) by Proposal 5117 (Zefram; disi.), 8 August 2007
 Amended(24) by Proposal 5156 (Zefram), 29 August 2007
 Amended(25) by Proposal 5271 (Murphy), 7 November 2007
-[[Power|Glossary#power]] changed from 1 to 2 by Proposal 5728 (ihope), 7 October 2008
+Power changed from 1 to 2 by Proposal 5728 (ihope), 7 October 2008
 Amended(26) by Proposal 5728 (ihope), 7 October 2008
 Amended(27) by Proposal 5973 (woggle), 25 November 2008
 Amended(28) by Proposal 6099 (Pavitra), 22 February 2009
@@ -284,7 +284,7 @@ Amended(31) by Proposal 6620 (Murphy; disi.), 4 February 2010
 Amended(32) by Proposal 6974 (Murphy), 30 March 2011
 Amended(33) by Proposal 7269 (FKA441344, G.), 25 July 2012
 Amended(34) by Proposal 7610 (G.), 22 December 2013
-[[Power|Glossary#power]] changed from 2 to 3 by Proposal 7610 (G.), 22 December 2013
+Power changed from 2 to 3 by Proposal 7610 (G.), 22 December 2013
 Amended(35) by Proposal 7614 (G.), 13 January 2014
 Amended(36) by Proposal 7619 (woggle), 24 January 2014
 Amended(37) by Proposal 7647 (omd), 3 June 2014
@@ -299,17 +299,17 @@ Role and Attributes of Rules
       game generally, and is always taking effect.  A rule's content
       takes the form of a text, and is unlimited in scope.
 
-      Every rule has [[power|Glossary#power]] between 0.1 and 4.0 inclusive.  It is
-      not possible for a rule to have a [[power|Glossary#power]] outside this range.
+      Every rule has power between 0.1 and 4.0 inclusive.  It is
+      not possible for a rule to have a power outside this range.
 
       Rules have ID numbers, to be assigned by the Rulekeepor.
 
       Every rule shall have a title to aid in identification.  If a
       rule ever does not have a title, the Rulekeepor SHALL assign a
-      title to it by [[announcement|Glossary#announcement]] [[in a timely fashion|Glossary#in a timely fashion]].
+      title to it by announcement in a timely fashion.
 
       For the purposes of rules governing modification of instruments,
-      the text, [[power|Glossary#power]], ID number, and title of a rule are all
+      the text, power, ID number, and title of a rule are all
       substantive aspects of the rule.  However, rules to the contrary
       notwithstanding, the Rulekeepor CAN set rule aspects as
       described elsewhere in this rule.
@@ -319,10 +319,10 @@ name for the rule, and so rule titles are not subject to the
 uniqueness requirement on names of rule-defined entities.]
 
 [CFJ 2013 (called 17 June 2009): Rule 2141 does not imply that the
-[[power|Glossary#power]] of rules is physically unlimited: they can only affect the world
-outside the game by prescribing or proscribing [[player|Glossary#player]] behavior.]
+power of rules is physically unlimited: they can only affect the world
+outside the game by prescribing or proscribing player behavior.]
 
-[CFJ 2213 (called 7 October 2008): The [[power|Glossary#power]]s granted to rules by the
+[CFJ 2213 (called 7 October 2008): The powers granted to rules by the
 first paragraph of Rule 2141 are general, and only apply as otherwise
 stated by the Rules.]
 
@@ -344,40 +344,40 @@ Rule 478/32 (Power=3)
 Fora
 
       Freedom of speech being essential for the healthy functioning of
-      any non-Imperial nomic, it is hereby resolved that no [[Player|Glossary#player]]
+      any non-Imperial nomic, it is hereby resolved that no Player
       shall be prohibited from participating in the Fora, nor shall
-      any [[person|Glossary#person]] create physical or technological obstacles that
-      unduly favor some [[player|Glossary#player]]s' fora access over others.
+      any person create physical or technological obstacles that
+      unduly favor some players' fora access over others.
 
       Publicity is a forum switch with values Public, Discussion, and
       Foreign (default), tracked by the Registrar.  Changes to
       publicity are secured.
 
-      The Registrar's [[report|Glossary#report]] includes, for each forum with non-Foreign
-      publicity, sufficient instructions for [[player|Glossary#player]]s to receive
+      The Registrar's report includes, for each forum with non-Foreign
+      publicity, sufficient instructions for players to receive
       messages there.
 
       The Registrar may change the publicity of a forum without
       objection as long as:
 
-      (a) e sends eir [[announcement|Glossary#announcement]] of intent to that forum; and
+      (a) e sends eir announcement of intent to that forum; and
 
-      (b) if the forum is to be made public, the [[announcement|Glossary#announcement]] by which
+      (b) if the forum is to be made public, the announcement by which
           the Registrar makes that forum public is sent to all
           existing public fora.
 
-      Each [[player|Glossary#player]] should ensure e can receive messages via each public
+      Each player should ensure e can receive messages via each public
       forum.
 
-      A public message is a message sent via a [[public forum|Glossary#public forum]], or sent
-      to all [[player|Glossary#player]]s and containing a clear designation of intent to
+      A public message is a message sent via a public forum, or sent
+      to all players and containing a clear designation of intent to
       be public.  A rule can also designate that a part of one public
       message is considered a public message in its own right. A
-      [[person|Glossary#person]] "publishes" or "announces" something by sending a public
+      person "publishes" or "announces" something by sending a public
       message.
 
       Where the rules define an action that CAN be performed "by
-      [[announcement|Glossary#announcement]]", a [[person|Glossary#person]] performs that action by unambiguously
+      announcement", a person performs that action by unambiguously
       and clearly specifying the action and announcing that e performs
       it.  Any action performed by sending a message is performed at
       the time date-stamped on that message. Actions in messages
@@ -389,11 +389,11 @@ multiple email messages can qualify as a single message for game
 purposes, if it is obvious how to combine the parts to reconstruct the
 single message.]
 
-[CFJ 752 (called 13 March 1995): Something sent to a [[Player|Glossary#player]] who is
-obligated to send it to all [[Player|Glossary#player]]s is sufficient for sending
+[CFJ 752 (called 13 March 1995): Something sent to a Player who is
+obligated to send it to all Players is sufficient for sending
 something to the PF.]
 
-[CFJ 813 (called 22 October 1995): A [[Player|Glossary#player]] need not prove that e can
+[CFJ 813 (called 22 October 1995): A Player need not prove that e can
 receive the PF.]
 
 [CFJ 831 (called 10 November 1995): The Date: header of a message is
@@ -406,7 +406,7 @@ of game custom.]
 [CFJ 2212 (called 7 October 2008): An IRC channel is a forum.]
 
 [CFJ 2211 (called 7 October 2008): It is generally possible for an IRC
-channel to be a [[public forum|Glossary#public forum]].
+channel to be a public forum.
 
 [CFJ 2214 (called 7 October 2008): Some IRC messages, such as NICK,
 are sent to all members of an IRC channel but are not sent via that
@@ -421,22 +421,22 @@ control it).]
 [CFJ 1112: In order to submit a Proposal, in the sense of R1865 and
 elsewhere, it is not sufficient that a collection of text 'with the
 clear indication that that text is intended to become a Proposal'
-(R1483) merely be sent to the [[Public Forum|Glossary#public forum]] by a Proposing Entity; the
-collection of text must also be received in the [[Public Forum|Glossary#public forum]].]
+(R1483) merely be sent to the Public Forum by a Proposing Entity; the
+collection of text must also be received in the Public Forum.]
 
-[CFJ 1314 (called 15 August 2001): If a message sent to a [[public forum|Glossary#public forum]]
+[CFJ 1314 (called 15 August 2001): If a message sent to a public forum
 is rejected by the list moderator, it still qualifies as having been
-sent via a [[public forum|Glossary#public forum]].]
+sent via a public forum.]
 
 [CFJ 1905 (called 7 February 2008): Regardless of CFJ 1314, a message
-has not been sent via a forum until most [[person|Glossary#person]]s who have arranged to
+has not been sent via a forum until most persons who have arranged to
 receive messages via the forum receive it.]
 
 [CFJ 1888 (called 31 January 2008): Sending a message to a Discussion
-Forum, or other mailing list except for a [[Public Forum|Glossary#public forum]], does not
-qualify as sending it to all [[player|Glossary#player]]s.]
+Forum, or other mailing list except for a Public Forum, does not
+qualify as sending it to all players.]
 
-[CFJ 1631 (called 29 April 2007): Public [[announcement|Glossary#announcement]]s must be made in
+[CFJ 1631 (called 29 April 2007): Public announcements must be made in
 the message body; the subject line is insignificant.]
 
 [CFJ 1784 (called 5 November 2007): An undescriptive or misleading
@@ -464,82 +464,82 @@ fora is the right to participate in them for their intended purposes,
 and is not necessarily infringed by regulations regarding the manner
 and type of participation.]
 
-[CFJ 1738 (called 29 August 2007): An obligation on a [[player|Glossary#player]] to not
+[CFJ 1738 (called 29 August 2007): An obligation on a player to not
 publish statements that e believes are true would conflict with the
 right of participation in the fora.]
 
-[CFJ 1719 (called 12 August 2007): A [[player|Glossary#player]] can, if e intends, have
+[CFJ 1719 (called 12 August 2007): A player can, if e intends, have
 public messages sent on eir behalf, including via a web form that
 allows all-comers to send messages on eir behalf without specific
 approval.]
 
-[CFJs 1833-1834 (called 18 December 2007): A [[player|Glossary#player]] can, by
-contractual arrangement, grant another [[player|Glossary#player]] the capacity to act by
-[[announcement|Glossary#announcement]] on eir behalf.]
+[CFJs 1833-1834 (called 18 December 2007): A player can, by
+contractual arrangement, grant another player the capacity to act by
+announcement on eir behalf.]
 
 [CFJ 1893 (called 3 February 2008): A non-consensual non-contractual
-arrangement cannot grant a [[player|Glossary#player]] the capacity to act by [[announcement|Glossary#announcement]]
+arrangement cannot grant a player the capacity to act by announcement
 on behalf of another.]
 
-[CFJ 2397 (caled 3 March 2009): A [[player|Glossary#player]] can grant or revoke
-permission at will for another [[player|Glossary#player]] to act by [[announcement|Glossary#announcement]] on eir
+[CFJ 2397 (caled 3 March 2009): A player can grant or revoke
+permission at will for another player to act by announcement on eir
 behalf.]
 
 [CFJ 2322 (called 24 December 2008): The ability to act on behalf can
 be created by any willful agreement.]
 
 [CFJ 1336 (called 13 December 2001): A public statement that one
-wishes to perform an action that one can perform by [[announcement|Glossary#announcement]] can
-constitute an [[announcement|Glossary#announcement]] that performs that action.]
+wishes to perform an action that one can perform by announcement can
+constitute an announcement that performs that action.]
 
 [CFJ 1621 (called 8 February 2007): Where an action can be performed
-by [[announcement|Glossary#announcement]], announcing that one deems something to be the case
+by announcement, announcing that one deems something to be the case
 that would result from that action does not constitute performing the
 action.]
 
 [CFJ 1584 (called 24 February 2006), CFJ 1728 (called 20 August 2007):
 Saying "I do X 1000 times", where X is something that can be done by
-[[announcement|Glossary#announcement]], is an acceptable shorthand for 1000 instances of "I do
+announcement, is an acceptable shorthand for 1000 instances of "I do
 X", but this shorthand cannot be used with an infinite repeat count,
 because it is impossible to write out an infinite number of instances
 of "I do X".]
 
 [CFJ 1774 (called 1 November 2007): Saying "I do X 10000 times", where
-X is something that can be done by [[announcement|Glossary#announcement]], does not necessarily
+X is something that can be done by announcement, does not necessarily
 achieve 10000 instances of X, if writing out 10000 instances of "I do
 X" would be a substantial effort such that using the shorthand is
 abusive.  The presumption is in favour of the shorthand being
 successful.]
 
-[CFJ 1775 (called 1 November 2007): If an [[announcement|Glossary#announcement]] of the form "I
+[CFJ 1775 (called 1 November 2007): If an announcement of the form "I
 do X N times" is not be acceptable shorthand for N instances of "I do
-X", then the [[announcement|Glossary#announcement]] is completely nullified, and does not have
+X", then the announcement is completely nullified, and does not have
 the effect of M instances of "I do X" for any non-zero repeat count
 M.]
 
-[CFJ 1730 (called 22 August 2007): An appropriate [[announcement|Glossary#announcement]] will
+[CFJ 1730 (called 22 August 2007): An appropriate announcement will
 accomplish an action even if its author believed the action was
 impossible.]
 
 [CFJ 1841 (called 20 December 2007): A message-based action cannot be
 retroactive.]
 
-[CFJ 1971 (called 22 May 2008): An [[announcement|Glossary#announcement]] with a general
-disclaimer as to its contents cannot fulfill a requirement to [[report|Glossary#report]]
+[CFJ 1971 (called 22 May 2008): An announcement with a general
+disclaimer as to its contents cannot fulfill a requirement to report
 information, but it may successfully cause game actions to be taken if
 the actions do not depend on the truth value of the disclaimed
 contents.]
 
 [CFJ 2133 (called 9 August 2008): A disclaimed statement cannot cause
-an action to be taken by [[announcement|Glossary#announcement]].]
+an action to be taken by announcement.]
 
 [CFJ 2112 (called 23 July 2008): An action is only taken by
-[[announcement|Glossary#announcement]] if the Rules define it as such; e.g., posting an
+announcement if the Rules define it as such; e.g., posting an
 objection to a dependent action is not an action taken by
-[[announcement|Glossary#announcement]].]
+announcement.]
 
 [CFJ 2151 (called 5 September 2008): Some unregulated actions, such as
-celebrating and revealing things, can be taken by [[announcement|Glossary#announcement]].]
+celebrating and revealing things, can be taken by announcement.]
 
 [CFJ 2086 (called 15 July 2008): Message-based actions are always
 taken in some order, never precisely simultaneously, possibly unless
@@ -549,7 +549,7 @@ otherwise stated.]
 taken even if its sender cannot be identified.]
 
 [CFJ 2221 (called 13 October 2008): When an action is specified as
-"can do X in order to do Y", and a [[player|Glossary#player]] does X without specifying
+"can do X in order to do Y", and a player does X without specifying
 intent to do Y, e does not do Y.]
 
 [CFJ 2238 (called 22 October 2008): The requirement of unambiguous
@@ -566,7 +566,7 @@ count as publishing that text.]
 must be clear what he did; if it is not clear what he did, then it is
 not clear what he did.]
 
-[CFJ 3106 (called 19 October 2011): When a [[person|Glossary#person]] announces that "e
+[CFJ 3106 (called 19 October 2011): When a person announces that "e
 performs" an action, the referent of "e" (i.e. eir identity) must be
 clear.]
 
@@ -574,7 +574,7 @@ clear.]
 statement causes [action]" is ineffective as a way to perform
 [action], and may be an attempt to act on behalf of the statement.]
 
-[CFJ 2899 (called 12 November 2010): A [[player|Glossary#player]]'s real name does not
+[CFJ 2899 (called 12 November 2010): A player's real name does not
 necessary identify em.]
 
 History:
@@ -592,7 +592,7 @@ Amended(10) by Proposal 3823 (oerjan), Jan. 21 1999
 Amended(11) by Proposal 4147 (Wes), 13 May 2001
 Amended(12) by Proposal 4248 (Murphy), 19 February 2002
 Amended(13) by Proposal 4456 (Maud), 22 February 2003
-[[Power|Glossary#power]] changed from 1 to 3 by Proposal 4690 (root), 18 April 2005
+Power changed from 1 to 3 by Proposal 4690 (root), 18 April 2005
 Amended(14) by Proposal 4690 (root), 18 April 2005
 Amended(15) by Proposal 4833 (Maud), 6 August 2005
 Amended(16) by Proposal 4866 (Goethe), 27 August 2006
@@ -616,15 +616,15 @@ Amended(32) by Proposal 7632 (scshunt), 1 May 2014
 ----------------------------------------------------------------------
 
 Rule 2449/0 (Power=3)
-[[Winning|Glossary#winning]] the Game
+Winning the Game
 
-      When the Rules state that a [[Player|Glossary#player]] or [[Player|Glossary#player]]s win the game,
-      those [[player|Glossary#player]]s win the game; specifically they win the Round
+      When the Rules state that a Player or Players win the game,
+      those players win the game; specifically they win the Round
       that ends with the indicated win.  Agora itself does not end and
       the ruleset remains unchanged. The Herald is then authorized to
-      award those [[player|Glossary#player]]s the Patent Title of Champion.
+      award those players the Patent Title of Champion.
 
-      [[Winning|Glossary#winning]] the game is secured, except as described in Ephemeral
+      Winning the game is secured, except as described in Ephemeral
       Rules.
 
 History:
@@ -636,7 +636,7 @@ Rule 1698/4 (Power=3)
 Agora Is A Nomic
 
       Agora is ossified if it is IMPOSSIBLE for any reasonable
-      combination of actions by [[player|Glossary#player]]s to cause arbitrary rule
+      combination of actions by players to cause arbitrary rule
       changes to be made and/or arbitrary proposals to be adopted
       within a four-week period.
 
@@ -668,7 +668,7 @@ Regulation Regulations
       An action is regulated if: (1) the Rules limit, allow, enable,
       or permit its performance; (2) describe the circumstances under
       which the action would succeed or fail; or (3) the action would,
-      as part of its effect, modify information for which some [[player|Glossary#player]]
+      as part of its effect, modify information for which some player
       is required to be a recordkeepor.
 
       Regulated Actions CAN only be performed as described by the
@@ -689,24 +689,24 @@ Amended(8) by Proposal 7614 (G.), 13 January 2014
 ----------------------------------------------------------------------
 
 Rule 1688/8 (Power=3)
-[[Power|Glossary#power]]
+Power
 
-      The [[Power|Glossary#power]] of an entity is a non-negative rational number.  An
-      Instrument is an entity with positive [[Power|Glossary#power]].
+      The Power of an entity is a non-negative rational number.  An
+      Instrument is an entity with positive Power.
 
-      The [[Power|Glossary#power]] of an entity cannot be set or modified except as
-      stipulated by the Rules.  All entities have [[Power|Glossary#power]] zero except
+      The Power of an entity cannot be set or modified except as
+      stipulated by the Rules.  All entities have Power zero except
       where specifically allowed by the rules.
 
-      [[Power|Glossary#power]] less than one is called Ephemeral [[power|Glossary#power]], and an instrument
-      with a [[power|Glossary#power]] less than one is an Ephemeral instrument.
+      Power less than one is called Ephemeral power, and an instrument
+      with a power less than one is an Ephemeral instrument.
 
       A Rule that makes a change, action, or value secured (hereafter
       the securing Rule) thereby makes it IMPOSSIBLE to perform that
       change or action, or to set or modify that value, except as
-      allowed by an Instrument with [[Power|Glossary#power]] greater than or equal to the
-      change's [[Power|Glossary#power]] Threshold.  This Threshold defaults to the
-      securing Rule's [[Power|Glossary#power]], but CAN be lowered as allowed by that
+      allowed by an Instrument with Power greater than or equal to the
+      change's Power Threshold.  This Threshold defaults to the
+      securing Rule's Power, but CAN be lowered as allowed by that
       Rule (including by the Rule itself).
 
 History:
@@ -725,17 +725,17 @@ Amended(8) by Proposal 7781 (the Warrigal), 14 August 2015
 ----------------------------------------------------------------------
 
 Rule 2140/1 (Power=3)
-[[Power|Glossary#power]] Controls Mutability
+Power Controls Mutability
 
-      No entity with [[power|Glossary#power]] below the [[power|Glossary#power]] of this rule can
+      No entity with power below the power of this rule can
 
-      (a) cause an entity to have [[power|Glossary#power]] greater than its own.
+      (a) cause an entity to have power greater than its own.
 
-      (b) adjust the [[power|Glossary#power]] of an instrument with [[power|Glossary#power]] greater than
+      (b) adjust the power of an instrument with power greater than
           its own.
 
       (c) set or modify any other substantive aspect of an instrument
-          with [[power|Glossary#power]] greater than its own.  A "substantive" aspect of
+          with power greater than its own.  A "substantive" aspect of
           an instrument is any aspect that affects the instrument's
           operation.
 
@@ -760,9 +760,9 @@ Precedence between Rules
       performing the following comparisons in the sequence written in
       this rule, until the conflict is resolved.
 
-      - In a conflict between Rules with different [[Power|Glossary#power]], the Rule
-        with the higher [[Power|Glossary#power]] takes precedence over the Rule with the
-        lower [[Power|Glossary#power]]; otherwise,
+      - In a conflict between Rules with different Power, the Rule
+        with the higher Power takes precedence over the Rule with the
+        lower Power; otherwise,
 
       - If all of the Rules in conflict explicitly say that their
         precedence relations are determined by some other Rule for
@@ -819,7 +819,7 @@ Amended(6) by Proposal 5110 (Murphy), 2 August 2007
 Amended(7) by Proposal 6285 (Goethe), 19 May 2009
 Amended(8) by Proposal 6292 (Goethe), 19 May 2009
 Title changed by Proposal 6292 (Goethe), 19 May 2009
-[[Power|Glossary#power]] changed from 3 to 3.2 by Proposal 6292 (Goethe), 19 May 2009
+Power changed from 3 to 3.2 by Proposal 6292 (Goethe), 19 May 2009
 Amended(9) by cleaning (Murphy), 16 August 2009
 Amended(10) by Proposal 7235 (omd), 10 June 2012
 Amended(11) by Proposal 7334 (woggle), 27 March 2013
@@ -849,11 +849,11 @@ Rule Changes
       Where permitted by other rules, an instrument generally can,
       as part of its effect,
 
-      (a) enact a rule.  The new rule has [[power|Glossary#power]] equal to the minimum
-          of the [[power|Glossary#power]] specified by the enacting instrument,
+      (a) enact a rule.  The new rule has power equal to the minimum
+          of the power specified by the enacting instrument,
           defaulting to one if the enacting instrument does not
-          specify or if it specifies a [[power|Glossary#power]] less than 0.1, and the
-          maximum [[power|Glossary#power]] permitted by other rules.  The enacting
+          specify or if it specifies a power less than 0.1, and the
+          maximum power permitted by other rules.  The enacting
           instrument may specify a title for the new rule, which if
           present shall prevail.  The ID number of the new rule cannot
           be specified by the enacting instrument; any attempt to so
@@ -876,7 +876,7 @@ Rule Changes
 
       (e) retitle a rule.
 
-      (f) change the [[power|Glossary#power]] of a rule.
+      (f) change the power of a rule.
 
       A rule change is any effect that falls into the above classes.
       Rule changes always occur sequentially, never simultaneously.
@@ -898,9 +898,9 @@ Rule Changes
       become a rule or cease to be a rule.
 
 [CFJ 1499 (called 20 April 2004), CFJ 1623 (called 1 April 2007): If a
-low-[[power|Glossary#power]] rule states that an [[office|Glossary#office]]r can repeal the rule under
+low-power rule states that an officer can repeal the rule under
 certain circumstances, then the rule cannot actually be repealed by
-this process, because the [[office|Glossary#office]]r, not being an instrument, is
+this process, because the officer, not being an instrument, is
 categorically incapable of performing rule changes; this is different
 from the situation where a rule can be triggered to repeal itself.]
 
@@ -913,7 +913,7 @@ identify different rules, this constitutes ambiguity that nullifies
 the attempted rule change.]
 
 [CFJ 1644 (called 29 April 2007): Where a proposal contains the form
-of words "Change the [[power|Glossary#power]] of rule NNNN to P and amend it by XXX.",
+of words "Change the power of rule NNNN to P and amend it by XXX.",
 where XXX specifies a text change, this constitutes two attempted rule
 changes.]
 
@@ -948,7 +948,7 @@ History:
 Created by Proposal 4894 (Murphy), 12 February 2007
 Renumbered from 2131 to 105 by Proposal 4894 (Murphy), 12 February
   2007
-[[Power|Glossary#power]] changed from 1 to 3 by Proposal 4894 (Murphy), 12 February 2007
+Power changed from 1 to 3 by Proposal 4894 (Murphy), 12 February 2007
 Retitled by Proposal 4894 (Murphy), 12 February 2007
 Amended(1) by Proposal 4894 (Murphy), 12 February 2007
 Amended(2) by Proposal 4940 (Zefram), 29 April 2007
@@ -973,7 +973,7 @@ Adopting Proposals
       When a decision about whether to adopt a proposal is resolved,
       if the outcome is ADOPTED, then the proposal in question is
       adopted, and unless other rules prevent it from taking effect,
-      its [[power|Glossary#power]] is set to the minimum of four and its adoption index,
+      its power is set to the minimum of four and its adoption index,
       and then it takes effect.  Except as prohibited by other rules,
       a proposal that takes effect CAN and does, as part of its
       effect, apply the changes that it specifies.  If the proposal
@@ -1069,12 +1069,12 @@ Switches
          exactly one of which is designated as the default.  No other
          values are possible for instances of that switch.
 
-      c) Optionally, exactly one [[office|Glossary#office]] whose holder tracks instances
-         of that switch.  That [[office|Glossary#office]]r's (weekly, if not specified
-         otherwise) [[report|Glossary#report]] includes the value of each instance of that
+      c) Optionally, exactly one office whose holder tracks instances
+         of that switch.  That officer's (weekly, if not specified
+         otherwise) report includes the value of each instance of that
          switch whose value is not its default value; a public
-         document purporting to be this portion of that [[office|Glossary#office]]r's
-         [[report|Glossary#report]] is self-ratifying, and implies that other instances
+         document purporting to be this portion of that officer's
+         report is self-ratifying, and implies that other instances
          are at their default value.
 
       At any given time, each instance of a switch has exactly one
@@ -1116,7 +1116,7 @@ Amended(6) by Proposal 7735 (aranea), 2 May 2015
 Rule 1728/33 (Power=3)
 Dependent Actions
 
-      A rule which purports to allow a [[person|Glossary#person]] (the performer) to
+      A rule which purports to allow a person (the performer) to
       perform an action by a set of one or more of the following
       methods (N is 1 unless otherwise specified):
 
@@ -1129,10 +1129,10 @@ Dependent Actions
           with a minimum of 1.
        4) With Notice.
 
-      thereby allows em to perform the action by [[announcement|Glossary#announcement]] if all
+      thereby allows em to perform the action by announcement if all
       of the following are true:
 
-       a) A [[person|Glossary#person]] (the initiator) announced intent to perform the
+       a) A person (the initiator) announced intent to perform the
           action, unambiguously and clearly specifying the action and
           method(s) (including the value of N for each method), at
           most fourteen days earlier, and (if the action depends on
@@ -1156,7 +1156,7 @@ Dependent Actions
           other rules.
 
        d) If a set of conditions for the performance of the action was
-          given in the [[announcement|Glossary#announcement]] of intent to perform the action,
+          given in the announcement of intent to perform the action,
           all those conditions are met.
 
       The actor SHOULD publish a list of supporters if the action
@@ -1181,7 +1181,7 @@ Amended(5) by Proposal 3950 (harvel), Dec. 8 1999
 Amended(6) by Proposal 3973 (harvel), Feb. 14 2000
 Amended(7) by Proposal 3991 (Steve), Mar. 30 2000
 Amended(8) by Proposal 4011 (Wes), Jun. 1 2000
-[[Power|Glossary#power]] changed from 1 to 2 by Proposal 4121 (Ziggy), Mar. 16 2001
+Power changed from 1 to 2 by Proposal 4121 (Ziggy), Mar. 16 2001
 Amended(9) by Proposal 4121 (Ziggy), Mar. 16 2001
 Amended(10) by Proposal 4279 (harvel), 3 April 2002
 Amended(11) by Proposal 4461 (Maud), 17 March 2003
@@ -1195,7 +1195,7 @@ Amended(18) by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(19) by Proposal 5543 (Murphy, Pavitra, root), 16 June 2008
 Amended(20) by Proposal 5775 (Murphy), 17 October 2008
 Amended(21) by Proposal 5818 (comex), 1 November 2008
-[[Power|Glossary#power]] changed from 2 to 3 by Proposal 5947 (ais523), 15 November 2008
+Power changed from 2 to 3 by Proposal 5947 (ais523), 15 November 2008
 Amended(22) by Proposal 5995 (Murphy), 7 December 2008
 Amended(23) by Proposal 6041 (Murphy, Warrigal), 13 January 2009
 Amended(24) by Proposal 6204 (Murphy), 27 April 2009
@@ -1216,16 +1216,16 @@ Agoran Satisfaction
 
       A Supporter of a dependent action is an eligible entity who has
       publicly posted (and not withdrawn) support (syn. "consent") for
-      an [[announcement|Glossary#announcement]] of intent to perform the action.  An Objector to
+      an announcement of intent to perform the action.  An Objector to
       a dependent action is an eligible entity who has publicly posted
-      (and not withdrawn) an objection to the [[announcement|Glossary#announcement]] of intent
+      (and not withdrawn) an objection to the announcement of intent
       to perform the action.
 
       The entities eligible to support or object to a dependent action
-      are, by default, all [[player|Glossary#player]]s, subject to modification by the
+      are, by default, all players, subject to modification by the
       document authorizing the dependent action.  However, the
       previous sentence notwithstanding, the Executor of the
-      [[announcement|Glossary#announcement]] of intent is not eligible to support it.
+      announcement of intent is not eligible to support it.
 
       Agora is Satisfied with an intent to perform a specific action
       if and only if:
@@ -1247,7 +1247,7 @@ Agoran Satisfaction
       The above notwithstanding, Agora is not satisfied with the
       intent if the Speaker has objected to it in the last 48 hours.
 
-      A [[person|Glossary#person]] CANNOT support or object to an [[announcement|Glossary#announcement]] of intent
+      A person CANNOT support or object to an announcement of intent
       before the intent is announced, or after e has withdrawn the
       same type of response.
 
@@ -1259,7 +1259,7 @@ Amended(3) by Proposal 4978 (Murphy), 31 May 2007
 Retitled by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(4) by Proposal 5113 (Murphy, Maud), 2 August 2007
 Amended(5) by Proposal 5370 (Zefram), 20 December 2007
-[[Power|Glossary#power]] changed from 1 to 2 by Proposal 5445 (Goethe, Murphy), 21
+Power changed from 1 to 2 by Proposal 5445 (Goethe, Murphy), 21
   February 2008
 Retitled by Proposal 5445 (Goethe, Murphy), 21 February 2008
 Amended(6) by Proposal 5445 (Goethe, Murphy), 21 February 2008
@@ -1283,30 +1283,30 @@ Politics
 ----------------------------------------------------------------------
 
 Rule 1006/37 (Power=2)
-[[Office|Glossary#office]]s
+Offices
 
-      [[Office|Glossary#office]]holder is an [[office|Glossary#office]] switch tracked by the IADoP, with
-      possible values of any [[person|Glossary#person]] or "vacant".  An [[office|Glossary#office]]r is the
-      holder of an [[office|Glossary#office]], who may be referred to by the name of that
-      [[office|Glossary#office]].  If the holder of an [[office|Glossary#office]] is ever not a [[player|Glossary#player]], it
+      Officeholder is an office switch tracked by the IADoP, with
+      possible values of any person or "vacant".  An officer is the
+      holder of an office, who may be referred to by the name of that
+      office.  If the holder of an office is ever not a player, it
       becomes vacant.
 
-      An imposed [[office|Glossary#office]] is an [[office|Glossary#office]] described as such by the rule
-      defining it.  All others are elected.  A [[person|Glossary#person]] CANNOT be made
-      the holder of an elected [[office|Glossary#office]] without eir explicit or
+      An imposed office is an office described as such by the rule
+      defining it.  All others are elected.  A person CANNOT be made
+      the holder of an elected office without eir explicit or
       reasonably implied consent.
 
-      The holder of an elected [[office|Glossary#office]] CAN resign it by [[announcement|Glossary#announcement]],
-      causing it to become vacant. Any [[player|Glossary#player]] CAN cause an [[office|Glossary#office]] to
+      The holder of an elected office CAN resign it by announcement,
+      causing it to become vacant. Any player CAN cause an office to
       become vacant without 2 objections.
 
 [CFJ 1660 (called 13 May 2007): This rule does not define the meaning
-of the term "[[office|Glossary#office]]", in the sense meant by Rule 754, but rather
-references the usual English definition of "[[office|Glossary#office]]" and governs
-[[office|Glossary#office]]s as thus defined.]
+of the term "office", in the sense meant by Rule 754, but rather
+references the usual English definition of "office" and governs
+offices as thus defined.]
 
 [CFJ 1702 (called 12 July 2007): A requirement to submit something to
-an [[office|Glossary#office]]r is satisfied by publishing it, even if that [[office|Glossary#office]] is
+an officer is satisfied by publishing it, even if that office is
 vacant at the time.]
 
 History:
@@ -1336,7 +1336,7 @@ Amended(17) by Proposal 5059 (Zefram, Goethe), 9 July 2007
 Amended(18) by Proposal 5070 (Zefram), 11 July 2007
 Amended(19) by Proposal 5088 (Murphy), 25 July 2007
 Amended(20) by Proposal 5103 (Zefram), 1 August 2007
-[[Power|Glossary#power]] changed from 1 to 2 by Proposal 5133 (Zefram), 13 August 2007
+Power changed from 1 to 2 by Proposal 5133 (Zefram), 13 August 2007
 Amended(21) by Proposal 5133 (Zefram), 13 August 2007
 Amended(22) by Proposal 5239 (AFO), 3 October 2007
 Amended(23) by Proposal 5407 (root), 22 January 2008
@@ -1362,26 +1362,26 @@ Amended(37) by Proposal 7629 (scshunt), 7 April 2014
 Rule 103/22 (Power=2)
 The Speaker
 
-      The Speaker is an imposed [[office|Glossary#office]] and the figurehead leader of
+      The Speaker is an imposed office and the figurehead leader of
       Agora.
 
-      The [[player|Glossary#player]] or [[player|Glossary#player]]s who have most recently won the game are
-      called Laureled. If at any time the [[office|Glossary#office]] of Speaker is vacant,
-      or when one or more [[player|Glossary#player]]s win Agora, then the Prime Minister
-      CAN and SHALL, once and [[in a timely fashion|Glossary#in a timely fashion]], appoint a Laureled
-      [[player|Glossary#player]] to the [[office|Glossary#office]] of Speaker.
+      The player or players who have most recently won the game are
+      called Laureled. If at any time the office of Speaker is vacant,
+      or when one or more players win Agora, then the Prime Minister
+      CAN and SHALL, once and in a timely fashion, appoint a Laureled
+      player to the office of Speaker.
 
-      If the [[office|Glossary#office]] of Speaker has been held continuously by the same
-      [[person|Glossary#person]] for 90+ days, then any [[player|Glossary#player]] CAN appoint another [[player|Glossary#player]]
-      to the [[office|Glossary#office]] with Support.
+      If the office of Speaker has been held continuously by the same
+      person for 90+ days, then any player CAN appoint another player
+      to the office with Support.
 
-      The [[office|Glossary#office]]s of the Speaker and the Prime Minister are
-      incompatible. If at any point in time one [[player|Glossary#player]] holds both of
-      these [[office|Glossary#office]]s, e ceases to hold the position of Prime Minister.
+      The offices of the Speaker and the Prime Minister are
+      incompatible. If at any point in time one player holds both of
+      these offices, e ceases to hold the position of Prime Minister.
 
       For an election of the Prime Minister, the Speaker has voting
       strength one greater than e would have if e did not hold the
-      [[office|Glossary#office]].
+      office.
 
 History:
 Initial Immutable Rule 103, Jun. 30 1993
@@ -1392,10 +1392,10 @@ Amended(2) by Proposal 4944 (Zefram), 3 May 2007
 Retitled by Proposal 5257 (AFO), 27 October 2007
 Amended(3) by Proposal 5257 (AFO), 27 October 2007
 Amended(4) by Proposal 5407 (root), 22 January 2008
-[[Power|Glossary#power]] changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
+Power changed from 3 to 1 by Proposal 5947 (ais523), 15 November 2008
 Amended(5) by Proposal 6026 (Murphy), 22 December 2008
 Amended(6) by Proposal 6490 (coppro), 18 September 2009
-[[Power|Glossary#power]] changed from 1 to 2 by Proposal 6821 (G., ais523), 4 September
+Power changed from 1 to 2 by Proposal 6821 (G., ais523), 4 September
   2010
 Amended(7) by Proposal 6821 (G., ais523), 4 September 2010
 Retitled by Proposal 6961 (G.), 3 March 2011
@@ -1420,13 +1420,13 @@ Amended(22) by Proposal 7739 (G.), 2 May 2015
 Rule 2423/0 (Power=2)
 First Among Equals
 
-      The Prime Minister is an [[office|Glossary#office]]. The Prime Minister is elected
-      by the [[player|Glossary#player]]s of Agora primarily on account of not being the
+      The Prime Minister is an office. The Prime Minister is elected
+      by the players of Agora primarily on account of not being the
       other guy. The Prime Minister SHOULD ensure that Agoran affairs
       proceed smoothly.
 
-      The holder of the [[office|Glossary#office]] of Prime Minister has voting strength
-      one greater than e would have if e did not hold the [[office|Glossary#office]]. This
+      The holder of the office of Prime Minister has voting strength
+      one greater than e would have if e did not hold the office. This
       does not apply in respect of an election of the Prime Minister.
 
 History:
@@ -1441,11 +1441,11 @@ Executive Orders
       rule, the current Prime Minister CAN issue a Cabinet Order
       and perform the action(s) authorized by that Order.
 
-      Each Cabinet Order is associated with an [[office|Glossary#office]]. The current
+      Each Cabinet Order is associated with an office. The current
       Prime Minister CANNOT issue more than one Cabinet Order
-      associated with the same [[office|Glossary#office]] more than once in the same
+      associated with the same office more than once in the same
       month, nor can e issue a Cabinet Order associated with a
-      vacant [[office|Glossary#office]].
+      vacant office.
 
       The available Cabinet Orders are:
 
@@ -1453,8 +1453,8 @@ Executive Orders
         judge of a specified open case.
 
       - Dive (Referee): The Prime Minister issues a specified Card
-        to a specified [[player|Glossary#player]]. In doing so, the Prime Minister
-        SHOULD cite a specific grievance against that [[player|Glossary#player]], not
+        to a specified player. In doing so, the Prime Minister
+        SHOULD cite a specific grievance against that player, not
         necessarily a violation of a rule.
 
       - Manifesto (Promotor): The Prime Minister distributes a
@@ -1468,23 +1468,23 @@ Created by Proposal 7764 (scshunt), 24 July 2015
 Rule 2154/48 (Power=2)
 Election Procedure
 
-      A [[player|Glossary#player]] CAN initiate an election for a specified elected [[office|Glossary#office]]
+      A player CAN initiate an election for a specified elected office
       for which no election is already in progress
 
-      a) by [[announcement|Glossary#announcement]], if e is the IADoP, if the [[office|Glossary#office]] has been
+      a) by announcement, if e is the IADoP, if the office has been
          deputised for within the past two weeks, or if no election
-         has been initiated for the [[office|Glossary#office]] either since the last time
-         a [[player|Glossary#player]] won the game or within the past 90 days;
+         has been initiated for the office either since the last time
+         a player won the game or within the past 90 days;
 
       b) with 4 Supporters, otherwise.
 
-      After the election is initiated, any [[player|Glossary#player]] CAN once initiate an
-      Agoran decision to determine the new [[office|Glossary#office]]holder, and the IADoP
-      SHALL do so [[in a timely fashion|Glossary#in a timely fashion]] if no one else does first.  For
-      this decision, the valid options are the [[player|Glossary#player]]s, the vote
+      After the election is initiated, any player CAN once initiate an
+      Agoran decision to determine the new officeholder, and the IADoP
+      SHALL do so in a timely fashion if no one else does first.  For
+      this decision, the valid options are the players, the vote
       collector is the IADoP, and the voting method is instant runoff.
-      Upon the resolution of this decision, its outcome, if a [[player|Glossary#player]],
-      is installed into [[office|Glossary#office]], and the election ends.
+      Upon the resolution of this decision, its outcome, if a player,
+      is installed into office, and the election ends.
 
 History:
 Created by Proposal 5059 (Zefram, Goethe), 9 July 2007
@@ -1550,29 +1550,29 @@ Rule 2350/9 (Power=3)
 Proposals
 
       A proposal is a type of entity consisting of a body of text and
-      other attributes.  A [[player|Glossary#player]] CAN create a proposal by
-      [[announcement|Glossary#announcement]], specifying its text and optionally specifying any
+      other attributes.  A player CAN create a proposal by
+      announcement, specifying its text and optionally specifying any
       of the following attributes:
 
       * An associated title.
-      * A list of co-authors (which must be [[person|Glossary#person]]s other than the
+      * A list of co-authors (which must be persons other than the
         author).
       * An adoption index.
 
       Creating a proposal adds it to the Proposal Pool.  Once a
       proposal is created, nether its text nor any of the
       aforementioned attributes can be changed.  The author (syn.
-      proposer) of a proposal is the [[person|Glossary#person]] who submitted it.
+      proposer) of a proposal is the person who submitted it.
 
       If a decision of whether to adopt a proposal was resolved as
       FAILED QUORUM in the last seven days, the Promotor CAN once add
-      the proposal back to the Proposal Pool by [[announcement|Glossary#announcement]].
+      the proposal back to the Proposal Pool by announcement.
 
       The author of a proposal in the Proposal Pool CAN remove (syn.
-      retract, withdraw) it from the Pool by [[announcement|Glossary#announcement]].
+      retract, withdraw) it from the Pool by announcement.
 
       The Promotor CAN remove a proposal from the Proposal Pool by
-      [[announcement|Glossary#announcement]] if it is not pending and has been added to the Pool
+      announcement if it is not pending and has been added to the Pool
       more than 14 days ago.
 
 [CFJ 1647 (called 30 April 2007): Preceding a proposal-like text with
@@ -1605,19 +1605,19 @@ How to Pend a Proposal
       proposals in the Proposal Pool, whose value is either "pending"
       or "not pending" (default).
 
-      Spending [[power|Glossary#power]] is an [[office|Glossary#office]] switch, whose values range over the
+      Spending power is an office switch, whose values range over the
       positive integers between 1 and 10 inclusive, with a default of
-      1. Spending [[power|Glossary#power]] is tracked by the IADoP. The IADoP CAN flip
-      the spending [[power|Glossary#power]] of an [[office|Glossary#office]] by [[announcement|Glossary#announcement]], provided that
-      the Promotor always has spending [[power|Glossary#power]] no less than 1 less than
-      the greatest spending [[power|Glossary#power]] among [[office|Glossary#office]]s, and further provided
-      that the current IADoP has not already flipped that [[office|Glossary#office]]'s
-      spending [[power|Glossary#power]] in the current month.
+      1. Spending power is tracked by the IADoP. The IADoP CAN flip
+      the spending power of an office by announcement, provided that
+      the Promotor always has spending power no less than 1 less than
+      the greatest spending power among offices, and further provided
+      that the current IADoP has not already flipped that office's
+      spending power in the current month.
 
-      A [[player|Glossary#player]] can flip a proposal's imminence to "pending" by
-      [[announcement|Glossary#announcement]], unless e has already done so a number of times
-      that week that equals or exceeds the total spending [[power|Glossary#power]] of the
-      [[office|Glossary#office]]s e holds.
+      A player can flip a proposal's imminence to "pending" by
+      announcement, unless e has already done so a number of times
+      that week that equals or exceeds the total spending power of the
+      offices e holds.
 
 History:
 Created by Proposal 7728 (Tiger), 24 November 2014
@@ -1629,17 +1629,17 @@ Amended(2) by Proposal 7773 (scshunt), 14 August 2014
 Rule 2443/0 (Power=3)
 Expediting Proposals
 
-      A [[player|Glossary#player]] CAN expedite a proposal whose adoption index is at most
+      A player CAN expedite a proposal whose adoption index is at most
       1.5, in a message containing the character string "[Expedition]"
       in the subject line,
 
         (a) by specially deputising for the Promotor to distribute the
             proposal, if it has not been distributed; or
-        (b) by [[announcement|Glossary#announcement]], otherwise.
+        (b) by announcement, otherwise.
 
       If, in an Agoran Decision to adopt a proposal, the strength of
       AGAINST is zero, and the proposal was expedited at least 7 days
-      earlier, then any [[player|Glossary#player]] CAN specially deputise for the Assessor
+      earlier, then any player CAN specially deputise for the Assessor
       to resolve the decision.
 
 History:
@@ -1650,7 +1650,7 @@ Created by Proposal 7713 (Warrigal), 9 November 2014
 Rule 1607/42 (Power=3)
 Distribution
 
-      The Promotor is an [[office|Glossary#office]]; its holder is responsible for
+      The Promotor is an office; its holder is responsible for
       receiving and distributing proposals.
 
       Determining whether to adopt a proposal is an Agoran decision.
@@ -1672,13 +1672,13 @@ Distribution
       Promotor.
 
       If there is a Proposal in the Pool that it would otherwise be
-      IMPOSSIBLE for any [[player|Glossary#player]] to distribute, then any [[player|Glossary#player]] CAN
+      IMPOSSIBLE for any player to distribute, then any player CAN
       distribute that Proposal Without 3 Objections.
 
-      The Promotor's [[report|Glossary#report]] includes a list of all proposals in the
+      The Promotor's report includes a list of all proposals in the
       Proposal Pool, along with their text and attributes.  This
       portion of a public document purporting to be a Promotor's
-      [[report|Glossary#report]] is self-ratifying.
+      report is self-ratifying.
 
 [CFJ 1546 (called 14 April 2005), CFJ 1669 (called 16 May 2007): If a
 proposal is purportedly distributed with a text that differs from the
@@ -1732,7 +1732,7 @@ Amended(15) by Proposal 5112 (Murphy), 2 August 2007
 Amended(16) by Proposal 5418 (root), 2 February 2008
 Amended(17) by Proposal 5457 (Murphy), 9 March 2008
 Amended(18) by Proposal 5485 (root), 9 April 2008
-[[Power|Glossary#power]] changed from 1 to 2 by Proposal 5947 (ais523), 15 November 2008
+Power changed from 1 to 2 by Proposal 5947 (ais523), 15 November 2008
 Amended(19) by Proposal 6001 (Goethe), 7 December 2008
 Assigned to Committee on Rules by Proposal 6053 (Murphy, woggle,
   ais523), 23 January 2009
@@ -1765,7 +1765,7 @@ Amended(42) by Proposal 7728 (Tiger), 24 November 2014
 Rule 2431/1 (Power=1)
 Proposal Competitions
 
-      Any [[player|Glossary#player]] CAN, with Agoran Consent, initiate a Proposal
+      Any player CAN, with Agoran Consent, initiate a Proposal
       Competition with a specified Objective. Only one Competition may
       be in progress at a time. The Objective should be a
       specification of effects of a proposal, and SHOULD NOT depend on
@@ -1773,8 +1773,8 @@ Proposal Competitions
       proposal.
 
       During the Agoran Week following the initiation of a Proposal
-      Competition, any [[player|Glossary#player]] CAN specify that a Proposal e submits is
-      a Competition Proposal for that Competition.  [[Player|Glossary#player]]s are
+      Competition, any player CAN specify that a Proposal e submits is
+      a Competition Proposal for that Competition.  Players are
       ENCOURAGED to describe how their Competition Proposals fulfill
       the Objective.
 
@@ -1788,7 +1788,7 @@ Proposal Competitions
 
 History:
 Created by Proposal 7667 (scshunt), 3 June 2014
-[[Power|Glossary#power]] changed from 3 to 1 by Proposal 7705 (omd), 3 November 2014
+Power changed from 3 to 1 by Proposal 7705 (omd), 3 November 2014
 Amended(1) by Proposal 7705 (omd), 3 November 2014
 
 ----------------------------------------------------------------------
@@ -1800,7 +1800,7 @@ Decisions
 Rule 2137/2 (Power=1)
 The Assessor
 
-      The Assessor is an [[office|Glossary#office]]; its holder is responsible for
+      The Assessor is an office; its holder is responsible for
       collecting votes and keeping track of related properties.
 
 [CFJs 1758-1759 (called 30 September 2007): If Assessorship changes
@@ -1836,8 +1836,8 @@ Amended(3) by Rule 693, Sep. 28 1997, substantial
 Amended(4) by Proposal 3809 (General Chaos), Dec. 7 1998
 Amended(5) by Proposal 3921 (Wes), Oct. 3 1999
 Amended(6) by Proposal 3968 (harvel), Feb. 4 2000
-[[Power|Glossary#power]] changed from 1 to 2 by Proposal 4040 (Oerjan), Aug. 7 2000
-[[Power|Glossary#power]] changed from 2 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
+Power changed from 1 to 2 by Proposal 4040 (Oerjan), Aug. 7 2000
+Power changed from 2 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
 Amended(7) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(8) by Proposal 4868 (Goethe), 27 August 2006
 Amended(9) by Proposal 4887 (Murphy), 22 January 2007
@@ -1855,7 +1855,7 @@ Amended(15) by Proposal 7778 (scshunt), 14 August 2014
 Rule 107/18 (Power=3)
 Initiating Agoran Decisions
 
-      An Agoran decision is initiated when a [[person|Glossary#person]] authorized to
+      An Agoran decision is initiated when a person authorized to
       initiate it publishes a valid notice which sets forth the intent
       to initiate the decision.  This notice is invalid if it lacks
       any of the following information, and the lack is correctly
@@ -1876,7 +1876,7 @@ Initiating Agoran Decisions
       The minimum voting period for a decision with at least two
       options is five days.  The vote collector for a decision with
       less than two options CAN and SHALL end the voting period by
-      [[announcement|Glossary#announcement]], if it has not ended already, and provided that e
+      announcement, if it has not ended already, and provided that e
       resolves the decision in the same message.
 
       The voting period for a decision cannot be set or changed to a
@@ -1901,7 +1901,7 @@ decision does not contain an explicit list of the eligible voters, and
 there is later a dispute (evidenced by submission of a CFJ) over which
 voters were eligible at that time, then the notice's description of
 the class of eligible voters was necessarily insufficient to enable
-public agreement on which [[person|Glossary#person]]s are eligible.]
+public agreement on which persons are eligible.]
 
 [CFJ 1652 (called 6 May 2007): The set of eligible voters on an Agoran
 decision can change during its voting period.]
@@ -1937,10 +1937,10 @@ Rule 208/11 (Power=3)
 Resolving Agoran Decisions
 
       The vote collector for an unresolved Agoran decision CAN resolve
-      it by [[announcement|Glossary#announcement]], indicating the outcome.  If it was required
-      to be initiated, then e SHALL resolve it [[in a timely fashion|Glossary#in a timely fashion]]
+      it by announcement, indicating the outcome.  If it was required
+      to be initiated, then e SHALL resolve it in a timely fashion
       after the end of the voting period.  To be valid, this
-      [[announcement|Glossary#announcement]] must satisfy the following conditions:
+      announcement must satisfy the following conditions:
 
       (a) It is published after the voting period has ended.
 
@@ -1980,7 +1980,7 @@ History:
 Initial Mutable Rule 208, Jun. 30 1993
 Amended(1) by Proposal 1401, Jan. 29 1995
 Amended(2) by Proposal 1531, Mar. 24 1995
-[[Power|Glossary#power]] changed from 1 to 3 by Proposal 4811 (Maud, Goethe), 20 June
+Power changed from 1 to 3 by Proposal 4811 (Maud, Goethe), 20 June
   2005
 Amended(3) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(4) by Proposal 5113 (Murphy, Maud), 2 August 2007
@@ -2004,7 +2004,7 @@ Decisions with Adoption Indices
       decisions and proposals, whose value is either "none" (default)
       or an integral multiple of 0.1 from 1.0 to 9.9.
 
-      Adoption index is secured with a [[power|Glossary#power]] threshold of 2.
+      Adoption index is secured with a power threshold of 2.
 
       An Agoran decision with an adoption index has the following
       essential parameters:
@@ -2032,7 +2032,7 @@ Amended(8) by Proposal 4576 (root), 31 May 2004
 Amended(9) by Proposal 4624 (Goethe), 20 November 2004
 Amended(10) by Proposal 4665 (Kolja), 9 April 2005
 Amended(11) by Proposal 4685 (Quazie, Murphy), 18 April 2005
-[[Power|Glossary#power]] changed from 2 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
+Power changed from 2 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
 Amended(12) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(13) by Proposal 4868 (Goethe), 27 August 2006
 Amended(14) by Proposal 4972 (Goddess Eris), 23 May 2007
@@ -2061,7 +2061,7 @@ Amended(31) by Proposal 7778 (scshunt), 14 August 2014
 Rule 879/32 (Power=2)
 Quorum
 
-      Quorum for an Agoran Decision is equal to the number of [[player|Glossary#player]]s
+      Quorum for an Agoran Decision is equal to the number of players
       who voted on the most recently resolved Agoran Decision to adopt
       a proposal, minus 3.
 
@@ -2082,12 +2082,12 @@ Infected and Amended(4) by Rule 1454, Jul. 27 1996
 Amended(5) by Proposal 2786 (Steve), Jan. 15 1997, substantial
 Amended(6) by Proposal 3643 (General Chaos), Dec. 29 1997
 Amended(7) by Proposal 3777 (Blob), Aug. 3 1998
-Amended(8) by Proposal 'A Separation of [[Power|Glossary#power]]s' (Steve, Without
+Amended(8) by Proposal 'A Separation of Powers' (Steve, Without
   Objection), Apr. 20 1999
 Amended(9) by Proposal 3897 (harvel), Aug. 27 1999
 Amended(10) by Proposal 3956 (harvel), Dec. 28 1999
 Amended(11) by Proposal 3972 (Peekee), Feb. 14 2000
-[[Power|Glossary#power]] changed from 1 to 2 by Proposal 3980 (Steve), Mar. 1 2000
+Power changed from 1 to 2 by Proposal 3980 (Steve), Mar. 1 2000
 Amended(12) by Proposal 3980 (Steve), Mar. 1 2000
 Amended(13) by Proposal 4018 (Kelly), Jun. 21 2000
 Amended(14) by Proposal 4239 (Murphy), 29 January 2002
@@ -2126,7 +2126,7 @@ Voting on Agoran Decisions
           decision.
 
       (b) The entity casting the ballot (the voter) was, at the
-          initiation of the decision, a [[player|Glossary#player]].
+          initiation of the decision, a player.
 
       (c) The ballot clearly identifies the matter to be decided.
 
@@ -2161,7 +2161,7 @@ Amended(8) by Proposal 3968 (harvel), Feb. 4 2000
 Amended(9) by Proposal 3972 (Peekee), Feb. 14 2000
 Amended(10) by Proposal 4190 (Steve), 18 July 2001
 Amended(11) by Proposal 4699 (Sherlock), 18 April 2005
-[[Power|Glossary#power]] changed from 1 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
+Power changed from 1 to 3 by Proposal 4811 (Maud,Goethe), 20 June 2005
 Amended(12) by Proposal 4811 (Maud, Goethe), 20 June 2005
 Amended(13) by Proposal 4964 (Murphy), 3 June 2007
 Amended(14) by Proposal 5078 (Zefram), 18 July 2007
@@ -2181,7 +2181,7 @@ Rule 2422/0 (Power=3)
 Voting Strength
 
       The voting strength of an entity is an integer between 1 and 5
-      inclusive, defined by rules of [[power|Glossary#power]] 2 or greater. If not
+      inclusive, defined by rules of power 2 or greater. If not
       otherwise specified, the voting strength of an entity is 1.
 
 History:
@@ -2223,7 +2223,7 @@ Amended(4) by Proposal 6331 (Murphy), 29 May 2009
 Amended(5) by Proposal 6383 (Murphy), 3 July 2009
 Amended(6) by Proposal 6403 (coppro), 30 July 2009
 Amended(7) by Proposal 7289 (G.), 9 September 2012
-[[Power|Glossary#power]] changed from 1 to 3 by Proposal 7447 (omd), 10 June 2013
+Power changed from 1 to 3 by Proposal 7447 (omd), 10 June 2013
 Amended(8) by Proposal 7447 (omd), 10 June 2013
 Amended(9) by Proposal 7778 (scshunt), 14 August 2014
 
@@ -2241,8 +2241,8 @@ Extending the voting period
       Upon such an occurrence, the vote collector for the decision
       SHALL issue a humiliating public reminder to the slackers who
       have not yet cast any votes on it despite being eligible, and
-      CAN end its voting period by [[announcement|Glossary#announcement]] (resolving it
-      constitutes an implicit [[announcement|Glossary#announcement]] that its voting period is
+      CAN end its voting period by announcement (resolving it
+      constitutes an implicit announcement that its voting period is
       first ended) if the result would no longer be FAILED QUORUM, or
       if the decision is whether to adopt a proposal and no voter
       (other than possibly the proposal's author) has voted FOR.
@@ -2281,7 +2281,7 @@ Determining the Will of Agora
           to the standard definition of instant runoff.  In case
           multiple valid options tie for the lowest number of votes at
           any stage, the vote collector CAN and must, in the
-          [[announcement|Glossary#announcement]] of the decision's resolution, select one such
+          announcement of the decision's resolution, select one such
           option to eliminate; if, for N > 1, all eir possible choices
           in the next N stages would result in the same set of options
           being eliminated, e need not specify the order of
@@ -2290,7 +2290,7 @@ Determining the Will of Agora
       (3) First-past-the-post (default): the valid votes are the
           options, and the outcome is whichever option received the
           most votes.  In case of a tie, the vote collector CAN and
-          must, in the [[announcement|Glossary#announcement]] of the decision's resolution,
+          must, in the announcement of the decision's resolution,
           select one of the leaders as the outcome.
 
       The previous notwithstanding:
@@ -2374,28 +2374,28 @@ Interpretations
 Rule 991/16 (Power=2)
 Calls for Judgement
 
-      Any [[person|Glossary#person]] (the initiator) can initiate a Call for Judgement
-      (CFJ, syn. Judicial Case) by [[announcement|Glossary#announcement]], specifying a
-      statement to be inquired into.  E may optionally bar one [[person|Glossary#person]]
+      Any person (the initiator) can initiate a Call for Judgement
+      (CFJ, syn. Judicial Case) by announcement, specifying a
+      statement to be inquired into.  E may optionally bar one person
       from the case.
 
       At any time, each CFJ is either open (default), suspended, or
       assigned exactly one judgement.
 
-      The Arbitor is an [[office|Glossary#office]], responsible for the administration of
+      The Arbitor is an office, responsible for the administration of
       justice in a manner that is fair for emself, if not for the rest
       of Agora.
 
       When a CFJ has no judge assigned, the Arbitor CAN assign any
-      [[player|Glossary#player]] to be its judge by [[announcement|Glossary#announcement]], and SHALL do so within a
-      week.  The [[player|Glossary#player]]s eligible to be assigned as judge are all
-      [[player|Glossary#player]]s except the initiator and the [[person|Glossary#person]] barred (if any).
+      player to be its judge by announcement, and SHALL do so within a
+      week.  The players eligible to be assigned as judge are all
+      players except the initiator and the person barred (if any).
       The Arbitor SHALL assign judges over time such that all
-      interested [[player|Glossary#player]]s have reasonably equal opportunities to judge.
+      interested players have reasonably equal opportunities to judge.
 
 [CFJs 1692-1693 (called 20 June 2007): A CFJ can be unambiguously
 referenced by using the customarily-assigned sequence numbers, even if
-the number was not assigned in the [[public forum|Glossary#public forum]], provided that those
+the number was not assigned in the public forum, provided that those
 involved accept it as unambiguous at the time.]
 
 [CFJ 1355 (called 28 April 2002): Titles for CFJs are unregulated, so
@@ -2433,10 +2433,10 @@ Rule 591/42 (Power=1.7)
 Delivering Judgements
 
       When a CFJ is open and assigned to a judge, that judge CAN
-      assign a valid judgement to it by [[announcement|Glossary#announcement]], and SHALL do so
-      [[in a timely fashion|Glossary#in a timely fashion]] after this becomes possible.  If e does not,
+      assign a valid judgement to it by announcement, and SHALL do so
+      in a timely fashion after this becomes possible.  If e does not,
       the Arbitor CAN remove em from being the judge of that case by
-      [[announcement|Glossary#announcement]].
+      announcement.
 
       The valid judgements, based on the facts of the case at the time
       the CFJ was initiated, are TRUE, FALSE, and DISMISS.  DISMISS is
@@ -2450,7 +2450,7 @@ the place of a statement in initiating an inquiry case.]
 
 [CFJ 1903 (called 6 February 2008): The question-statement equivalence
 established by this rule applies only for the purposes of the subject
-of an inquiry case, not for acting by [[announcement|Glossary#announcement]].]
+of an inquiry case, not for acting by announcement.]
 
 [CFJ 1671 (called 17 May 2007): The truth or falsity of a statement
 can be determined as of the initiation of a CFJ even if public
@@ -2472,10 +2472,10 @@ provide a reasonable reference to that message , the judge is entitled
 to treat this as a situation of insufficient information being
 available.]
 
-[CFJ 1732 (called 23 August 2007): If a particular [[player|Glossary#player]] holds a
-particular [[office|Glossary#office]], and an inquiry case on a statement that that [[player|Glossary#player]]
-holds that [[office|Glossary#office]] is judged FALSE, that [[player|Glossary#player]] still holds that
-[[office|Glossary#office]].]
+[CFJ 1732 (called 23 August 2007): If a particular player holds a
+particular office, and an inquiry case on a statement that that player
+holds that office is judged FALSE, that player still holds that
+office.]
 
 [CFJ 2281 (called 19 November 2008): For the purposes of determining
 the validity of an inquiry case, the term "statement" should be
@@ -2508,7 +2508,7 @@ Amended(17) by Proposal 4147 (Wes), 13 May 2001
 Amended(18) by Proposal 4298 (Murphy), 17 May 2002
 Amended(19) by Proposal 5068 (Zefram), 11 July 2007
 Retitled by Proposal 5086 (Zefram), 1 August 2007
-[[Power|Glossary#power]] changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
+Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
 Amended(20) by Proposal 5086 (Zefram), 1 August 2007
 Amended(21) by Proposal 5296 (root), 28 November 2007
 Amended(22) by Proposal 5360 (Murphy), 20 December 2007
@@ -2550,15 +2550,15 @@ Interpreting the Rules
       applied using direct, forward reasoning; in particular, an
       absurdity that can be concluded from the assumption that a
       statement about rule-defined concepts is false does not
-      constitute proof that it is true.  Definitions in lower-[[power|Glossary#power]]ed
+      constitute proof that it is true.  Definitions in lower-powered
       Rules do not overrule common-sense interpretations or common
-      definitions of terms in higher-[[power|Glossary#power]]ed rules.
+      definitions of terms in higher-powered rules.
 
       Rules to the contrary notwithstanding, any rule change that
-      would (1) prevent a [[person|Glossary#person]] from initiating a formal process to
+      would (1) prevent a person from initiating a formal process to
       resolve matters of controversy, in the reasonable expectation
       that the controversy will thereby be resolved; or (2) prevent a
-      [[person|Glossary#person]] from causing formal reconsideration of any judicial
+      person from causing formal reconsideration of any judicial
       determination that e should be punished, is wholly void and
       without effect.
 
@@ -2571,16 +2571,16 @@ than English, and its intended audience does not understand the
 language, this constitutes gross unclarity that makes the message
 ineffective.]
 
-[CFJ 712: Referring to a [[Player|Glossary#player]] by a method other than eir name or
+[CFJ 712: Referring to a Player by a method other than eir name or
 nickname is acceptable, as long as it is unambiguous.]
 
-[CFJ 1861 (called 8 January 2008): A [[player|Glossary#player]]'s legal name (legal in eir
+[CFJ 1861 (called 8 January 2008): A player's legal name (legal in eir
 country of residence) is not necessarily an acceptable way to refer to
 em.]
 
-[CFJ 1782 (called 4 November 2007): Referring to a [[player|Glossary#player]] by the name
-of an [[office|Glossary#office]] that e holds suffices to identify em uniquely as a
-[[person|Glossary#person]], if there is no doubt regarding who holds that [[office|Glossary#office]].]
+[CFJ 1782 (called 4 November 2007): Referring to a player by the name
+of an office that e holds suffices to identify em uniquely as a
+person, if there is no doubt regarding who holds that office.]
 
 [CFJ 1460 (called 4 April 2003): Extremely complex synonyms, requiring
 extensive effort to interpret correctly, can constitute a sufficient
@@ -2638,7 +2638,7 @@ Amended(1) by Proposal 1635, Jul. 25 1995
 Infected and amended(2) by Rule 1454, Aug. 7 1995
 Amended(3) by Proposal 2507, Mar. 3 1996
 Amended(4) by Proposal 4825 (Maud), 17 July 2005
-[[Power|Glossary#power]] changed from 1 to 3 by Proposal 4867 (Goethe), 27 August 2006
+Power changed from 1 to 3 by Proposal 4867 (Goethe), 27 August 2006
 Amended(5) by Proposal 4867 (Goethe), 27 August 2006
 Retitled by Proposal 5105 (Zefram), 1 August 2007
 Amended(6) by Proposal 5105 (Zefram), 1 August 2007
@@ -2657,9 +2657,9 @@ Mother, May I?
       when a rule includes a term in all caps, and provide guidance in
       determining the ordinary-language meaning of a term when a rule
       includes a term otherwise.  Earlier definitions take precedence
-      over later ones.  If a rule specifies one or more [[person|Glossary#person]]s in
+      over later ones.  If a rule specifies one or more persons in
       connection with a term, then the term applies only to the
-      specified [[person|Glossary#person]](s).
+      specified person(s).
 
       1. CANNOT, IMPOSSIBLE, INEFFECTIVE, INVALID:  Attempts to
          perform the described action are unsuccessful.
@@ -2687,24 +2687,24 @@ Mother, May I?
          perform it should (in the ordinary-language sense) be
          understood and carefully weighed.
 
-[CFJ 1132: A [[Player|Glossary#player]] failing to perform a duty required by the Rules
+[CFJ 1132: A Player failing to perform a duty required by the Rules
 within a reasonable time may be in violation of the Rules, even if the
 Rules do not provide a time limit for the performance of that duty.]
 
 [CFJ 1488 (called 11 February 2004): Engineering a situation in which
-other [[player|Glossary#player]]s are unable to follow a particular rule is not in itself
+other players are unable to follow a particular rule is not in itself
 a violation of that rule.]
 
 [CFJ 2395 (called 1 March 2009): Even without this being explicitly
-specified in the rules, it is possible for a non-[[player|Glossary#player]] to violate a
+specified in the rules, it is possible for a non-player to violate a
 rule by missing a deadline.]
 
 [CFJ 1990 (called 7 June 2008): "Allowed" may refer to either
 possibility or permissibility depending on context.]
 
 [CFJs 2120-2121 (called 4 August 2008): A requirement of the form
-'within <time limit>, a [[player|Glossary#player]] SHALL <action> by [[announcement|Glossary#announcement]]' means
-that the [[player|Glossary#player]] CAN perform the action, and SHALL do so within the
+'within <time limit>, a player SHALL <action> by announcement' means
+that the player CAN perform the action, and SHALL do so within the
 time limit.]
 
 [CFJ 2230 (called 16 October 2008): In a statement of the form "an
@@ -2714,14 +2714,14 @@ action that X may take", 'may' generally means 'might', i.e. CAN.]
 have certain properties refers to possibility, not legality.]
 
 [CFJ 2414 (called 14 March 2009): A rule of the form "X SHOULD be
-interpreted as Y" does not allow [[player|Glossary#player]]s to bypass the interpretation
+interpreted as Y" does not allow players to bypass the interpretation
 by failing to perform the described action.]
 
 History:
 Created by Proposal 5053 (Murphy), 5 July 2007
-[[Power|Glossary#power]] changed from 1 to 2 by Proposal 5054 (Murphy), 5 July 2007
+Power changed from 1 to 2 by Proposal 5054 (Murphy), 5 July 2007
 Amended(1) by Proposal 5189 (Levi), 3 September 2007
-[[Power|Glossary#power]] changed from 2 to 3 by Proposal 5247 (AFO), 14 October 2007
+Power changed from 2 to 3 by Proposal 5247 (AFO), 14 October 2007
 Amended(2) by Proposal 5353 (Murphy; disi.), 16 December 2007
 Amended(3) by Proposal 5354 (Murphy), 16 December 2007
 Amended(4) by Proposal 5535 (Murphy), 7 June 2008
@@ -2737,16 +2737,16 @@ Motions and Moots
       If a CFJ (1) has a judgement that has been in effect for less
       than seven days and not been appealed, and (2) has not had a
       Motion to Reconsider filed for it at any time while it has been
-      assigned to its current judge, then any [[Player|Glossary#player]] CAN file a Motion
-      to Reconsider the case with 2 Support, or by [[announcement|Glossary#announcement]] if e
+      assigned to its current judge, then any Player CAN file a Motion
+      to Reconsider the case with 2 Support, or by announcement if e
       is that case's judge.  When a Motion to Reconsider is so filed,
       the case is rendered open again.
 
-      If a CFJ has a judgement assigned, a [[player|Glossary#player]] CAN enter that
+      If a CFJ has a judgement assigned, a player CAN enter that
       judgement into Moot with two support.  When this occurs, the CFJ
       is suspended, and the Arbitor is once authorized to initiate the
       Agoran decision to determine public confidence in the judgement,
-      which e SHALL do [[in a timely fashion|Glossary#in a timely fashion]].
+      which e SHALL do in a timely fashion.
 
       For this decision, the vote collector is the Arbitor and the
       valid options are AFFIRM, REMAND, and REMIT.  When the decision
@@ -2765,7 +2765,7 @@ Motions and Moots
 [CFJ 1597 (called 22 December 2006): It is possible to appeal a
 judgement even if it is not certain that the judgement exists.]
 
-[CFJ 1800 (called 18 November 2007): An [[announcement|Glossary#announcement]] of the form "I
+[CFJ 1800 (called 18 November 2007): An announcement of the form "I
 call for the appeal of <judgement>" has the effect of initiating the
 Agoran decision on whether to approve appealing the cited judgement.]
 
@@ -2791,7 +2791,7 @@ Amended(13) by Proposal 4825 (Maud), 17 July 2005
 Amended(14) by Proposal 4867 (Goethe), 27 August 2006
 Amended(15) by Proposal 5051 (Zefram), 5 July 2007
 Retitled by Proposal 5086 (Zefram), 1 August 2007
-[[Power|Glossary#power]] changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
+Power changed from 1 to 1.7 by Proposal 5086 (Zefram), 1 August 2007
 Amended(16) by Proposal 5086 (Zefram), 1 August 2007
 Amended(17) by Proposal 5359 (Murphy), 20 December 2007
 Amended(18) by Proposal 5361 (Goethe), 20 December 2007
@@ -2838,12 +2838,12 @@ Judicial Retraction and Excess
 
       A new case is a judicial case that has not had any judge
       assigned to it.  The initiator of a new case CAN retract it by
-      [[announcement|Glossary#announcement]], thus causing it to cease to be a judicial case.
+      announcement, thus causing it to cease to be a judicial case.
 
       An excess case is a new case whose initiator previously
       initiated five or more cases during the same week as that case.
-      A [[person|Glossary#person]] SHALL NOT initiate an excess case.  The Arbitor CAN
-      refuse an excess case by [[announcement|Glossary#announcement]], thus causing it to cease
+      A person SHALL NOT initiate an excess case.  The Arbitor CAN
+      refuse an excess case by announcement, thus causing it to cease
       to be a judicial case.  When e does so, e fulfills any
       obligations with regards to that case.
 
@@ -2867,7 +2867,7 @@ Common Definitions
 
       The following terms are defined:
 
-      (a) The phrase "[[in a timely fashion|Glossary#in a timely fashion]]" means "within 7 days".
+      (a) The phrase "in a timely fashion" means "within 7 days".
           This time period is set when the requirement is created
           (i.e. X days before the limit ends).  A requirement to
           perform an action at an exact instant (e.g.  "when X, Y
@@ -2892,7 +2892,7 @@ Common Definitions
 
           (5) A pivot is either the instant at which Agora Nomic began
               (June 30, 1993, 00:04:30 GMT +1200) or an instant at
-              which at least one [[person|Glossary#person]] won the game.  When used as a
+              which at least one person won the game.  When used as a
               period of time, a "Round" (historical syn: "game") is
               the period of time between a pivot and the next pivot.
 
@@ -2973,10 +2973,10 @@ Holidays
       The week that contains the beginning of Agora's Birthday,
       together with the following week, is a Holiday.
 
-      If a [[person|Glossary#person]] breaks a Rule by missing a deadline that occurs
+      If a person breaks a Rule by missing a deadline that occurs
       during a Holiday, punishment is generally not appropriate.
 
-[CFJ 1434 (called 24 January 2003): The registration of a [[player|Glossary#player]] is an
+[CFJ 1434 (called 24 January 2003): The registration of a player is an
 event for the purposes of Rule 1769.]
 
 [CFJ 1434 (called 24 January 2003): The expiration of a rule-defined
@@ -2995,7 +2995,7 @@ Amended(4) by Proposal 5077 (Murphy), 18 July 2007
 Amended(5) by Proposal 5086 (Zefram), 1 August 2007
 Amended(6) by Proposal 5484 (Murphy; disi.), 2 April 2008
 Amended(7) by Proposal 5535 (Murphy), 7 June 2008
-[[Power|Glossary#power]] changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
+Power changed from 2 to 3 by Proposal 5701 (ais523), 1 October 2008
 Amended(7.1) by Proposal 6607 (coppro; disi.), 1 February 2010
 Amended(7.2) by SLR ratification (Proposal 6806; coppro), 27 August
   2010
@@ -3019,7 +3019,7 @@ Eras
       (in the order they were created) is repealed, unless the
       initiation specifies otherwise.
 
-      A [[player|Glossary#player]] CAN initiate a new Era with Agoran Support.
+      A player CAN initiate a new Era with Agoran Support.
 
 History:
 Created by Proposal 7733 (Murphy), 14 April 2015
@@ -3035,14 +3035,14 @@ Breakages
 Rule 2426/4 (Power=1)
 Cards
 
-      The Referee is an [[office|Glossary#office]]; its holder is responsible for keeping
+      The Referee is an office; its holder is responsible for keeping
       track of wrongdoing.
 
-      The Referee CAN issue a Card to a specified [[player|Glossary#player]] by
-      [[announcement|Glossary#announcement]].  When issuing each Card, e SHALL cite a unique
+      The Referee CAN issue a Card to a specified player by
+      announcement.  When issuing each Card, e SHALL cite a unique
       violation of the rules e perceives to have occurred within the
       last 14 days, and CANNOT issue more than three Cards per week,
-      or one per week to a single [[player|Glossary#player]].  The Arbitor CAN issue Black
+      or one per week to a single player.  The Arbitor CAN issue Black
       Cards to the Referee solely for alleged violations of the former
       requirement.
 
@@ -3050,17 +3050,17 @@ Cards
 
       - Green Card, intended for offenses which the Referee does not
         believe warrant effective punishment.  When a Green Card is
-        issued, the target [[player|Glossary#player]] is ENCOURAGED to travel to the
+        issued, the target player is ENCOURAGED to travel to the
         United States.
 
       - Red Card, intended for more severe offenses.  The effects of a
         Red Card are described elsewhere.
 
-      - Black Card, naming an [[office|Glossary#office]] held by the [[player|Glossary#player]], intended for
-        severe abuses of [[power|Glossary#power]] (the perceived rule violation must
-        involve use or non-use of that [[office|Glossary#office]]'s [[power|Glossary#power]]s).  Within seven
-        days after a Black Card is issued, any [[player|Glossary#player]] CAN become the
-        holder of the target [[office|Glossary#office]] with two support;  the issuer of
+      - Black Card, naming an office held by the player, intended for
+        severe abuses of power (the perceived rule violation must
+        involve use or non-use of that office's powers).  Within seven
+        days after a Black Card is issued, any player CAN become the
+        holder of the target office with two support;  the issuer of
         that Card CANNOT initiate or support this.
 
       The Referee SHALL issue at least one Card per week, unless no
@@ -3088,7 +3088,7 @@ Created by Proposal 7761 (G.), 19 July 2015
 Rule 2427/0 (Power=3)
 Red Cards
 
-      After a Red Card has been issued to a [[player|Glossary#player]], e SHOULD publish a
+      After a Red Card has been issued to a player, e SHOULD publish a
       formal apology of at least 200 words, including all the
       prescribed words, explaining eir error, shame, remorse, and
       ardent desire for self-improvement; other effects are described
@@ -3104,25 +3104,25 @@ Created by Proposal 7639 (omd), 1 May 2014
 Rule 1789/9 (Power=2)
 Cantus Cygneus
 
-      Whenever a [[Player|Glossary#player]] feels that e has been treated so egregiously
+      Whenever a Player feels that e has been treated so egregiously
       by the Agoran community that e can no longer abide to be a part
       of it, e may submit a document to the Registrar, clearly labeled
       a Cantus Cygneus, detailing eir grievances and expressing eir
       reproach for those who e feels have treated em so badly.
 
-      [[In a timely fashion|Glossary#in a timely fashion]] after receiving a Cantus Cygneus, the
+      In a timely fashion after receiving a Cantus Cygneus, the
       Registrar shall publish this document along with a Writ of
       Fugiendae Agorae Grandissima Exprobratione, commanding the
-      [[Player|Glossary#player]] to be deregistered. The Registrar shall note the method
-      of deregistration for that [[Player|Glossary#player]] in subsequent Registrar
-      [[Report|Glossary#report]]s.
+      Player to be deregistered. The Registrar shall note the method
+      of deregistration for that Player in subsequent Registrar
+      Reports.
 
-      The [[Player|Glossary#player]] is deregistered as of the posting of the Writ, and
-      the notation in the Registrar's [[Report|Glossary#report]] will ensure that,
-      henceforth, all may know said [[Player|Glossary#player]] deregistered in a Writ of
+      The Player is deregistered as of the posting of the Writ, and
+      the notation in the Registrar's Report will ensure that,
+      henceforth, all may know said Player deregistered in a Writ of
       FAGE.
 
-[CFJ 1594 (called 16 December 2006): [[Player|Glossary#player]]s can be deregistered due
+[CFJ 1594 (called 16 December 2006): Players can be deregistered due
 to this rule even if there is no Registrar.]
 
 [CFJ 2358 (called 26 January 2009): A document which is labeled as a
@@ -3134,7 +3134,7 @@ Created by Proposal 3705 (Crito), Mar. 9 1998
 Amended(1) by Proposal 4099 (Murphy), Jan. 15 2001
 Amended(2) by Proposal 4147 (Wes), 13 May 2001
 Amended(3) by Proposal 4825 (Maud), 17 July 2005
-[[Power|Glossary#power]] changed from 1 to 2 by Proposal 5780 (comex, ehird), 22 October
+Power changed from 1 to 2 by Proposal 5780 (comex, ehird), 22 October
   2008
 Amended(4) by Proposal 5815 (Pavitra, Murphy), 1 November 2008
 Amended(5) by Proposal 5991 (Elysion), 7 December 2008
@@ -3152,11 +3152,11 @@ Rulesets
 Rule 1051/18 (Power=1)
 The Rulekeepor
 
-      The Rulekeepor is an [[office|Glossary#office]]; its holder is responsible for
+      The Rulekeepor is an office; its holder is responsible for
       maintaining the text of the rules of Agora.
 
-      The Rulekeepor's Weekly [[report|Glossary#report]] includes the Short Logical
-      Ruleset.  The Rulekeepor's Monthly [[report|Glossary#report]] includes the Full
+      The Rulekeepor's Weekly report includes the Short Logical
+      Ruleset.  The Rulekeepor's Monthly report includes the Full
       Logical Ruleset.
 
 History:
@@ -3195,7 +3195,7 @@ The Logical Rulesets
       categories removed, as the Rulekeepor sees fit.
 
       The listing of each rule in the SLR must include the rule's ID
-      number, revision number, [[power|Glossary#power]], title, and text.
+      number, revision number, power, title, and text.
 
       The Rulekeepor is strongly DISCOURAGED from including any
       additional information in the SLR, except that which increases
@@ -3324,50 +3324,50 @@ Recordkeeping
 ----------------------------------------------------------------------
 
 Rule 2143/24 (Power=1)
-Official [[Report|Glossary#report]]s and Duties
+Official Reports and Duties
 
-      For each [[person|Glossary#person]]:
+      For each person:
 
-      a) If any task is defined by the rules as part of that [[person|Glossary#person]]'s
+      a) If any task is defined by the rules as part of that person's
          weekly duties, then e SHALL perform it at least once each
          week.  If any information is defined by the rules as part of
-         that [[person|Glossary#person]]'s weekly [[report|Glossary#report]], then e SHALL maintain all such
+         that person's weekly report, then e SHALL maintain all such
          information, and the publication of all such information is
          part of eir weekly duties.
 
-      b) If any task is defined by the rules as part of that [[person|Glossary#person]]'s
+      b) If any task is defined by the rules as part of that person's
          monthly duties, then e SHALL perform it at least once each
          month.  If any information is defined by the rules as part of
-         that [[person|Glossary#person]]'s monthly [[report|Glossary#report]], then e SHALL maintain all such
+         that person's monthly report, then e SHALL maintain all such
          information, and the publication of all such information is
          part of eir monthly duties.
 
-      Any information defined by the rules as part of a [[person|Glossary#person]]'s
-      [[report|Glossary#report]], without specifying which one, is part of eir weekly
-      [[report|Glossary#report]].  Failure of a [[person|Glossary#person]] to perform any duty required of em
+      Any information defined by the rules as part of a person's
+      report, without specifying which one, is part of eir weekly
+      report.  Failure of a person to perform any duty required of em
       within the allotted time is the Class-2 crime of Tardiness.
 
-      An official duty for an [[office|Glossary#office]] is any duty that the Rules
-      specifically assign to that [[office|Glossary#office]]'s holder in particular
+      An official duty for an office is any duty that the Rules
+      specifically assign to that office's holder in particular
       (regardless of eir identity).
 
-      A [[person|Glossary#person]] SHALL NOT publish information that is inaccurate or
+      A person SHALL NOT publish information that is inaccurate or
       misleading while performing an official duty, or within a
-      document purporting to be part of any [[person|Glossary#person]] or [[office|Glossary#office]]'s weekly
-      or monthly [[report|Glossary#report]].
+      document purporting to be part of any person or office's weekly
+      or monthly report.
 
-      [[Report|Glossary#report]]s SHALL be published in plain text.  Tabular data must
+      Reports SHALL be published in plain text.  Tabular data must
       line up properly when viewed in a monospaced font.  Publishing a
-      [[report|Glossary#report]] that deviates from these regulations is the Class 2 Crime
+      report that deviates from these regulations is the Class 2 Crime
       of Making My Eyes Bleed.
 
-      [[Office|Glossary#office]]rs SHOULD maintain a publicly visible copy of their
-      [[report|Glossary#report]]s on the World Wide Web, and they SHOULD publish the
-      address of this copy along with their published [[report|Glossary#report]]s.
+      Officers SHOULD maintain a publicly visible copy of their
+      reports on the World Wide Web, and they SHOULD publish the
+      address of this copy along with their published reports.
 
 [CFJ 2392 (called 27 February 2009): Publishing an intentionally
-incomplete [[report|Glossary#report]] does not satisfy this rule's requirement to publish
-a [[report|Glossary#report]].]
+incomplete report does not satisfy this rule's requirement to publish
+a report.]
 
 History:
 Created by Proposal 4970 (Zefram), 23 May 2007
@@ -3404,8 +3404,8 @@ Amended(24) by Proposal 7704 (G.), 3 November 2014
 Rule 2379/0 (Power=1)
 No News Is Some News
 
-      If the rules define a [[report|Glossary#report]] as including a list, then while
-      that list is empty, that [[report|Glossary#report]] includes the fact that it is
+      If the rules define a report as including a list, then while
+      that list is empty, that report includes the fact that it is
       empty.
 
 History:
@@ -3416,40 +3416,40 @@ Created by Proposal 7286 (FKA441344), 9 September 2012
 Rule 2160/13 (Power=3)
 Deputisation
 
-      Any [[player|Glossary#player]] (a deputy) CAN perform an action as if e held a
-      particular [[office|Glossary#office]] (deputise for that office) if all of the
+      Any player (a deputy) CAN perform an action as if e held a
+      particular office (deputise for that office) if all of the
       following are true:
 
-        (a) The rules require the holder of that [[office|Glossary#office]], by virtue of
-            holding that [[office|Glossary#office]], to perform the action (or, if the
-            [[office|Glossary#office]] is vacant, would so require if the [[office|Glossary#office]] were
+        (a) The rules require the holder of that office, by virtue of
+            holding that office, to perform the action (or, if the
+            office is vacant, would so require if the office were
             filled).  This requirement is fulfilled by the deputy
             performing the action.
 
         (b) A time limit by which the rules require the action to be
-            performed has expired, or the [[office|Glossary#office]] is vacant.
+            performed has expired, or the office is vacant.
 
-        (c) If the [[office|Glossary#office]] is filled, then the deputy announced between
+        (c) If the office is filled, then the deputy announced between
             two and fourteen days earlier that e intended to deputise
-            for that [[office|Glossary#office]] for the purposes of the particular action.
+            for that office for the purposes of the particular action.
 
         (d) It would be POSSIBLE for the deputy to perform the action,
-            other than by deputisation, if e held the [[office|Glossary#office]].
+            other than by deputisation, if e held the office.
 
         (e) The deputy, when performing the action, announces that e
             is doing so by deputisation.
 
-      When a [[player|Glossary#player]] deputises for an elected [[office|Glossary#office]], e becomes the
-      holder of that [[office|Glossary#office]].
+      When a player deputises for an elected office, e becomes the
+      holder of that office.
 
-      A rule which purports to allow a [[person|Glossary#person]] (a special deputy) to
-      perform an action via special deputisation for an [[office|Glossary#office]] thereby
-      allows them to perform the action as if e held the [[office|Glossary#office]], as
+      A rule which purports to allow a person (a special deputy) to
+      perform an action via special deputisation for an office thereby
+      allows them to perform the action as if e held the office, as
       long as
 
         (a) it would be POSSIBLE for the special deputy to perform the
             action, other than by special deputisation, if e held the
-            [[office|Glossary#office]], and
+            office, and
 
         (b) the special deputy, when performing the action, announces
             that e is doing so by special deputisation.
@@ -3464,7 +3464,7 @@ from rules and circumstances, not just directly imposed by the rules.
 In particular, it is possible to deputise to rotate the bench.]
 
 [CFJ 2400 (called 6 March 2009): Deputisation is generally treated as
-if the deputy gained the [[office|Glossary#office]] immediately before the action, and
+if the deputy gained the office immediately before the action, and
 lost it immediately after.]
 
 History:
@@ -3472,7 +3472,7 @@ Created by Proposal 5103 (Zefram), 1 August 2007
 Amended(1) by Proposal 5200 (Zefram; disi.), 8 September 2007
 Amended(2) by Proposal 5414 (Murphy), 26 January 2008
 Amended(3) by Proposal 5454 (Murphy), 9 March 2008
-[[Power|Glossary#power]] changed from 1 to 3 by Proposal 5983 (Warrigal), 29 November
+Power changed from 1 to 3 by Proposal 5983 (Warrigal), 29 November
   2008
 Assigned to Committee on Administration by Proposal 6053 (Murphy,
   woggle, ais523), 23 January 2009
@@ -3516,19 +3516,19 @@ Ratification
       the main section.
 
       Text purportedly about previous instances of ratification (e.g.
-      a [[report|Glossary#report]]'s date of last ratification) is excluded from
+      a report's date of last ratification) is excluded from
       ratification. The rules may define additional information that
       is considered to be part of the document for the purposes of
-      ratification; such definitions are secured at a [[Power|Glossary#power]]
+      ratification; such definitions are secured at a Power
       Threshold of 3.
 
-      Ratifying a public document is secured with [[power|Glossary#power]] threshold 3.
+      Ratifying a public document is secured with power threshold 3.
 
 [CFJ 2165 (called 16 September 2008): Ratification can create legal
 fictions, but does not always.]
 
 [CFJ 3155 (called 26 January 2012): A "recent history" section of a
-[[report|Glossary#report]] is not considered binding as a complete list of certain types
+report is not considered binding as a complete list of certain types
 of events during a certain date range.]
 
 History:
@@ -3539,7 +3539,7 @@ Amended(2) by Proposal 3445 (General Chaos), Mar. 26 1997, substantial
 Amended(3) by Proposal 3704 (General Chaos), Mar. 19 1998
 Amended(4) by Proposal 3889 (harvel), Aug. 9 1999
 Amended(5) by Proposal 4147 (Wes), 13 May 2001
-[[Power|Glossary#power]] changed from 1 to 3 by Proposal 4832 (Maud), 6 August 2005
+Power changed from 1 to 3 by Proposal 4832 (Maud), 6 August 2005
 Amended(6) by Proposal 4832 (Maud), 6 August 2005
 Amended(7) by Proposal 4868 (Goethe), 27 August 2006
 Amended(8) by Proposal 5101 (Zefram), 1 August 2007
@@ -3548,12 +3548,12 @@ Amended(10) by Proposal 5275 (Murphy), 7 November 2007
 Amended(11) by Proposal 5315 (Murphy), 28 November 2007
 Amended(12) by Proposal 5459 (Murphy), 9 March 2008
 Amended(13) by Proposal 6570 (Murphy), 28 November 2009
-[[Power|Glossary#power]] changed from 3 to 3.1 by Proposal 6806 (coppro), 27 August 2010
+Power changed from 3 to 3.1 by Proposal 6806 (coppro), 27 August 2010
 Amended(14) by Proposal 6930 (ais523), 2 January 2011
 Amended(15) by Proposal 6938 (omd), 2 January 2011
-[[Power|Glossary#power]] changed from 3.1 to 3 by SLR ratification (Proposal 6839; omd),
+Power changed from 3.1 to 3 by SLR ratification (Proposal 6839; omd),
   2 January 2011
-[[Power|Glossary#power]] changed from 3 to 3.1 by Proposal 7262 (omd), 7 July 2012
+Power changed from 3 to 3.1 by Proposal 7262 (omd), 7 July 2012
 Amended(16) by Proposal 7568 (omd, Fool), 24 August 2013
 Amended(17) by Proposal 7586 (omd), 24 August 2013
 Amended(18) by Proposal 7664 (omd), 3 June 2014
@@ -3563,33 +3563,33 @@ Amended(18) by Proposal 7664 (omd), 3 June 2014
 Rule 2202/6 (Power=3)
 Ratification Without Objection
 
-      Any [[player|Glossary#player]] CAN, without objection, ratify a public document,
+      Any player CAN, without objection, ratify a public document,
       specifying its scope.
 
       Ratification Without Objection CANNOT cause the repeal,
       amendment, enactment, or mutation of any Rule, rules to the
       contrary notwithstanding.
 
-      A [[player|Glossary#player]] SHALL NOT knowingly use or announce intent to use
+      A player SHALL NOT knowingly use or announce intent to use
       Ratification Without Objection to ratify a (prior to
       ratification) document containing incorrect or Indeterminate
       information when a corrected document could be produced with
       reasonable effort, unless the general nature of the document's
       error and reason for ratifying it is clearly and plainly
-      described in the [[announcement|Glossary#announcement]] of intent.  Such ratification
-      or [[announcement|Glossary#announcement]] of intent to ratify is the Class-8 Crime of
+      described in the announcement of intent.  Such ratification
+      or announcement of intent to ratify is the Class-8 Crime of
       Endorsing Forgery.
 
 [CFJ 1836 (called 18 December 2007): Ratification of an official
 document affects only those aspects of gamestate that are defined to
-be part of the official [[report|Glossary#report]], and not aspects that are incidentally
-[[report|Glossary#report]]ed on; in particular, ratification of an official [[report|Glossary#report]] on
-certain parameters pertaining to each [[player|Glossary#player]] does not ratify the list
-of [[player|Glossary#player]]s.]
+be part of the official report, and not aspects that are incidentally
+reported on; in particular, ratification of an official report on
+certain parameters pertaining to each player does not ratify the list
+of players.]
 
 [CFJ 2289 (called 25 November 2008): Ratification Without Objection of
 a value inseparable from another value may change the latter value
-even if it is not directly part of the [[report|Glossary#report]] being ratified.]
+even if it is not directly part of the report being ratified.]
 
 History:
 Created by Proposal 5459 (Murphy), 9 March 2008
@@ -3618,7 +3618,7 @@ Self-Ratification
        b) A claim of error, appropriate for matters of fact.  The
           publisher of the original document SHALL (if e was required
           to publish that document) or SHOULD (otherwise) do one of
-          the following [[in a timely fashion|Glossary#in a timely fashion]]:
+          the following in a timely fashion:
 
               i) Deny the claim (causing it to cease to be a doubt).
              ii) Publish a revision.
@@ -3674,20 +3674,20 @@ Amended(2) by Proposal 7786 (scshunt), 29 August 2015
 ----------------------------------------------------------------------
 
 Rule 2138/22 (Power=1)
-The Associate Director of [[Person|Glossary#person]]nel
+The Associate Director of Personnel
 
-      The Associate Director of [[Person|Glossary#person]]nel (ADoP) is an [[office|Glossary#office]]; its
-      holder is responsible for keeping track of [[office|Glossary#office]]rs.
+      The Associate Director of Personnel (ADoP) is an office; its
+      holder is responsible for keeping track of officers.
 
-      The ADoP's [[report|Glossary#report]] includes the following:
+      The ADoP's report includes the following:
 
-      a) The date of the last change (if any) to each [[office|Glossary#office]]'s
-         [[Office|Glossary#office]]holder.
-      b) The date on which the most recent election for each [[office|Glossary#office]]
+      a) The date of the last change (if any) to each office's
+         Officeholder.
+      b) The date on which the most recent election for each office
          was initiated.
 
 [CFJ 1672 (called 18 May 2007): The Interstellar Associate Director of
-[[Person|Glossary#person]]nel is the Director of [[Person|Glossary#person]]nel.]
+Personnel is the Director of Personnel.]
 
 History:
 Created by Proposal 4939 (Murphy), 29 April 2007
@@ -3724,28 +3724,28 @@ Amended(22) by Proposal 7758 (omd), 19 July 2015
 Rule 2139/7 (Power=2)
 The Registrar
 
-      The Registrar is an [[office|Glossary#office]]; its holder is responsible for
-      keeping track of [[player|Glossary#player]]s.
+      The Registrar is an office; its holder is responsible for
+      keeping track of players.
 
-      The Registrar's [[report|Glossary#report]] includes:
+      The Registrar's report includes:
 
-      a) A list of all [[player|Glossary#player]]s, including information sufficient to
-         identify and contact each [[player|Glossary#player]].
-      b) The date on which each [[player|Glossary#player]] most recently became a [[player|Glossary#player]].
-      c) For each former [[player|Glossary#player]] for which the information is
+      a) A list of all players, including information sufficient to
+         identify and contact each player.
+      b) The date on which each player most recently became a player.
+      c) For each former player for which the information is
          reasonably available, the dates on which e registered and
          deregistered.
 
       The Registrar is also responsible for tracking any switches that
-      would otherwise lack an [[office|Glossary#office]]r to track them, unless the switch
+      would otherwise lack an officer to track them, unless the switch
       is defined as untracked.
 
-[CFJ 1703 (called 13 July 2007): A [[player|Glossary#player]] cannot change eir nickname
-by [[announcement|Glossary#announcement]] if the new nickname that e specifies is the current
-nickname of another [[player|Glossary#player]].]
+[CFJ 1703 (called 13 July 2007): A player cannot change eir nickname
+by announcement if the new nickname that e specifies is the current
+nickname of another player.]
 
 [CFJ 1361 (called 7 May 2002): Purporting to assign a new nickname,
-previously unused to refer to any entity, to another [[player|Glossary#player]] is
+previously unused to refer to any entity, to another player is
 successful, but does not displace the target's existing name or
 nickname.]
 
@@ -3753,7 +3753,7 @@ nickname.]
 element of the game.]
 
 [CFJ 1420 (called 17 December 2002): The list of watchers, customarily
-published with the registrar's [[report|Glossary#report]], is part of the game state, even
+published with the registrar's report, is part of the game state, even
 though it is not mentioned in the rules and no one is obliged to track
 or publish it.]
 
@@ -3762,7 +3762,7 @@ Created by Proposal 4939 (Murphy), 29 April 2007
 Amended(1) by Proposal 5172 (Murphy), 29 August 2007
 Amended(2) by Proposal 6322 (Wooble), 26 May 2009
 Amended(3) twice by Proposal 6567 (Walker), 28 November 2009
-[[Power|Glossary#power]] changed from 1 to 2 by Proposal 6567 (Walker), 28 November 2009
+Power changed from 1 to 2 by Proposal 6567 (Walker), 28 November 2009
 Amended(4) by Proposal 7141 (G.), 19 November 2011
 Amended(5) by Proposal 7416 (omd), 12 May 2013
 Amended(6) by Proposal 7586 (omd), 24 August 2013
@@ -3777,17 +3777,17 @@ Organizations
 Rule 2456/1 (Power=1)
 The Secretary
 
-      The Secretary is an [[office|Glossary#office]]. The Secretary's weekly [[report|Glossary#report]]
+      The Secretary is an office. The Secretary's weekly report
       includes:
 
-      a) A list of which [[person|Glossary#person]]s are on [[Person|Glossary#person]]al [[Lockout|Glossary#lockout]].
-      b) The time at which each [[person|Glossary#person]] on [[Person|Glossary#person]]al [[Lockout|Glossary#lockout]] comes off
-         [[Lockout|Glossary#lockout]].
-      c) Whether Agora is on Global [[Lockout|Glossary#lockout]], and if so, when it ends.
+      a) A list of which persons are on Personal Lockout.
+      b) The time at which each person on Personal Lockout comes off
+         Lockout.
+      c) Whether Agora is on Global Lockout, and if so, when it ends.
       d) A list of all Organizations and their Income.
-      e) Each [[player|Glossary#player]]'s Expenditure.
+      e) Each player's Expenditure.
 
-      The Secretary's monthly [[report|Glossary#report]] includes:
+      The Secretary's monthly report includes:
       a) Each Organization's Charter.
       
 History:
@@ -3804,25 +3804,25 @@ Organizations
       causing an entity to become an Organization or cease to be an
       Organization.
 
-      The [[Income Cap|Glossary#income cap]] is 100.
+      The Income Cap is 100.
 
       Budget is a switch belonging to (Organization, player) pairs
       (i.e. there is one instance of the switch for each combination
       of an Organization and a player), tracked by the Secretary,
-      whose legal values are integers from 0 to the [[Income Cap|Glossary#income cap]] 
+      whose legal values are integers from 0 to the Income Cap 
       inclusive, defaulting to 0. An Organization's Income is the 
       total value of all Budget switches for pairs that include that 
-      Organization. A [[player|Glossary#player]]'s Expenditure is the total value of all 
-      Budget switches for pairs that include that [[player|Glossary#player]]. Changes to 
+      Organization. A player's Expenditure is the total value of all 
+      Budget switches for pairs that include that player. Changes to 
       Budget are secured.
 
-      A "member" of an Organization is a [[player|Glossary#player]] for which the pair
-      consisting of that Organization and that [[player|Glossary#player]] has a nonzero
+      A "member" of an Organization is a player for which the pair
+      consisting of that Organization and that player has a nonzero
       Budget.
 
-      It is IMPOSSIBLE, by any means, for a [[player|Glossary#player]] to become a member
+      It is IMPOSSIBLE, by any means, for a player to become a member
       of an Organization, or for an organization to be created with a
-      [[player|Glossary#player]] as a member, without that [[player|Glossary#player]]'s explicit, willful
+      player as a member, without that player's explicit, willful
       consent. This rule takes precedence over any rule that might
       make such a change possible.
 
@@ -3837,7 +3837,7 @@ Rule 2460/0 (Power=1.2)
 Organizational Restructuring
 
       Charter is an Organization switch, tracked by the Secretary in
-      eir monthly [[report|Glossary#report]], whose legal values are texts, and with
+      eir monthly report, whose legal values are texts, and with
       default value "An amendment to this Organization is Appropriate
       if intent to perform it was announced between 4 and 14 days ago,
       and no members of the Organization have publicly objected to it
@@ -3862,14 +3862,14 @@ Organizational Restructuring
       Organizations can be amended as follows:
 
       a) A member of an Organization CAN flip that Organization's
-         Charter by [[announcement|Glossary#announcement]], if doing so is Appropriate, and that
-         member is not on [[Lockout|Glossary#lockout]].
-      b) Any [[player|Glossary#player]] CAN flip a Budget Switch by [[announcement|Glossary#announcement]], if doing
-         so is Appropriate and the [[player|Glossary#player]] is not on [[Lockout|Glossary#lockout]], except
+         Charter by announcement, if doing so is Appropriate, and that
+         member is not on Lockout.
+      b) Any player CAN flip a Budget Switch by announcement, if doing
+         so is Appropriate and the player is not on Lockout, except
          where other rules prevent this.
       c) A member of an Organization CAN flip that Organization's
          Charter without objection, even if doing so is Inappropriate,
-         as long as that member is not on [[Lockout|Glossary#lockout]]. [[Player|Glossary#player]]s SHOULD only
+         as long as that member is not on Lockout. Players SHOULD only
          use this mechanism to recover from situations where the
          Charter is underspecified or has unintended effects.
 
@@ -3884,18 +3884,18 @@ Death and Birth of Organizations
       The Income Floor is 50.
 
       If an Organization's Income is ever lower than the Income Floor,
-      then any [[player|Glossary#player]] CAN destroy it by [[announcement|Glossary#announcement]], and the Secretary
-      SHALL do so [[in a timely fashion|Glossary#in a timely fashion]] if the situation persists.
+      then any player CAN destroy it by announcement, and the Secretary
+      SHALL do so in a timely fashion if the situation persists.
 
-      If a [[player|Glossary#player]]'s Expenditure is at most the [[Income Cap|Glossary#income cap]] minus the 
-      Income Floor, and e is not on [[Lockout|Glossary#lockout]], then e CAN create an 
-      Organization by [[announcement|Glossary#announcement]], specifying a name for that 
+      If a player's Expenditure is at most the Income Cap minus the 
+      Income Floor, and e is not on Lockout, then e CAN create an 
+      Organization by announcement, specifying a name for that 
       Organization that is unique among Organizations, and a Charter. 
       When an organization is created this way, its Charter is set to 
       the value that e specified, and the Budget switch for that 
-      [[player|Glossary#player]] and Organization is set to the Income Floor.
+      player and Organization is set to the Income Floor.
 
-      Notwithstanding the above, a [[player|Glossary#player]] CANNOT create more than one
+      Notwithstanding the above, a player CANNOT create more than one
       Organization in a day, and CANNOT create Organizations while e
       is a member of an Organization with an Income lower than the
       Income Floor.
@@ -3908,19 +3908,19 @@ Amended(2) by Proposal 7795 (Murphy), 12 Februray 2016
 ----------------------------------------------------------------------
 
 Rule 2462/2 (Power=1.2)
-[[Bankrupt|Glossary#bankrupt]]cy
+Bankruptcy
 
-      While a [[player|Glossary#player]]'s Expenditure exceeds the [[Income Cap|Glossary#income cap]], then any 
-      [[player|Glossary#player]] CAN cause that [[player|Glossary#player]] to become [[Bankrupt|Glossary#bankrupt]] by [[announcement|Glossary#announcement]], 
-      and the Secretary SHALL do so [[in a timely fashion|Glossary#in a timely fashion]] if the 
+      While a player's Expenditure exceeds the Income Cap, then any 
+      player CAN cause that player to become Bankrupt by announcement, 
+      and the Secretary SHALL do so in a timely fashion if the 
       situation persists.
 
-      When a [[player|Glossary#player]] becomes [[Bankrupt|Glossary#bankrupt]]:
-      a) All Budget switches for pairs including that [[player|Glossary#player]] are
+      When a player becomes Bankrupt:
+      a) All Budget switches for pairs including that player are
          flipped to 0.
       b) The Secretary CAN, and SHALL in a timely manner, award that
-         [[player|Glossary#player]] a Red Card.
-      c) A [[Lockout|Glossary#lockout]] Event happens to that [[player|Glossary#player]]. 
+         player a Red Card.
+      c) A Lockout Event happens to that player. 
 
 History:
 Created by Proposal 7793 (ais523, aranea, G.), 28 October 2015
@@ -3930,22 +3930,22 @@ Amended(2) by Proposal 7795 (Murphy), 12 Februray 2016
 ----------------------------------------------------------------------
 
 Rule 2457/0 (Power=1.2)
-[[Lockout|Glossary#lockout]]
+Lockout
 
-      There is such a thing as a [[Lockout|Glossary#lockout]] Event, which can happen
-      either to a [[person|Glossary#person]] or to Agora as a whole. [[Lockout|Glossary#lockout]] Events only
-      happen when a Rule with [[power|Glossary#power]] 1 or greater explicitly states
+      There is such a thing as a Lockout Event, which can happen
+      either to a person or to Agora as a whole. Lockout Events only
+      happen when a Rule with power 1 or greater explicitly states
       that they happen.
 
-      A [[person|Glossary#person]] is on [[Person|Glossary#person]]al [[Lockout|Glossary#lockout]] if a [[Lockout|Glossary#lockout]] Event happened to
-      that [[person|Glossary#person]] within the past 90 days.
+      A person is on Personal Lockout if a Lockout Event happened to
+      that person within the past 90 days.
 
-      Agora is on Global [[Lockout|Glossary#lockout]] if a [[Lockout|Glossary#lockout]] Event happened to Agora
+      Agora is on Global Lockout if a Lockout Event happened to Agora
       as a whole within the past 7 days.
 
-      A [[person|Glossary#person]] is on [[Lockout|Glossary#lockout]] if that [[person|Glossary#person]] is on [[Person|Glossary#person]]al [[Lockout|Glossary#lockout]],
-      Agora is on Global [[Lockout|Glossary#lockout]], or both. A [[person|Glossary#person]] is "off [[Lockout|Glossary#lockout]]"
-      if that [[person|Glossary#person]] is not on [[Lockout|Glossary#lockout]].
+      A person is on Lockout if that person is on Personal Lockout,
+      Agora is on Global Lockout, or both. A person is "off Lockout"
+      if that person is not on Lockout.
 
 History:
 Created by Proposal 7791 (ais523), 28 October 2015
@@ -3953,13 +3953,13 @@ Created by Proposal 7791 (ais523), 28 October 2015
 ----------------------------------------------------------------------
 
 Rule 2458/0 (Power=1.2)
-Invoking [[Lockout|Glossary#lockout]]
+Invoking Lockout
 
-      A [[player|Glossary#player]] who is not on [[Lockout|Glossary#lockout]] can Invoke [[Lockout|Glossary#lockout]] by
-      [[announcement|Glossary#announcement]].
+      A player who is not on Lockout can Invoke Lockout by
+      announcement.
 
-      When a [[player|Glossary#player]] Invokes [[Lockout|Glossary#lockout]], a [[Lockout|Glossary#lockout]] Event happens to that
-      [[player|Glossary#player]] and a [[Lockout|Glossary#lockout]] Event happens to Agora as a whole.
+      When a player Invokes Lockout, a Lockout Event happens to that
+      player and a Lockout Event happens to Agora as a whole.
 
 History:
 Created by Proposal 7792 (ais523), 28 October 2015
@@ -3967,24 +3967,24 @@ Created by Proposal 7792 (ais523), 28 October 2015
 ----------------------------------------------------------------------
 
 ======================================================================
-[[Winning|Glossary#winning]]
+Winning
 ----------------------------------------------------------------------
 
 Rule 2452/1 (Power=0.5)
 Trust Tokens
 
-      Any [[player|Glossary#player]] can issue a Trust Token to another [[person|Glossary#person]] by
-      [[announcement|Glossary#announcement]].
+      Any player can issue a Trust Token to another person by
+      announcement.
 
-      A [[person|Glossary#person]] can win the game by [[announcement|Glossary#announcement]] if e has been issued a 
-      Trust Token by each [[player|Glossary#player]] except emself; if no [[person|Glossary#person]] has won 
+      A person can win the game by announcement if e has been issued a 
+      Trust Token by each player except emself; if no person has won 
       via this mechanism in the past; and if in the same message, e 
-      quotes, for each of those [[player|Glossary#player]]s, a public message in which 
-      that [[player|Glossary#player]] issued em a Trust Token.
+      quotes, for each of those players, a public message in which 
+      that player issued em a Trust Token.
 
 History:
 Created by Proposal 7768 (ais523), 24 July 2015
-[[Power|Glossary#power]] changed from 1.0 to 0.5 by Proposal 7768 (ais523), 24 July 2015
+Power changed from 1.0 to 0.5 by Proposal 7768 (ais523), 24 July 2015
 Amended(1) by Proposal 7790 (the Warrigal, Bucky), 13 October 2015
 
 ----------------------------------------------------------------------
@@ -4013,85 +4013,85 @@ Created by Proposal 7785 (G.), 29 August 2015
 Rule 2438/4 (Power=3)
 Ribbons
 
-      The Tailor is an [[office|Glossary#office]], and the recordkeepor of Ribbons.
+      The Tailor is an office, and the recordkeepor of Ribbons.
 
-      Ribbon Ownership is a [[person|Glossary#person]] switch, tracked by the Tailor in
-      his monthly [[report|Glossary#report]], whose values are the subsets of the set of
+      Ribbon Ownership is a person switch, tracked by the Tailor in
+      his monthly report, whose values are the subsets of the set of
       types of Ribbon, defaulting to the empty set.
 
-      To "award a [[person|Glossary#person]] a <Ribbon type>" is to add that type of
-      Ribbon to that [[person|Glossary#person]]'s Ribbon Ownership. A [[person|Glossary#person]] "owns a
+      To "award a person a <Ribbon type>" is to add that type of
+      Ribbon to that person's Ribbon Ownership. A person "owns a
       <Ribbon type>" if that type of Ribbon is an element of eir
       Ribbon Ownership.
 
-      While a [[person|Glossary#person]] qualifies for a type of Ribbon, any [[player|Glossary#player]] can
-      generally award em that type of Ribbon. A [[person|Glossary#person]] qualifies for a
+      While a person qualifies for a type of Ribbon, any player can
+      generally award em that type of Ribbon. A person qualifies for a
       type of Ribbon if e has earned that type of Ribbon within the
       preceding 7 days (including earlier in the same message) and has
       not owned that type of Ribbon within the preceding 7 days.
 
-      While a [[person|Glossary#person]] owns all types of Ribbon, that [[person|Glossary#person]] can Raise a
-      Banner by [[announcement|Glossary#announcement]]. This causes that [[person|Glossary#person]] to win the game.
-      That [[person|Glossary#person]]'s Ribbon Ownership becomes the empty set.
+      While a person owns all types of Ribbon, that person can Raise a
+      Banner by announcement. This causes that person to win the game.
+      That person's Ribbon Ownership becomes the empty set.
 
       The types of Ribbon, and the methods of obtaining them, are as
       follows:
 
       Red (R): When a proposal is adopted and changes at least one
-      rule with [[Power|Glossary#power]] >= 3, its proposer earns a Red Ribbon.
+      rule with Power >= 3, its proposer earns a Red Ribbon.
 
       Orange (O): When a proposal is adopted via an Agoran Decision on
       which no valid votes were AGAINST, its proposer earns an Orange
       Ribbon.
 
-      Green (G): While a [[person|Glossary#person]] has held an elected [[office|Glossary#office]]
+      Green (G): While a person has held an elected office
       continuously for 30 days, and has not failed to perform any
-      duties of that [[office|Glossary#office]] within the appropriate time limits during
-      those 30 days, that [[person|Glossary#person]] qualifies for a Green Ribbon.
+      duties of that office within the appropriate time limits during
+      those 30 days, that person qualifies for a Green Ribbon.
 
-      Cyan (C): When a [[person|Glossary#person]] deputises for an [[office|Glossary#office]], that [[person|Glossary#person]]
+      Cyan (C): When a person deputises for an office, that person
       earns a Cyan Ribbon.
 
-      Blue (B): When a [[person|Glossary#person]] assigns a judgement to a CFJ, and has
+      Blue (B): When a person assigns a judgement to a CFJ, and has
       never violated a time limit to assign a judgement to that CFJ,
-      that [[person|Glossary#person]] earns a Blue Ribbon.
+      that person earns a Blue Ribbon.
 
-      Magenta (M): During Agora's Birthday, each [[person|Glossary#person]] who has
+      Magenta (M): During Agora's Birthday, each person who has
       publicly acknowledged the fact qualifies for a Magenta Ribbon.
 
-      Ultraviolet (U): When a [[person|Glossary#person]] is awarded the Patent Title
-      Champion, that [[person|Glossary#person]] earns an Ultraviolet Ribbon.
+      Ultraviolet (U): When a person is awarded the Patent Title
+      Champion, that person earns an Ultraviolet Ribbon.
 
-      Violet (V): When a [[person|Glossary#person]] is awarded a Patent Title other than
-      Champion or a degree, that [[person|Glossary#person]] earns a Violet Ribbon.
+      Violet (V): When a person is awarded a Patent Title other than
+      Champion or a degree, that person earns a Violet Ribbon.
 
-      Indigo (I): When a [[person|Glossary#person]] is awarded a degree, that [[person|Glossary#person]] earns
+      Indigo (I): When a person is awarded a degree, that person earns
       an Indigo Ribbon.
 
       Platinum (P): The Speaker qualifies for a Platinum Ribbon.
 
-      Lime (L): A [[person|Glossary#person]] qualifies for a Lime Ribbon if three or more
-      proposals adopted in the preceding 7 days had that [[person|Glossary#person]] as a
+      Lime (L): A person qualifies for a Lime Ribbon if three or more
+      proposals adopted in the preceding 7 days had that person as a
       coauthor.
 
-      White (W): A [[player|Glossary#player]] qualifies for a White Ribbon if e has never
+      White (W): A player qualifies for a White Ribbon if e has never
       previously owned a White Ribbon (including under previous
-      rulesets). A [[player|Glossary#player]] who has been registered for at least 30 days
-      and has never caused another [[person|Glossary#person]] to gain a White Ribbon
+      rulesets). A player who has been registered for at least 30 days
+      and has never caused another person to gain a White Ribbon
       (including under a previous ruleset) CAN award a White Ribbon to
-      another [[person|Glossary#person]] by [[announcement|Glossary#announcement]].
+      another person by announcement.
 
       Black (K): This rule does not specify any methods of obtaining
       Black Ribbons.
 
-      Gray (Y): The Tailor CAN award a Gray Ribbon by [[announcement|Glossary#announcement]],
+      Gray (Y): The Tailor CAN award a Gray Ribbon by announcement,
       unless e has done so earlier in the month. E is ENCOURAGED to
       award such a Ribbon in the same message in which e publishes eir
-      monthly [[report|Glossary#report]].
+      monthly report.
 
 History:
 Created by Proposal 7698 (ais523), 3 November 2014
-[[Power|Glossary#power]] changed from 1 to 3 by Proposal 7725 (aranea), 16 November 2014
+Power changed from 1 to 3 by Proposal 7725 (aranea), 16 November 2014
 Amended(1) by Proposal 7735 (aranea), 2 May 2015
 Amended(2) by Proposal 7746 (aranea), 19 May 2015
 Amended(3) by Proposal 7748 (ais523), 30 June 2015
@@ -4111,22 +4111,22 @@ Silver Quill
       Half-birthday, of each year, except for dates preceding the
       enactment of this Rule.  After midnight on a given Marker Date,
       the Herald CAN once initiate a Silver Quill Ceremony for that
-      Date by [[announcement|Glossary#announcement]], and SHALL do so [[in a timely fashion|Glossary#in a timely fashion]]; e is
+      Date by announcement, and SHALL do so in a timely fashion; e is
       ENCOURAGED to initiate it on that exact Date if possible.
 
-      After a Silver Quill Ceremony has been initiated, [[player|Glossary#player]]s are
+      After a Silver Quill Ceremony has been initiated, players are
       ENCOURAGED to discuss which eligible proposals best satisfy the
       aforementioned criteria.  To be eligible, a proposal must have
       been adopted at least 2 months, but no more than 14 months,
       before the Marker Date, and must not have previously won a
-      Silver Quill Ceremony.  Proposals submitted by new [[player|Glossary#player]]s
+      Silver Quill Ceremony.  Proposals submitted by new players
       SHOULD be given somewhat higher weight, but the primary
       reference should be the proposals themselves and their effect on
       the game since adoption.
 
       Once four days have passed since initiation, the Herald CAN once
       initiate the Agoran decision to determine the winner, and SHALL
-      do so [[in a timely fashion|Glossary#in a timely fashion]].  For this decision, the valid options
+      do so in a timely fashion.  For this decision, the valid options
       are all eligible proposals, the vote collector is the Herald,
       and the voting method is instant runoff.
 
@@ -4150,19 +4150,19 @@ Trophies
 Rule 649/37 (Power=1.5)
 Patent Titles
 
-      A Patent Title is a legal title given to a [[person|Glossary#person]] in recognition
-      of the [[person|Glossary#person]]'s distinction.  The Herald is an [[office|Glossary#office]]; its
+      A Patent Title is a legal title given to a person in recognition
+      of the person's distinction.  The Herald is an office; its
       holder is responsible for tracking Patent Titles in eir monthly
-      [[report|Glossary#report]].
+      report.
 
-      Awarding or revoking a Patent Title is secured.  A [[person|Glossary#person]]
+      Awarding or revoking a Patent Title is secured.  A person
       permitted and enabled to award (revoke) a Patent Title SHALL do
-      so [[in a timely fashion|Glossary#in a timely fashion]] after the conditions authorizing em to do
+      so in a timely fashion after the conditions authorizing em to do
       so are announced, unless there is an open judicial case
       contesting the validity of those conditions.
 
       The Herald CAN award a specified Patent Title to a specified
-      [[player|Glossary#player]] With 2 Agoran Consent.
+      player With 2 Agoran Consent.
 
 [CFJ 1525 (called 15 November 2004): If a patent title is defined by
 the rules, and previously the rules defined a patent title with the
@@ -4174,12 +4174,12 @@ borne until explicitly revoked, even if the rule defining the patent
 title is repealed or the patent title was never defined by a rule.]
 
 [CFJ 1731 (called 23 August 2007): It is possible for an entity [a
-[[person|Glossary#person]] at the time of CFJ 1731] to bear more than one instance of a
+person at the time of CFJ 1731] to bear more than one instance of a
 patent title simultaneously.]
 
-[CFJ 1591 (called 1 December 2006): Where a [[person|Glossary#person]] bears the patent
+[CFJ 1591 (called 1 December 2006): Where a person bears the patent
 title X, and X is not also defined by the rules to have some special
-meaning, it is correct to say that that [[person|Glossary#person]] "is an X".]
+meaning, it is correct to say that that person "is an X".]
 
 History:
 Created by Proposal 649 (Wes), ca. Oct. 22 1993
@@ -4213,7 +4213,7 @@ Amended(23) by Proposal 5237 (AFO; disi.), 3 October 2007
 Amended(24) by Proposal 5239 (AFO), 3 October 2007
 Amended(25) by Proposal 5341 (Goethe), 8 December 2007
 Amended(26) by Proposal 5412 (woggle), 26 January 2008
-[[Power|Glossary#power]] changed from 1 to 1.5 by Proposal 5437 (Goethe), 13 February
+Power changed from 1 to 1.5 by Proposal 5437 (Goethe), 13 February
   2008
 Amended(27) by Proposal 5437 (Goethe), 13 February 2008
 Amended(28) by Proposal 6047 (comex), 13 January 2009
@@ -4243,7 +4243,7 @@ Degrees
 
       Degrees are ranked in the order they appear in this rule, with
       degrees listed later being ranked higher.  A specific degree
-      CANNOT be awarded to any [[person|Glossary#person]] more than once.
+      CANNOT be awarded to any person more than once.
 
       A specified degree CAN be awarded with 2 Agoran Consent, and
       SHOULD only be awarded for the publication of an original
@@ -4262,19 +4262,19 @@ Amended(5) by Proposal 4002 (harvel), May 8 2000
 Amended(6) by Proposal 4110 (Ziggy), Feb. 13 2001
 Amended(7) by Proposal 4865 (Goethe), 27 August 2006
 Amended(8) by Proposal 5085 (Zefram), 1 August 2007
-[[Power|Glossary#power]] changed from 1 to 1.5 by Proposal 5085 (Zefram), 1 August 2007
+Power changed from 1 to 1.5 by Proposal 5085 (Zefram), 1 August 2007
 Amended(9) by Proposal 5243 (root; disi.), 7 October 2007
 Amended(10) by Proposal 5276 (Murphy, Pavitra, Zefram), 7 November
   2007
 Amended(11) by Proposal 5437 (Goethe), 13 February 2008
-[[Power|Glossary#power]] changed from 1.5 to 1 by Proposal 5947 (ais523), 15 November
+Power changed from 1.5 to 1 by Proposal 5947 (ais523), 15 November
   2008
 Amended(12) by Proposal 5955 (ais523, Elysion, Murphy; disi.), 18
   November 2008
 Amended(13) by Proposal 6257 (coppro), 11 May 2009
 Amended(14) by Proposal 6624 (Murphy), 20 February 2010
 Amended(15) by Proposal 6671 (Yally; disi.), 22 March 2010
-[[Power|Glossary#power]] changed from 1 to 3 by Proposal 6717 (coppro), 4 May 2010
+Power changed from 1 to 3 by Proposal 6717 (coppro), 4 May 2010
 Amended(16) by SLR ratification (Proposal 6806; coppro), 27 August
   2010
 Amended(17) by Proposal 7420 (omd), 27 May 2013
@@ -4287,28 +4287,28 @@ Rule 2231/5 (Power=3)
 Order of the Hero of Agora Nomic
 
       Heroic titles are Agora's premier patent titles of distinction,
-      and CAN be awarded to [[person|Glossary#person]]s for meritorious service only by a
-      proposal of [[power|Glossary#power]] 3 or greater, which SHOULD explain why those
-      [[person|Glossary#person]]s are qualified.  Bearers of heroic titles (Heroes)
+      and CAN be awarded to persons for meritorious service only by a
+      proposal of power 3 or greater, which SHOULD explain why those
+      persons are qualified.  Bearers of heroic titles (Heroes)
       constitute the Order of the Hero of Agora Nomic.
 
       The Heroic titles in decreasing precedence are:
 
       Grand Hero of Agora Nomic (GHAN) -- This title may be awarded to
-      any [[person|Glossary#person]] obviously and directly responsible for the existence
+      any person obviously and directly responsible for the existence
       of Agora and/or Nomic in general.  As this title is the highest
       honour that Agora may bestow, a Bearer of this title OUGHT to be
       treated right good forever.
 
       Hero of Agora Nomic (HAN) -- This title may be awarded to any
-      [[person|Glossary#person]] for outstanding meritorious service to Agora above and
+      person for outstanding meritorious service to Agora above and
       beyond the call of duty.
 
 History:
 Created by Proposal 6016 (OscarMeyr), 18 December 2008
 Amended(1) by cleaning (Murphy), 16 August 2009
 Amended(2) by Proposal 6571 (ais523), 28 November 2009
-[[Power|Glossary#power]] changed from 2 to 3 by Proposal 6626 (Murphy), 20 February 2010
+Power changed from 2 to 3 by Proposal 6626 (Murphy), 20 February 2010
 Amended(3) by Proposal 6626 (Murphy), 20 February 2010
 Amended(4) by Proposal 7621 (G.), 23 February 2014
 Amended(5) by Proposal 7647 (omd), 3 June 2014
@@ -4319,11 +4319,11 @@ Rule 2415/0 (Power=1.5)
 Badges
 
       A Badge is any patent title with the word 'badge' as part of
-      its name.  A badge SHOULD be used to award multiple [[person|Glossary#person]]s for
+      its name.  A badge SHOULD be used to award multiple persons for
       participating in specific event of note within Agora.  Any
-      [[player|Glossary#player]] CAN award a badge that does not yet exist to three or
-      more [[person|Glossary#person]]s simultaneously, with Agoran Consent.  The Herald
-      CAN award an existing badge to [[person|Glossary#person]]s Without Objection.
+      player CAN award a badge that does not yet exist to three or
+      more persons simultaneously, with Agoran Consent.  The Herald
+      CAN award an existing badge to persons Without Objection.
 
 History:
 Created by Proposal 7516 (G.), 19 July 2013
@@ -4352,7 +4352,7 @@ Rule 1727/18 (Power=1)
 Happy Birthday
 
       WHEREAS, in June 1993, the world's only MUD-based nomic, Nomic
-      World, had recently collapsed; yet, many of its [[player|Glossary#player]]s enjoyed
+      World, had recently collapsed; yet, many of its players enjoyed
       nomic and did not wish to forego such a noble pursuit;
 
       And WHEREAS, Originator Chuck Carroll therefore composed an
@@ -4375,7 +4375,7 @@ Happy Birthday
 
       And WHEREAS, this nomic began as a humble and nameless nomic,
       known unofficially as yoyo, after the mailing list it was played
-      on, until its [[Player|Glossary#player]]s, much later, gave it its OFFICIAL NAME of
+      on, until its Players, much later, gave it its OFFICIAL NAME of
       Agora,
 
       And WHEREAS, Agora has now become the wisest, noblest, eldest,
@@ -4421,17 +4421,17 @@ Town Fountain
                       / \ / \
                          T
                         his
-                      [[Power|Glossary#power]]-4
+                      Power-4
                Rule (the first ever)
                 was placed to honor
            The Agoran  Spirit Of The Game
            by Goethe, Steve, Murphy, root
            and OscarMeyr, Scamsters. Look
            on our works, ye Marvy, but do
-      always Dance a [[Power|Glossary#power]]ful Dance.  Hail Eris!
+      always Dance a Powerful Dance.  Hail Eris!
 
 [CFJ 1881 (called 25 January 2008): This rule does not impose an
-obilgation to always Dance a [[Power|Glossary#power]]ful Dance, because "Marvy" is
+obilgation to always Dance a Powerful Dance, because "Marvy" is
 currently undefined.]
 
 [CFJ 1736 (called 23 August 2007): Failing to hail Eris does not
@@ -4461,30 +4461,30 @@ thereby a contract, even if it doesn't impose any obligations.]
 contract/binding status, thereby nullifying itself, by explicitly
 describing itself as a non-contract or as non-binding.]
 
-[CFJ 1872 (called 15 January 2008): Being a [[player|Glossary#player]] is not a
+[CFJ 1872 (called 15 January 2008): Being a player is not a
 prerequisite for becoming party to a contract.]
 
-[CFJ 1796 (called 14 November 2007): If a [[person|Glossary#person]] announces that e
+[CFJ 1796 (called 14 November 2007): If a person announces that e
 agrees to be bound by a particular text as a contract, without saying
 who this agreement is with, and the contract text does not regulate
-who can become a party to it, then any [[person|Glossary#person]] can become a party to
-the contract by [[announcement|Glossary#announcement]].]
+who can become a party to it, then any person can become a party to
+the contract by announcement.]
 
 [CFJ 1455 (called 14 March 2003): A contract cannot cause an
 otherwise-insignificant action by a non-party to constitute consent to
 be bound by the contract.]
 
 [CFJ 1856 (called 29 December 2007): A contract is null and void if
-the courts do not have sufficient evidence that a [[person|Glossary#person]]'s
+the courts do not have sufficient evidence that a person's
 contract-related rights (in Rule 101) are not being infringed.  This
 includes evidence that the party to the contract has reviewed the
 rules and has direct prior knowledge of the fora.]
 
-[CFJ 1686 (called 7 June 2007): A [[person|Glossary#person]] who is not a party to an
+[CFJ 1686 (called 7 June 2007): A person who is not a party to an
 agreement categorically cannot violate it.]
 
 [CFJ 1752 (called 28 September 2007): Deregistration does not
-implicitly cause the ex-[[player|Glossary#player]] to leave a contract.]
+implicitly cause the ex-player to leave a contract.]
 
 [CFJ 1842 (called 20 December 2007): A contract may use retroactive
 operations internally for the purposes of determining obligations of
@@ -4501,7 +4501,7 @@ justiciability of the contract.]
 to define terms used by the rules.]
 
 [CFJ 1819 (called 3 December 2007): A contract is not able to create
-new ways of [[winning|Glossary#winning]] the game.]
+new ways of winning the game.]
 
 [CFJ 1835 (called 18 December 2007): An authorisation granted by a
 party in a contract takes precedence over a unilateral statement by
@@ -4540,7 +4540,7 @@ may be given privately.]
 through processes it explicitly envisions (including a rule-defined
 mechanism, if the contract is intended to be governed under Agoran
 law) is akin to a natural death, and does not generally constitute a
-restriction of its rights as a [[person|Glossary#person]].]
+restriction of its rights as a person.]
 
 ----------------------------------------------------------------------
 
@@ -4557,13 +4557,13 @@ rest of the message.]
 "This statement is a lie." would most likely be a violation of rule
 2215 (then 2149), because it is logically indeterminate and so making
 it would not be telling the truth, and its logical indeterminacy would
-be understood by any reasonable [[player|Glossary#player]].]
+be understood by any reasonable player.]
 
 [CFJ 2103 (called 21 July 2008): Making the statement "I lie." is not
 a violation of Rule 2215 if the author is lying down.]
 
 [CFJ 2399 (called 4 March 2009): Even if a type of behavior is likely
-to cause false statements to be accidentally published, a [[person|Glossary#person]] does
+to cause false statements to be accidentally published, a person does
 not violate Rule 2215 by engaging in it if there is no specific
 statement e believes is false.]
 
@@ -4577,9 +4577,9 @@ fixed value, and that action is taken, the rule thereby redefines the
 quantity as one more than it would otherwise be.]
 
 [CFJ 1856 (called 29 December 2007): The requirement that "no
-interpretation of Agoran law may abridge ... a [[person|Glossary#person]]'s defined
+interpretation of Agoran law may abridge ... a person's defined
 rights" means that it must be feasible, given the practical limits of
-Agoran evidence-gathering, to remain reasonably sure that a [[person|Glossary#person]]'s
+Agoran evidence-gathering, to remain reasonably sure that a person's
 defined rights are not being limited.]
 
 [CFJ 2361 (called 26 January 2009): The withholding of a reward for
