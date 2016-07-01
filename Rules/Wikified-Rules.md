@@ -158,29 +158,20 @@ stipulated by the rules.]
 * Amended(37) by Proposal 7647 (omd), 3 June 2014
 * Amended(38) by Proposal 7734 (G.), 2 May 2015
 
-----------------------------------------------------------------------
+## Rule 2141/9 Role and Attributes of Rules
+**Power=3**
 
-Rule 2141/9 (Power=3)
-Role and Attributes of Rules
+> A rule is a type of instrument with the capacity to govern the game generally, and is always taking effect.  A rule's content takes the form of a text, and is unlimited in scope.
 
-      A rule is a type of instrument with the capacity to govern the
-      game generally, and is always taking effect.  A rule's content
-      takes the form of a text, and is unlimited in scope.
+> Every rule has [[power|Glossary#power]] between 0.1 and 4.0 inclusive.  It is not possible for a rule to have a [[power|Glossary#power]] outside this range.
 
-      Every rule has [[power|Glossary#power]] between 0.1 and 4.0 inclusive.  It is
-      not possible for a rule to have a [[power|Glossary#power]] outside this range.
+> Rules have ID numbers, to be assigned by the Rulekeepor.
 
-      Rules have ID numbers, to be assigned by the Rulekeepor.
+> Every rule shall have a title to aid in identification.  If a rule ever does not have a title, the Rulekeepor SHALL assign a title to it by [[announcement|Glossary#announcement]] [[in a timely fashion|Glossary#in a timely fashion]].
 
-      Every rule shall have a title to aid in identification.  If a
-      rule ever does not have a title, the Rulekeepor SHALL assign a
-      title to it by [[announcement|Glossary#announcement]] [[in a timely fashion|Glossary#in a timely fashion]].
+> For the purposes of rules governing modification of instruments, the text, [[power|Glossary#power]], ID number, and title of a rule are all substantive aspects of the rule.  However, rules to the contrary notwithstanding, the Rulekeepor CAN set rule aspects as described elsewhere in this rule.
 
-      For the purposes of rules governing modification of instruments,
-      the text, [[power|Glossary#power]], ID number, and title of a rule are all
-      substantive aspects of the rule.  However, rules to the contrary
-      notwithstanding, the Rulekeepor CAN set rule aspects as
-      described elsewhere in this rule.
+### CFJs
 
 [CFJ 1498 (called 12 April 2004): A rule's title is not strictly a
 name for the rule, and so rule titles are not subject to the
@@ -194,63 +185,41 @@ outside the game by prescribing or proscribing [[player|Glossary#player]] behavi
 first paragraph of Rule 2141 are general, and only apply as otherwise
 stated by the Rules.]
 
-History:
-Created by Proposal 4940 (Zefram), 29 April 2007
-Amended(1) by Proposal 5110 (Murphy), 2 August 2007
-Amended(2) by Proposal 5994 (Murphy), 7 December 2008
-Amended(3) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
-Amended(4) by Proposal 6124 (ehird), 15 March 2009
-Amended(5) by Proposal 6670 (coppro), 14 March 2010
-Amended(6) by Proposal 6992 (Murphy, omd), 10 April 2011
-Amended(7) by Proposal 7420 (omd), 27 March 2013
-Amended(8) by Proposal 7614 (G.), 13 January 2014
-Amended(9) by Proposal 7759 (G.), 19 July 2015
+### History
 
-----------------------------------------------------------------------
+* Created by Proposal 4940 (Zefram), 29 April 2007
+* Amended(1) by Proposal 5110 (Murphy), 2 August 2007
+* Amended(2) by Proposal 5994 (Murphy), 7 December 2008
+* Amended(3) by Proposal 6053 (Murphy, woggle, ais523), 23 January 2009
+* Amended(4) by Proposal 6124 (ehird), 15 March 2009
+* Amended(5) by Proposal 6670 (coppro), 14 March 2010
+* Amended(6) by Proposal 6992 (Murphy, omd), 10 April 2011
+* Amended(7) by Proposal 7420 (omd), 27 March 2013
+* Amended(8) by Proposal 7614 (G.), 13 January 2014
+* Amended(9) by Proposal 7759 (G.), 19 July 2015
 
-Rule 478/32 (Power=3)
-Fora
+# Rule 478/32 Fora
+**Power=3**
 
-      Freedom of speech being essential for the healthy functioning of
-      any non-Imperial nomic, it is hereby resolved that no [[Player|Glossary#player]]
-      shall be prohibited from participating in the Fora, nor shall
-      any [[person|Glossary#person]] create physical or technological obstacles that
-      unduly favor some [[player|Glossary#player]]s' fora access over others.
+> Freedom of speech being essential for the healthy functioning of any non-Imperial nomic, it is hereby resolved that no [[Player|Glossary#player]] shall be prohibited from participating in the Fora, nor shall any [[person|Glossary#person]] create physical or technological obstacles that unduly favor some [[player|Glossary#player]]s' fora access over others.
 
-      Publicity is a forum switch with values Public, Discussion, and
-      Foreign (default), tracked by the Registrar.  Changes to
-      publicity are secured.
+> Publicity is a forum switch with values Public, Discussion, and Foreign (default), tracked by the Registrar.  Changes to publicity are secured.
 
-      The Registrar's [[report|Glossary#report]] includes, for each forum with non-Foreign
-      publicity, sufficient instructions for [[player|Glossary#player]]s to receive
-      messages there.
+> The Registrar's [[report|Glossary#report]] includes, for each forum with non-Foreign publicity, sufficient instructions for [[player|Glossary#player]]s to receive messages there.
 
-      The Registrar may change the publicity of a forum without
-      objection as long as:
+> The Registrar may change the publicity of a forum without objection as long as:
 
-      (a) e sends eir [[announcement|Glossary#announcement]] of intent to that forum; and
+> > (a) e sends eir [[announcement|Glossary#announcement]] of intent to that forum; and
 
-      (b) if the forum is to be made public, the [[announcement|Glossary#announcement]] by which
-          the Registrar makes that forum public is sent to all
-          existing public fora.
+> > (b) if the forum is to be made public, the [[announcement|Glossary#announcement]] by which the Registrar makes that forum public is sent to all existing public fora.
 
-      Each [[player|Glossary#player]] should ensure e can receive messages via each public
-      forum.
+> Each [[player|Glossary#player]] should ensure e can receive messages via each public forum.
 
-      A public message is a message sent via a [[public forum|Glossary#public forum]], or sent
-      to all [[player|Glossary#player]]s and containing a clear designation of intent to
-      be public.  A rule can also designate that a part of one public
-      message is considered a public message in its own right. A
-      [[person|Glossary#person]] "publishes" or "announces" something by sending a public
-      message.
+> A public message is a message sent via a [[public forum|Glossary#public forum]], or sent to all [[player|Glossary#player]]s and containing a clear designation of intent to be public.  A rule can also designate that a part of one public message is considered a public message in its own right. A [[person|Glossary#person]] "publishes" or "announces" something by sending a public message.
 
-      Where the rules define an action that CAN be performed "by
-      [[announcement|Glossary#announcement]]", a [[person|Glossary#person]] performs that action by unambiguously
-      and clearly specifying the action and announcing that e performs
-      it.  Any action performed by sending a message is performed at
-      the time date-stamped on that message. Actions in messages
-      (including sub-messages) are performed in the order they appear
-      in the message, unless otherwise specified.
+> Where the rules define an action that CAN be performed "by [[announcement|Glossary#announcement]]", a [[person|Glossary#person]] performs that action by unambiguously and clearly specifying the action and announcing that e performs it.  Any action performed by sending a message is performed at the time date-stamped on that message. Actions in messages (including sub-messages) are performed in the order they appear in the message, unless otherwise specified.
+
+### CFJs
 
 [CFJs 1451-1452 (called 6 March 2003): A message that is split into
 multiple email messages can qualify as a single message for game
@@ -445,41 +414,41 @@ statement causes [action]" is ineffective as a way to perform
 [CFJ 2899 (called 12 November 2010): A [[player|Glossary#player]]'s real name does not
 necessary identify em.]
 
-History:
-Created by Proposal 478 (Jim Shea), Sep. 20 1993
-Amended(1) by Proposal 1477, Mar. 8 1995
-Amended(2) by Proposal 1576, Apr. 28 1995
-Amended(3) by Proposal 1610, Jul. 10 1995
-Amended(4) by Proposal 1700, Sep. 1 1995
-Amended(5) by Proposal 2052, Dec. 19 1995
-Amended(6) by Proposal 2400, Jan. 20 1996
-Amended(7) by Proposal 2739 (Swann), Nov. 7 1996, substantial
-Amended(8) by Proposal 2791 (Andre), Jan. 30 1997, substantial
-Amended(9) by Proposal 3521 (Chuck), Jun. 23 1997, substantial
-Amended(10) by Proposal 3823 (oerjan), Jan. 21 1999
-Amended(11) by Proposal 4147 (Wes), 13 May 2001
-Amended(12) by Proposal 4248 (Murphy), 19 February 2002
-Amended(13) by Proposal 4456 (Maud), 22 February 2003
+### History
+* Created by Proposal 478 (Jim Shea), Sep. 20 1993
+* Amended(1) by Proposal 1477, Mar. 8 1995
+* Amended(2) by Proposal 1576, Apr. 28 1995
+* Amended(3) by Proposal 1610, Jul. 10 1995
+* Amended(4) by Proposal 1700, Sep. 1 1995
+* Amended(5) by Proposal 2052, Dec. 19 1995
+* Amended(6) by Proposal 2400, Jan. 20 1996
+* Amended(7) by Proposal 2739 (Swann), Nov. 7 1996, substantial
+* Amended(8) by Proposal 2791 (Andre), Jan. 30 1997, substantial
+* Amended(9) by Proposal 3521 (Chuck), Jun. 23 1997, substantial
+* Amended(10) by Proposal 3823 (oerjan), Jan. 21 1999
+* Amended(11) by Proposal 4147 (Wes), 13 May 2001
+* Amended(12) by Proposal 4248 (Murphy), 19 February 2002
+* Amended(13) by Proposal 4456 (Maud), 22 February 2003
 [[Power|Glossary#power]] changed from 1 to 3 by Proposal 4690 (root), 18 April 2005
-Amended(14) by Proposal 4690 (root), 18 April 2005
-Amended(15) by Proposal 4833 (Maud), 6 August 2005
-Amended(16) by Proposal 4866 (Goethe), 27 August 2006
-Amended(17) by Proposal 4939 (Murphy), 29 April 2007
-Amended(18) by Proposal 5014 (Zefram), 24 June 2007
-Amended(19) by Proposal 5111 (Murphy), 2 August 2007
-Amended(20) by Proposal 5172 (Murphy), 29 August 2007
-Amended(21) by Proposal 5272 (Murphy; disi.), 7 November 2007
-Amended(22) by Proposal 5291 (root), 14 November 2007
-Amended(23) by Proposal 5535 (Murphy), 7 June 2008
-Amended(24) by Proposal 5613 (Quazie), 29 July 2008
-Amended(25) by Proposal 5639 (Murphy), 29 July 2008
-Amended(26) by Proposal 5818 (comex), 1 November 2008
-Amended(27) by Proposal 6022 (Murphy), 22 December 2008
-Amended(28) by Proposal 6785 (coppro; disi.), 22 August 2010
-Amended(29) by Proposal 6963 (Murphy), 20 March 2011
-Amended(30) by Proposal 7073 (woggle), 16 June 2011
-Amended(31) by Proposal 7614 (G.), 13 January 2014
-Amended(32) by Proposal 7632 (scshunt), 1 May 2014
+* Amended(14) by Proposal 4690 (root), 18 April 2005
+* Amended(15) by Proposal 4833 (Maud), 6 August 2005
+* Amended(16) by Proposal 4866 (Goethe), 27 August 2006
+* Amended(17) by Proposal 4939 (Murphy), 29 April 2007
+* Amended(18) by Proposal 5014 (Zefram), 24 June 2007
+* Amended(19) by Proposal 5111 (Murphy), 2 August 2007
+* Amended(20) by Proposal 5172 (Murphy), 29 August 2007
+* Amended(21) by Proposal 5272 (Murphy; disi.), 7 November 2007
+* Amended(22) by Proposal 5291 (root), 14 November 2007
+* Amended(23) by Proposal 5535 (Murphy), 7 June 2008
+* Amended(24) by Proposal 5613 (Quazie), 29 July 2008
+* Amended(25) by Proposal 5639 (Murphy), 29 July 2008
+* Amended(26) by Proposal 5818 (comex), 1 November 2008
+* Amended(27) by Proposal 6022 (Murphy), 22 December 2008
+* Amended(28) by Proposal 6785 (coppro; disi.), 22 August 2010
+* Amended(29) by Proposal 6963 (Murphy), 20 March 2011
+* Amended(30) by Proposal 7073 (woggle), 16 June 2011
+* Amended(31) by Proposal 7614 (G.), 13 January 2014
+* Amended(32) by Proposal 7632 (scshunt), 1 May 2014
 
 ----------------------------------------------------------------------
 
