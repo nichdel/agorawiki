@@ -4,11 +4,11 @@ NB/TODO: Links to subsections need to be full titles. Probably should change the
 
 # Announcement
 
-Doing something **by announcement** means make a statement, to a public forum, that you are doing that thing.
+Actions that can done **by announcement** are performed by literally announcing that you do them to a [[public forum|Glossary#public forum]].
 
 # Bankrupt
 
-A player can become **bankrupt** if their expenditure exceeds the [income cap](#income cap). A bankrupt player may be awarded a red card and will become [on lockout](#lockout_player-lockout).
+A player can become **bankrupt** if their expenditure exceeds the [[income cap|Glossary#income cap]]. A bankrupt player may be awarded a red card and will become [[on lockout|Glossary#lockout_player-lockout]].
 
 # Call For Judgement
 
@@ -32,7 +32,7 @@ Agora (the game) can be **on lockout**. A **global lockout** lasts 7 days.
 
 ## Player Lockout
 
-A player can be **on lockout** if they put themselves on lockout or if they become [bankrupt](#bankrupt). Lockout prevents a player from performing most organization-related actions. Player lockout lasts for 90 days.
+A player can be **on lockout** if they put themselves on lockout or if they become [[bankrupt|Glossary#bankrupt]]. Lockout prevents a player from performing most organization-related actions. Player lockout lasts for 90 days.
 
 Relevant rules: [2456-2458](Reports/Full Logical Ruleset#2456), [2460-2462](Reports/Full Logical Ruleset#2460)
 
@@ -42,19 +42,19 @@ A position that a player occupies, which usully involves tracking and publishing
 
 # Person
 
-Any human being. Used primarily to define possible players.
+Essentially any human. Used primarily to define who can become a [[player|Glossary#player]].
 
 # Player
 
-Someone currently registered and therefore capable of performing actions in Agora.
+Someone currently registered and therefore generally capable of performing actions in Agora.
 
 # Power
 
-A way to weigh rules and actions. High power rules and actions over-rule lower power ones.
+An assigned value for each rule that is 0 or greater. When rules conflict, the rule with the higher power over-rules the lower powered rule.
 
 # Public Forum
 
-A place where messages that have rule-defined effects can be sent. This includes agora-official and agora-business, but not agora-discussion or the irc.
+A place where messages that have rule-defined effects can be sent. This includes agora-official, agora-business, and [[tue https://listserver.tue.nl//mailman/listinfo/agora]] but not agora-discussion or the irc.
 
 # Report
 
@@ -62,5 +62,5 @@ A document, presumed to be accurate, published by an office-holder or a deputy o
 
 # Winning
 
-Accomplishing one of the rule defined win-conditions. At the time of writing that can be either holding every type of ribbon, or having a trust token issued by every player. Winning results in a player being awarded the Champion Patent Title, but does not end the game or even change the rules.
+Accomplishing one of the rule defined win-conditions. At the time of writing that can be either holding every type of ribbon, or having a trust token issued by every player. Winning does not end the game, but does gain the winner the Champion patent title and the possibility of becomming the Speaker.
 
