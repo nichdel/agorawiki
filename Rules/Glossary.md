@@ -2,6 +2,10 @@
 
 NB/TODO: Links to subsections need to be full titles. Probably should change the rule pages to just have the rule numbers as section titles.
 
+# A.N.
+
+Associate of Nomic
+
 # Announcement
 
 Actions that can done **by announcement** are performed by literally announcing that you do them to a [[public forum|Glossary#public forum]].
@@ -9,6 +13,10 @@ Actions that can done **by announcement** are performed by literally announcing 
 # Bankrupt
 
 A player can become **bankrupt** if their expenditure exceeds the [[income cap|Glossary#income cap]]. A bankrupt player may be awarded a red card and will become [[on lockout|Glossary#lockout_player-lockout]].
+
+# B.N.
+
+Bachelor of Nomic
 
 # Call For Judgement
 
@@ -19,6 +27,26 @@ If a player is dissastified with the result of a judgement, it may be [[appealed
 # CFJ
 
 See [[Call For Judgement|Glossary#call for judgement]].
+
+# CoE
+
+Claim of Error. To claim something is wrong or inaccurate.
+
+# D.N.Hist
+
+Doctor of Nomic History
+
+# D.N.Phil
+
+Doctor of Nomic Philosophy
+
+# D.N.Sci
+
+Doctor of Nomic Science
+
+# FLR
+
+Full logical ruleset.
 
 # In a Timely Fashion
 
@@ -35,6 +63,14 @@ Agora (the game) can be **on lockout**. A **global lockout** lasts 7 days.
 A player can be **on lockout** if they put themselves on lockout or if they become [[bankrupt|Glossary#bankrupt]]. Lockout prevents a player from performing most organization-related actions. Player lockout lasts for 90 days.
 
 Relevant rules: [2456-2458](Reports/Full Logical Ruleset#2456), [2460-2462](Reports/Full Logical Ruleset#2460)
+
+# M.N.
+
+Master of Nomic
+
+# NttPF
+
+Not to the Public Forum. Indicates an action failed because it was posted in the wrong place.
 
 # Office
 
@@ -59,6 +95,14 @@ A place where messages that have rule-defined effects can be sent. This includes
 # Report
 
 A document, presumed to be accurate, published by an office-holder or a deputy of the office. Each report tracks a different aspect of Agora.
+
+# SLR
+
+Short Logical Ruleset
+
+# TTttPF
+
+This time to the Public Forum. Used to indicate they previously posted the same message to the wrong forum.
 
 # Winning
 
