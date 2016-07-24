@@ -5,7 +5,7 @@
 |                    | Migrate ruleset to Wiki                  |                                   | A      | nichdel     |          |                                   |                  |
 |                    | Allow 'nesting' of rules in Wiki ruleset |                                   | P      |             |          |                                   |                  |
 | Rules              | Rules rewrite (separate meat and bones)  |                                   | P      |             |          |                                   |                  |
-|                    | Design new economy                       |                                   | A      | G., nichdel |          |                                   |                  |
+|                    | Design new economy                       |                                   | A      | G., nichdel |          |        Currently writing a proto --nichdel                           |                  |
 |                    | Add to Glossary                          |                                   | A      |             |          |                                   |                  |
 | Offices, reporting | Allow for/require wiki-based reporting   |                                   | P      |             |          |                                   |                  |
 |                    |                                          | Remove req. for plaintext reports | P      |             |          |                                   |                  |
