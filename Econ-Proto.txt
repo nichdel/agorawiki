@@ -46,10 +46,12 @@ Economics
    account to another is to subtract the specified amount from the first 
    account's corresponding amount for the specified currency and add the 
    specified amount to the second account's corresponding amount for the 
-   specified currency.
+   specified currency. If the specified amount is greater than the
+   amount in the first account, the amount added to the second account
+   is the full amount in the first account.
 
-   Any player may transfer any amount of any currency to any other 
-   player by announcement.
+   Any player MAY transfer any positive amount of any currency to any
+   other player by announcement.
 
    Agora itself, each player, and each organization has an account. The
    total of each account's amount for a given currency SHALL equal the
