@@ -30,41 +30,42 @@ The Bankor
 Economics
 
    A Currency is a fungible unit. Any currency defined by the rules is
-   an official currency. Circulation is a currency switch whose value is
-   a non-negative integer, defaulting to 0.
+   an official currency.
 
-   Account is a switch whose value is a list of each currency and
-   their corresponding amount. A corresponding amount is a non-negative
-   integer. If a currency ceases to be defined, its corresponding amount 
-   becomes 0. If the corresponding amount is 0, the currency and its
-   amount can be omitted from the list. If an amount would become
-   negative it instead becomes 0; if any rule references an amount being
-   or becoming negative, its related statements are interpreted before
-   the amount becomes 0.
+   Account is a switch whose value is a list of each currency and a
+   corresponding integer. Agora itself, every player, and every
+   organization has an account. Agora's account is also known as 'the 
+   treasury'. To refer to a player's, organization's, or the treasury's
+   'balance' for a specified currency is to refer to the corresponding 
+   integer in eir account. If a balance is 0, it and its currency MAY
+   be omitted from the list for that account in reports.
+
+   If a balance is negative it becomes 0, but only after any effects
+   described in other rules occur.
 
    To 'transfer' a specified amount of a specified currency from one
-   account to another is to subtract the specified amount from the first 
-   account's corresponding amount for the specified currency and add the 
-   specified amount to the second account's corresponding amount for the 
-   specified currency. If the specified amount is greater than the
-   amount in the first account, the amount added to the second account
-   is the full amount in the first account.
+   account to another is to decrease the first account's balance by the
+   specified amount and increase the second account's balance by the
+   specified amount. If the first account's balance is less than the
+   specified amount, the second account's balance is instead increased
+   by the first account's balance.
 
-   Any player MAY transfer any positive amount of any currency to any
-   other player by announcement.
+   Any player MAY transfer any positive amount of any currency from eir
+   account to any other specified account, by announcement.
 
-   Agora itself, each player, and each organization has an account. The
-   total of each account's amount for a given currency SHALL equal the
-   circulation for that currency. If the circulation of a given currency
-   is increased or decreased, Agora's account's amount for that currency
-   increases or decreases by as much. A currency's circulation CANNOT be
-   decreased by more than Agora's account's amount for that currency.
-   
+   Circulation is a currency switch whose value is a non-negative
+   integer, defaulting to 0. The total of each account's balance for
+   a currency SHALL equal the circulation switch for that currency. If
+   the circulation for a currency is increased or decreased, the
+   treasury's balance for that currency is increased or decreased by the
+   same amount. A currency's circulation CANNOT be decreased by more
+   than the treasury's balance for that currency.
+
    Currency Head is an official currency switch whose value is an
    office or player. A currency head MAY set the circulation for eir
-   currency once a month. The circulation and amount in each account for
-   eir currency is part of a Currency Head's weekly report if the
-   Currency Head is an office.
+   currency once a month by announcement. The circulation and amount in
+   each account for eir currency is part of a Currency Head's weekly
+   report if the Currency Head is an office. 
 
 Credits
 
