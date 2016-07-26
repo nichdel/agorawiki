@@ -101,19 +101,18 @@ Auctions and Roles
    Collection', 'Dismission', and 'Something Else' and whose default
    value is 'None'. If a player's role is None, e may change eir role
    by announcement. Otherwise a player may change eir role, by
-   announcement, by transfering 10 credits to Agora's account.
+   announcement, by transferring 10 credits to Agora's account.
 
-   A Lot is a subset of the amounts of at least one currency in Agora's
-   account. A Lot SHALL NOT list more than the amount in Agora's account
-   for any currency.
+   A Lot is a list of currencies and corresponding positive integers. A
+   Lot SHALL NOT list more than the amount in the treasury for any
+   currency.
 
    When a player is deregistered,
 
       * a lot identical to eir account is created and assigned to the
         Bankor,
 
-      * the amount e had in eir account for every currency is transfered
-        from eir account to agora's account.
+      * for every currency, eir balance is transfered to the treasury.
 
    Once a month, each Currency Head for an official currency that is not
    Credits MAY create, by announcement, a lot containing only eir
@@ -134,10 +133,10 @@ Auctions and Roles
    Currency Head SHALL:
 
       a) Transfer the proposed credits from the winner's account to
-         Agora's account, and
+         the treasury, and
 
-      b) For every currency listed in the lot, transfering the amount
-         listed from Agora's account to the winner's account.
+      b) For every currency listed in the lot, transferring the amount
+         listed from the treasury to the winner's account.
 
 ------------------------------------------------------------------------
 
