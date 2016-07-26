@@ -101,7 +101,7 @@ Auctions and Roles
    Collection', 'Dismission', and 'Something Else' and whose default
    value is 'None'. If a player's role is None, e may change eir role
    by announcement. Otherwise a player may change eir role, by
-   announcement, by transferring 10 credits to Agora's account.
+   announcement, by transferring 10 credits to the treasury.
 
    A Lot is a list of currencies and corresponding positive integers. A
    Lot SHALL NOT list more than the amount in the treasury for any
