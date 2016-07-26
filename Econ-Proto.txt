@@ -145,17 +145,19 @@ AMEND 2445 to read
 
 Stamping Proposals
 
-      Imminence is a switch, tracked by the Promotor, possessed by
-      proposals in the Proposal Pool, whose value is either "pending"
-      or "not pending" (default).
+   Imminence is a switch, tracked by the Promotor, possessed by
+   proposals in the Proposal Pool, whose value is either "pending" or
+   "not pending" (default).
 
-      Stamps is a currency. The Currency Head for Stamps is the Prime
-      Minister. Only players of the Stamp Collection role are eligible
-      for auctions assigned to the Stamps Currency Head.
+   Stamps is a currency. The Currency Head for Stamps is the Prime
+   Minister. Only players of the Stamp Collection role are eligible for 
+   auctions assigned to the Stamps Currency Head.
+   
+   Once a month, a player can flip the immence of a proposal e submitted
+   to "pending" by announcement.
 
-      A player can flip a proposal's imminence to "pending" by
-      transfering 1 Stamp from eir account to Agora's account by
-      announcement.
+   A player can flip a proposal's imminence to "pending" by transfering
+   1 Stamp from eir account to Agora's account by announcement.
 
 ------------------------------------------------------------------------
 
