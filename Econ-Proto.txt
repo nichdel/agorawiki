@@ -1,0 +1,175 @@
+The Bankor
+
+   The Bankor is an office. The Bankor is the Currency Head for Credits.
+
+   The Bankor's Weekly Report includes:
+
+      * The circulation amount and amount in each account for Credits.
+
+   The Bankor's Monthly Report includes:
+
+      * A list of all currently-defined currencies, whether they are
+        official, and their circulation amount.
+
+      * A list of every account's value.
+
+      * The Tax Rate for Credits.
+
+   The Bankor's duties also include:
+
+      * Collecting Taxes
+
+      * Paying Salaries
+
+      * Running Deregistration Auctions
+
+------------------------------------------------------------------------
+
+Economics
+
+   A Currency is a fungible unit. Any currency defined by the rules is
+   an official currency. Circulation is a currency switch whose value is
+   a non-negative integer, defaulting to 0.
+
+   Account is a switch whose value is a list of each currency and
+   their corresponding amount. A corresponding amount is a non-negative
+   integer. If a currency ceases to be defined, its corresponding amount 
+   becomes 0. If the corresponding amount is 0, the currency and its
+   amount can be omitted from the list. If an amount would become
+   negative it instead becomes 0; if any rule references an amount being
+   or becoming negative, its related statements are interpreted before
+   the amount becomes 0.
+
+   To 'transfer' a specified amount of a specified currency from one
+   account to another is to subtract the specified amount from the first 
+   account's corresponding amount for the specified currency and add the 
+   specified amount to the second account's corresponding amount for the 
+   specified currency.
+
+   Any player may transfer any amount of any currency to any other 
+   player by announcement.
+
+   Agora itself, each player, and each organization has an account. The
+   total of each account's amount for a given currency SHALL equal the
+   circulation for that currency. If the circulation of a given currency
+   is increased or decreased, Agora's account's amount for that currency
+   increases or decreases by as much. A currency's circulation CANNOT be
+   decreased by more than Agora's account's amount for that currency.
+   
+   Currency Head is an official currency switch whose value is an
+   office or players. A currency head MAY set the circulation for eir
+   currency once a month. The circulation and amount in each account for
+   eir currency is part of a Currency Head's weekly report if the
+   Currency Head is an office.
+
+Credits
+
+   Credits is a currency. The Bankor is the Currency Head for credits.
+
+   The Tax Rate is a switch whose values are rational numbers between 0
+   and 1 inclusive, defaulting to 0. The Bankor MAY set the Tax Rate
+   once a month.
+
+   In the first week of every month the Bankor SHALL 'collect taxes'.
+   Collecting taxes is done by:
+
+      a) For each player and organization, calculating a tax by:
+
+            Tax = Credits amount in eir account * Tax Rate
+
+      b) Transfering the tax from eir account to Agora's account
+
+   In the first week of every month, after collecting taxes, that Bankor
+   SHALL 'pay salaries'. Paying salaries is done by:
+
+      a) For each player, calculating a salary by:
+
+            Salary = 10 * (the number of offices e holds + 1)
+
+      b) Transfering the salary from Agora's account to eir account.
+
+------------------------------------------------------------------------
+
+Auctions and Roles
+
+   Role is a player switch whose possible values are 'None', 'Stamp
+   Collection', 'Dismission', and 'Something Else' and whose default
+   value is 'None'. If a player's role is None, e may change eir role
+   by announcement. Otherwise a player may change eir role, by
+   announcement, by transfering 10 credits to Agora's account.
+
+   A Lot is a subset of the amounts of at least one currency in Agora's
+   account. A Lot SHALL NOT list more than the amount in Agora's account
+   for any currency.
+
+   When a player is deregistered,
+
+      * a lot identical to eir account is created and assigned to the
+        Bankor,
+
+      * the amount e had in eir account for every currency is transfered
+        from eir account to agora's account.
+
+   Once a month, each Currency Head for an official currency that is not
+   Credits MAY create, by announcement, a lot containing only eir
+   currency and an amount. Such a lot is assigned to the Currency Head
+   that created it.
+
+   In the last week of each month, each Currency Head SHALL initiate an
+   auction for all lots assigned to em.
+
+   An Auction is an event that last 7 days after being initiated. During
+   an auction, every eligible player may propose an amount of credits to
+   pay for the auction. Every player is eligible for auctions assigned
+   to the Bankor.
+
+   When an auction event ends, the player who proposed the highest
+   number of credits that is not higher than the amount in eir account
+   SHALL be the winner of the auction. In a timely manner, the assigned 
+   Currency Head SHALL:
+
+      a) Transfer the proposed credits from the winner's account to
+         Agora's account, and
+
+      b) For every currency listed in the lot, transfering the amount
+         listed from Agora's account to the winner's account.
+
+------------------------------------------------------------------------
+
+AMEND 2445 to read
+
+Stamping Proposals
+
+      Imminence is a switch, tracked by the Promotor, possessed by
+      proposals in the Proposal Pool, whose value is either "pending"
+      or "not pending" (default).
+
+      Stamps is a currency. The Currency Head for Stamps is the Prime
+      Minister. Only players of the Stamp Collection role are eligible
+      for auctions assigned to the Stamps Currency Head.
+
+      A player can flip a proposal's imminence to "pending" by
+      transfering 1 Stamp from eir account to Agora's account by
+      announcement.
+
+------------------------------------------------------------------------
+
+Dismissing Tickets
+
+   Dismissals is a currency. The Currency Head for Dismissals is the
+   Arbitor. Only players of the Dismission role are eligible for
+   auctions assigned to the Dismissals Currency Head.
+
+   <NEED TO KNOW G.'S PROPOSAL TO FINISH THIS>
+
+------------------------------------------------------------------------
+
+   <INSERT THIRD ONE HERE>
+
+------------------------------------------------------------------------
+
+   <INSERT ORGANIZATION AMENDMENT HERE>
+
+------------------------------------------------------------------------
+
+   <INSERT LOCKOUT AMENDMENT(S) HERE>
