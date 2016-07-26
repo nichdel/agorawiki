@@ -17,6 +17,8 @@ The Bankor
 
    The Bankor's duties also include:
 
+      * Setting the Tax Rate
+
       * Collecting Taxes
 
       * Paying Salaries
@@ -57,7 +59,7 @@ Economics
    decreased by more than Agora's account's amount for that currency.
    
    Currency Head is an official currency switch whose value is an
-   office or players. A currency head MAY set the circulation for eir
+   office or player. A currency head MAY set the circulation for eir
    currency once a month. The circulation and amount in each account for
    eir currency is part of a Currency Head's weekly report if the
    Currency Head is an office.
