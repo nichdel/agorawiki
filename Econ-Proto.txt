@@ -1,4 +1,10 @@
-The Bankor
+PROPOSAL 1 (Credits, the Bankor, and Currency Framework)
+
+------------------------------------------------------------------------
+
+Create the following rule titled 'The Bankor':
+
+------------------------------------------------------------------------
 
    The Bankor is an office. The Bankor is the Currency Head for Credits.
 
@@ -27,7 +33,9 @@ The Bankor
 
 ------------------------------------------------------------------------
 
-Economics
+Create the following rule titled 'Economics':
+
+------------------------------------------------------------------------
 
    A Currency is a fungible unit. Any currency defined by the rules is
    an official currency.
@@ -67,7 +75,11 @@ Economics
    each account for eir currency is part of a Currency Head's weekly
    report if the Currency Head is an office. 
 
-Credits
+------------------------------------------------------------------------
+
+Create the following rule titled 'Credits':
+
+------------------------------------------------------------------------
 
    Credits is a currency. The Bankor is the Currency Head for credits.
 
@@ -94,11 +106,18 @@ Credits
       b) Transfering the salary from Agora's account to eir account.
 
 ------------------------------------------------------------------------
+------------------------------------------------------------------------
 
-Auctions and Roles
+PROPOSAL 2 (Auctions and Other Currencies)
 
-   Role is a player switch whose possible values are 'None', 'Stamp
-   Collection', 'Dismission', and 'Something Else' and whose default
+------------------------------------------------------------------------
+
+Create the following rule titled "Auctions and Roles":
+
+------------------------------------------------------------------------
+
+   Role is a player switch whose possible values are 'None',
+   'Collection', 'Dismission', and '' and whose default
    value is 'None'. If a player's role is None, e may change eir role
    by announcement. Otherwise a player may change eir role, by
    announcement, by transferring 10 credits to the treasury.
@@ -125,7 +144,8 @@ Auctions and Roles
    An Auction is an event that last 7 days after being initiated. During
    an auction, every eligible player may propose an amount of credits to
    pay for the auction. Every player is eligible for auctions assigned
-   to the Bankor.
+   to the Bankor, unless otherwise stated. Any player on lockout is not
+   eligible for any auction.
 
    When an auction event ends, the player who proposed the highest
    number of credits that is not higher than the amount in eir account
@@ -140,17 +160,18 @@ Auctions and Roles
 
 ------------------------------------------------------------------------
 
-AMEND 2445 to read
+AMEND 2445 to be titled "Stamping & Pending Proposals" and read:
 
-Stamping Proposals
+------------------------------------------------------------------------
 
    Imminence is a switch, tracked by the Promotor, possessed by
    proposals in the Proposal Pool, whose value is either "pending" or
    "not pending" (default).
 
    Stamps is a currency. The Currency Head for Stamps is the Prime
-   Minister. Only players of the Stamp Collection role are eligible for 
-   auctions assigned to the Stamps Currency Head.
+   Minister. Players of the Collection role are eligible for auctions
+   assigned to the Stamps Currency Head, unless otherwise stated
+   elsewhere.
    
    Once a month, a player can flip the immence of a proposal e submitted
    to "pending" by announcement.
@@ -158,24 +179,82 @@ Stamping Proposals
    A player can flip a proposal's imminence to "pending" by transfering
    1 Stamp from eir account to Agora's account by announcement.
 
+   <AMEND PM RULE TO ADD THIS DUTY PURSUANT OF DUTY REWRITES>
+
 ------------------------------------------------------------------------
 
-Dismissing Tickets
+Create the following rule titled "Dismissing Tickets":
+
+------------------------------------------------------------------------
 
    Dismissals is a currency. The Currency Head for Dismissals is the
-   Arbitor. Only players of the Dismission role are eligible for
-   auctions assigned to the Dismissals Currency Head.
+   Arbitor. Players of the Dismission role are eligible for auctions
+   assigned to the Dismissals Currency Head, unless otherwise stated
+   elsewhere.
 
    <NEED TO KNOW G.'S PROPOSAL TO FINISH THIS>
 
 ------------------------------------------------------------------------
 
-   <INSERT THIRD ONE HERE>
+Create the following rule titled "Gathering Favors":
 
 ------------------------------------------------------------------------
 
-   <INSERT ORGANIZATION AMENDMENT HERE>
+   Favors is a currency. The Currency Head for Favors is the Speaker.
+   Only players of the 
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+
+PROPOSAL 3 (Organizations and Lockout)
 
 ------------------------------------------------------------------------
 
-   <INSERT LOCKOUT AMENDMENT(S) HERE>
+Amend 2459 (Organizations) to REMOVE the following text:
+
+      The Income Cap is 100.
+
+      Budget is a switch belonging to (Organization, player) pairs
+      (i.e. there is one instance of the switch for each combination
+      of an Organization and a player), tracked by the Secretary,
+      whose legal values are integers from 0 to the Income Cap 
+      inclusive, defaulting to 0. An Organization's Income is the 
+      total value of all Budget switches for pairs that include that 
+      Organization. A player's Expenditure is the total value of all 
+      Budget switches for pairs that include that player. Changes to 
+      Budget are secured.
+
+      b) Any player CAN flip a Budget Switch by announcement, if doing
+         so is Appropriate and the player is not on Lockout, except
+         where other rules prevent this.
+
+Also amend 2459 to change "c)" to "b)".
+
+Amend 2461 (Death and Birth of Organizations) to read:
+
+   When an organization's balance for any official currency has become
+   negative, then the Secretary SHALL destroy the organization by
+   announement.
+
+   Unless e is on Lockout, any player CAN create an Organization by 
+   announcement by transferring 30 credits to the treasury and
+   specifying both a unique name and a Charter. When an organization is
+   created this way, its Charter is set to the value that e specified.  
+   Notwithstanding the above, a player CANNOT create more than one
+   Organization in a day
+
+------------------------------------------------------------------------
+
+Amend Rule 2462 (Bankruptcy) to read:
+
+   When a player's balance for any official currency becomes negative,
+   e becomes Bankrupt. The Currency Head for the currency with the
+   negative balance SHALL announce so in a timely manner.
+
+   When a player becomes Bankrupt:
+      a) <SOMETHING ABOUT THE TICKETS/CARDS>
+      b) A Lockout Event happens to that player.
+      c) That player is no longer a member of any organization e was a
+         member of when e went Bankrupt.
+
+------------------------------------------------------------------------
