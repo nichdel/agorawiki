@@ -116,10 +116,10 @@ Create the following rule titled "Auctions and Roles":
 
 ------------------------------------------------------------------------
 
-   Role is a player switch whose possible values are 'None',
-   'Collection', 'Dismission', and '' and whose default
-   value is 'None'. If a player's role is None, e may change eir role
-   by announcement. Otherwise a player may change eir role, by
+   Role is a player switch whose possible values are 'None', 'Stamp 
+   Collection', 'Dismission', and 'Instigation' and whose default value
+   is 'None'. If a player's role is None, e may change eir role by 
+   announcement. Otherwise a player may change eir role, by 
    announcement, by transferring 10 credits to the treasury.
 
    A Lot is a list of currencies and corresponding positive integers. A
@@ -160,7 +160,8 @@ Create the following rule titled "Auctions and Roles":
 
 ------------------------------------------------------------------------
 
-AMEND 2445 to be titled "Stamping & Pending Proposals" and read:
+AMEND 2445 to be titled "Collecting Stamps & Pending Proposals" and
+read:
 
 ------------------------------------------------------------------------
 
@@ -169,9 +170,9 @@ AMEND 2445 to be titled "Stamping & Pending Proposals" and read:
    "not pending" (default).
 
    Stamps is a currency. The Currency Head for Stamps is the Prime
-   Minister. Players of the Collection role are eligible for auctions
-   assigned to the Stamps Currency Head, unless otherwise stated
-   elsewhere.
+   Minister. Players of the Stamp Collection role are eligible for
+   auctions assigned to the Stamps Currency Head, unless otherwise
+   stated elsewhere.
    
    Once a month, a player can flip the immence of a proposal e submitted
    to "pending" by announcement.
@@ -196,12 +197,17 @@ Create the following rule titled "Dismissing Tickets":
 
 ------------------------------------------------------------------------
 
-Create the following rule titled "Gathering Favors":
+Create the following rule titled "Instigating Coalitions":
 
 ------------------------------------------------------------------------
 
-   Favors is a currency. The Currency Head for Favors is the Speaker.
-   Only players of the 
+   Coalitions is a currency. The Currency Head for Coalitions is the
+   Speaker. Players of the Instigation role are eligible for auctions
+   assigned to the Coalitions Currency Head, unless otherwise stated
+   elsewhere.
+
+   For each Coalition a player has, up to 4, e has one greater voting
+   power than e would otherwise.
 
 ------------------------------------------------------------------------
 ------------------------------------------------------------------------
@@ -237,7 +243,7 @@ Amend 2461 (Death and Birth of Organizations) to read:
    announement.
 
    Unless e is on Lockout, any player CAN create an Organization by 
-   announcement by transferring 30 credits to the treasury and
+   announcement by transferring 10 credits to the treasury and
    specifying both a unique name and a Charter. When an organization is
    created this way, its Charter is set to the value that e specified.  
    Notwithstanding the above, a player CANNOT create more than one
