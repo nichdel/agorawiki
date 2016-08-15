@@ -13,7 +13,7 @@
 |                    | Code event-based report generator        |                                   | P      |             |          |                                   |                  |
 |                    | Office responsibilities in one rule      |                                   | P      |             |          |                                   |                  |
 |                    | Create an office hierarchy               |                                   | P      |             |          |                                   |                  |
-|                    | Improve deputisation                     |                                   | A      | nichdel     |          | Voting on proposal currently open |                  |
+|                    | Improve deputisation                     |                                   | C      | nichdel     |          |  |                  |
 | Recruitment        | Advert                                   | Decide target audience            |        |             |          |                                   | Everything else? |
 |                    |                                          | Decide where to advertise         |        |             |          |                                   |                  |
 |                    |                                          | Design advert                     |        |             |          |                                   |                  |
