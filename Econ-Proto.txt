@@ -83,16 +83,16 @@ Create the following rule titled 'Credits':
 
    Credits is a currency. The Bankor is the Currency Head for credits.
 
-   The Tax Rate is a switch whose values are rational numbers between 0
-   and 1 inclusive, defaulting to 0. The Bankor CAN set the Tax Rate
-   once a month.
+   The Tax Rate is a singleton switch whose values are rational numbers
+   between 0 and 1 inclusive, defaulting to 0. The Bankor CAN set the
+   Tax Rate once a month.
 
    In the first week of every month the Bankor SHALL 'collect taxes'.
    Collecting taxes is done by:
 
       a) For each player and organization, calculating a tax by:
 
-            Tax = Credits amount in eir account * Tax Rate
+            Tax = Ceiling(Credits amount in eir account * Tax Rate)
 
       b) Transfering the tax from eir account to Agora's account
 
