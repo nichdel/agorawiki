@@ -1,4 +1,4 @@
-# TTODO: Take arguments from command line
+# TODO: Take arguments from command line
 
 gloss_file = 'Glossary.md'
 
