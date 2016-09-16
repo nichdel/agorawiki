@@ -1,18 +1,17 @@
-[Work in progress. -o]
-
 Agora.
 
     Synonyms:
         Agora Nomic.
 
     See also:
-        Agora's Birthday
+        Agora's Birthday.
         Agoran.
         Agoran Consent.
         Agoran Decision.
         Agoran epochs (et al).
         Agoran Satisfaction.
         Agoran Support.
+        Order of the Hero of Agora Nomic
 
     Rule 107: The Game of Agora
 
@@ -158,3 +157,46 @@ Agora.
 
         Magenta (M): During **Agora**'s Birthday, each person who has publicly
         acknowledged the fact qualifies for a Magenta Ribbon.
+
+    Rule 2444: Silver Quill
+
+        The Marker Dates are July 14, two weeks after **Agora**'s Birthday (to
+        avoid the Holiday), and December 29, the day of **Agora**'s
+        Half-birthday, of each year, except for dates preceding the enactment
+        of this Rule.
+
+    Rule 2231: Order of the Hero of **Agora Nomic**
+
+        Heroic titles are **Agora**'s premier patent titles of distinction, and
+        CAN be awarded to persons for meritorious service only by a proposal of
+        power 3 or greater, which SHOULD explain why those persons are
+        qualified. Bearers of heroic titles (Heroes) constitute the Order of
+        the Hero of Agora Nomic.
+
+        Grand Hero of Agora Nomic (GHAN) -- This title may be awarded to any
+        person obviously and directly responsible for the existence of
+        **Agora** and/or Nomic in general. As this title is the highest honour
+        that **Agora** may bestow, a Bearer of this title OUGHT to be treated
+        right good forever.
+
+        Hero of Agora Nomic (HAN) -- This title may be awarded to any person
+        for outstanding meritorious service to **Agora** above and beyond the
+        call of duty.
+
+    Rule 2415: Badges
+
+        A badge SHOULD be used to award multiple persons for participating in
+        specific event of note within **Agora**.
+
+    Rule 1727: Happy Birthday
+
+        And WHEREAS, this nomic began as a humble and nameless nomic, known
+        unofficially as yoyo, after the mailing list it was played on, until
+        its Players, much later, gave it its OFFICIAL NAME of **Agora**,
+
+        And WHEREAS, **Agora** has now become the wisest, noblest, eldest, and
+        most interesting of all active email nomics, due to the hard work and
+        diligence of Agorans as well as the frequent advice of Agoraphobes,
+
+        And WHEREAS, Agorans desire to joyously commemorate **Agora**'s
+        founding,
