@@ -11,8 +11,7 @@ Date of this report: UNPUBLISHED
 
 Recent events:
 
-Aris registered.
-
+Alexis and aris registered.
 
 Players (15) (Rule 869, self-ratifying)
 

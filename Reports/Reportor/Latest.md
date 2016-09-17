@@ -3,6 +3,11 @@ THE WEEKLY WEEKLY (#2 2016-09-18)
 The Short and Sweet
 -------------------
 
+Comings and Goings
+------------------
+
+Alexis and aris registered! Yay more people!
+
 Rule Re-arrangements
 --------------------
 
@@ -19,8 +24,7 @@ Power Shifts
 Debates and Discussions
 -----------------------
 
-Should Agora have concordances? I didn't even know what those were until
-now! [1]
+Should Agora have concordances? Yay more words! [1]
 
 Footnotes
 ---------
