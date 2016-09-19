@@ -6,7 +6,7 @@ I publish the weekly Registrar's report as follows.
 
 (all times UTC)
 
-Date of last report: 11 Sep 2016
+Date of last report: 19 Sep 2016
 Date of this report: UNPUBLISHED
 
 Recent events:
