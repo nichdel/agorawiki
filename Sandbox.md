@@ -4,7 +4,7 @@ Subdirectory are also easily possible: [[CFJs/Home]]
 
 # Tables
 
-
+aw
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
