@@ -6,7 +6,7 @@ Online documents:
  http://faculty.washington.edu/kerim/nomic/rkeep/current_flr.txt (FLR)
  http://faculty.washington.edu/kerim/nomic/rkeep/current_slr.txt (SLR)
 
-[[__TOC__]]
+[[_TOC_]]
 
 ----------------------------------------------------------------------
 
@@ -158,8 +158,9 @@ They are added at the Rulekeepor's discretion.
 The Game of Agora
 ----------------------------------------------------------------------
 
-Rule 101/17 (Power=3)
-The Game of Agora
+==Rule 101/17 The Game of Agora
+
+(Power=3)
 
       Agora is a game of Nomic, wherein Persons, acting in accordance
       with the Rules, communicate their game Actions and/or results of
